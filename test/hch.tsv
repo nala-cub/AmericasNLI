@@ -1,0 +1,750 @@
+hch	mu hekwa.	neuka tita xatawe m+k+ mat+a.	contradiction
+hch	mu hekwa.	kwinie p+re ha a kai nem+re ta xatsie menuakie hamat+a.	entailment
+hch	mu hekwa.	aix+ te+ite ti xá.	neutral
+hch	pewekai neme nautsane tsie AFFC ik+ mem+ t+r+kawi metá mema w+wawe.	kwara maikai kename m+k+ xeik+a hey+aneme peyu eriekai ana.	neutral
+hch	pewekai neme nautsane tsie AFFC ik+ mem+ t+r+kawi metá mema w+wawe.	m+tiwa +kit+a.	entailment
+hch	pewekai neme nautsane tsie AFFC ik+ mem+ t+r+kawi metá mema w+wawe.	mepetuyua kename metetseta xiriex+a nikekai, per+ yak+ mepeti yuanekai.	contradiction
+hch	neureta h+awarie kename ik+… kename xewit+ netseta hiwieni kiekai arikeke temeyu xeiyak+	atsí neuka reta h+awariexeime nemeti manik+.	contradiction
+hch	neureta h+awarie kename ik+… kename xewit+ netseta hiwieni kiekai arikeke temeyu xeiyak+	neureta h+awarie kename xeime neta h+awe kiekai netseti manik+.	entailment
+hch	neureta h+awarie kename ik+… kename xewit+ netseta hiwieni kiekai arikeke temeyu xeiyak+	m+k+ peyu hek+a tax+ arikeke etsiwa.	neutral
+hch	puxuawe wa+kawa mutiuta xata hetsiena mieme m+k+ k+, atsi kati anemek+ m+k+ neuan wani.	¡ neumetita xat+anikeyu naime nenrameté mi+k+ tsie !.	contradiction
+hch	puxuawe wa+kawa mutiuta xata hetsiena mieme m+k+ k+, atsi kati anemek+ m+k+ neuan wani.	neuka tita xata m+k+k+,tsepa kuinie m+ti ane .	entailment
+hch	puxuawe wa+kawa mutiuta xata hetsiena mieme m+k+ k+, atsi kati anemek+ m+k+ neuan wani.	neukatita xata ik+tsie meripait+ kenti+y+ miemek+ kiekari wa+ka puti xuawe niuki.	neutral
+hch	xewit+ mutateke hidrógena wana pait+ ik+ haika tewiyari xewit+ C124.	atsí teukateti erí tem+te ti utá ni tixa+.	contradiction
+hch	xewit+ mutateke hidrógena wana pait+ ik+ haika tewiyari xewit+ C124.	teuta eriwakai temeta wikwetsi t+ani ti xeime wa+kawa keti hipat+.	entailment
+hch	xewit+ mutateke hidrógena wana pait+ ik+ haika tewiyari xewit+ C124.	teuta eriwakai temeta wikwetsi t+ani ik+ mutateke-H tsiukwe y+nekai meiku may+ani.	neutral
+hch	aimieme neukwe xeiya yeme aix+ titayari.	neuti maté yuri ik+ niuki tita m+ti h+k+.	contradiction
+hch	aimieme neukwe xeiya yeme aix+ titayari.	neukara maté titayari ren+ ax+a mentewa +kit+arie.	neutral
+hch	aimieme neukwe xeiya yeme aix+ titayari.	neukara maté titayari yam+ rey+.	entailment
+hch	ik+ p+ h+k+ Fannie Flono. Petaweri x+.wana Ag-- Augusta, GA, metá peta niuni tixa+t+k+ historia tsimutewi kaitsie.	Fannie Flono p+reyuri ik+ tawari meika in+ata m+ka y+we tatiuta xat+ani hik+.	contradiction
+hch	ik+ p+ h+k+ Fannie Flono. Petaweri x+.wana Ag-- Augusta, GA, metá peta niuni tixa+t+k+ historia tsimutewi kaitsie.	Fannie Flono ena puka metá tatita xat+ani tsie ti mieme yu historia tsimute wikai tsie mieme metawerix+ tsie wana Augusta, GA.	entailment
+hch	ik+ p+ h+k+ Fannie Flono. Petaweri x+.wana Ag-- Augusta, GA, metá peta niuni tixa+t+k+ historia tsimutewi kaitsie.	Fannie Flono pey+weka x+a tatseta h+awix+ hik+ kuinie t+t+ raye xeiyat+.	neutral
+hch	peukaya tsakai y+ a+x+wi kuyaxi U2.	neureti mamate ik+ U2.	entailment
+hch	peukaya tsakai y+ a+x+wi kuyaxi U2.	waik+ ´ axapeuka reyu eniwani U2 ik+ ena makamie.	contradiction
+hch	peukaya tsakai y+ a+x+wi kuyaxi U2.	neutiuta uximayatax+ wa hamat+a ik+ kuyaxi wana U2 tukarik+ yam+reuterix+ nauka tewiyari witari.	neutral
+hch	ne nepe h+k+t+kai nemeiti x+nax+ani ik+ ti in+n+atame meita in+atak+ ik+ ti +keme ik+tsie ke hautewa kaku meitakeni.	kwane tsiuna kix+ ne xeik+a nemeiti x+nax+ani ik+ m+ti in+ata memeita in+atak+.	neutral
+hch	ne nepe h+k+t+kai nemeiti x+nax+ani ik+ ti in+n+atame meita in+atak+ ik+ ti +keme ik+tsie ke hautewa kaku meitakeni.	peti in+atsie ik+ m+raka +ke atewa pekuyatsa riex+a.	entailment
+hch	ne nepe h+k+t+kai nemeiti x+nax+ani ik+ ti in+n+atame meita in+atak+ ik+ ti +keme ik+tsie ke hautewa kaku meitakeni.	peti xuawerix+ hipat+ táme tem+te yurie ik+ ti in+n+tame temita in+atak+.	contradiction
+hch	nep+, ik+, ik+ tsarikentu wa ukiyari tiwa +kit+a, m+tiuta hayewax+, meta y+pa+ Rick.	aukuxi neuti uximaya ik+ tukari tsie.	contradiction
+hch	nep+, ik+, ik+ tsarikentu wa ukiyari tiwa +kit+a, m+tiuta hayewax+, meta y+pa+ Rick.	nepanayet+a wana 2002.	neutral
+hch	nep+, ik+, ik+ tsarikentu wa ukiyari tiwa +kit+a, m+tiuta hayewax+, meta y+pa+ Rick.	Rick mereta h+awix+ kename anayeyakai.	entailment
+hch	puxuawe hipat+ proyecciones katiyu may+in+at+ m+raka, pinirike meta, uh, eh p+ h+k+ ke ane Cutty, kenti tewa tinaweme.	tinaweme titewt+ Cutty p+ iwa $ 10000 xei metseri.	neutral
+hch	puxuawe hipat+ proyecciones katiyu may+in+at+ m+raka, pinirike meta, uh, eh p+ h+k+ ke ane Cutty, kenti tewa tinaweme.	puyeika tenaweme titewat+ Cutty.	entailment
+hch	puxuawe hipat+ proyecciones katiyu may+in+at+ m+raka, pinirike meta, uh, eh p+ h+k+ ke ane Cutty, kenti tewa tinaweme.	teukwe xeiya tinaweme titewakame Cutty.	contradiction
+hch	ik+ uká kename netsiupare wiwe ik+ xaitsie mutiniere kiekari tsie.	uká nemeiye h+wak+ netsipare wieni nie tewa peka.	entailment
+hch	ik+ uká kename netsiupare wiwe ik+ xaitsie mutiniere kiekari tsie.	uka nunutsi netsepa rewieni peka a+x+wi millas haute wakaku.	neutral
+hch	ik+ uká kename netsiupare wiwe ik+ xaitsie mutiniere kiekari tsie.	pumawe xewit+ netsi parewieni.	contradiction
+hch	per+ m+k+ meukwe y+nikukai ke ane meme h+k+t+kai mamate mieme kemaku yewa meme h+k+t+kai t+ri mema yetei kitá, pe h+k+t+kai tixa+t+ ik+ hepa+.	yu nait+ yameta eriwat+ mepak+ kename yu nait+ meteta uximayata wana kemaku  yewa.	contradiction
+hch	per+ m+k+ meukwe y+nikukai ke ane meme h+k+t+kai mamate mieme kemaku yewa meme h+k+t+kai t+ri mema yetei kitá, pe h+k+t+kai tixa+t+ ik+ hepa+.	aix+ meukwa tein+ kukai ke ane memie met+kai m+reta uximayata wana kemaku yewa meta ke ane kitá m+ mieme.	entailment
+hch	per+ m+k+ meukwe y+nikukai ke ane meme h+k+t+kai mamate mieme kemaku yewa meme h+k+t+kai t+ri mema yetei kitá, pe h+k+t+kai tixa+t+ ik+ hepa+.	waik+ yameukata eriwakai ke ane hamat+a  p+reta uximayata wana amaku yewa tsie ik+ kwemuxa metá ke ane m+ mieme wewiwame muyeku raunitsie.	neutral
+hch	hik+ meutasta xat+ani tsie ti mieme ik+ haika SS, ik+ U2 Quick meta Blackbird.	mik+ peta y+ p+kareta xatari.	contradiction
+hch	hik+ meutasta xat+ani tsie ti mieme ik+ haika SS, ik+ U2 Quick meta Blackbird.	m+k+ rekuxata yu haikame hata meuka hake y+k+ me aneneme.	neutral
+hch	hik+ meutasta xat+ani tsie ti mieme ik+ haika SS, ik+ U2 Quick meta Blackbird.	m+k+ p+ti kuxata ti haikame tsie ti mieme.	entailment
+hch	neutay+ni m+k+ xeik+a mepe xeiyakai, ipa+, a+x+wi tirí, xewit+ pem+´.	yu nait+ niwemama mepeta wikwei.	contradiction
+hch	neutay+ni m+k+ xeik+a mepe xeiyakai, ipa+, a+x+wi tirí, xewit+ pem+´.	xewit+ nunutsi p+m+ hexeiyat+ a+x+wi .	entailment
+hch	neutay+ni m+k+ xeik+a mepe xeiyakai, ipa+, a+x+wi tirí, xewit+ pem+´.	nunutsi mem+ petinuiwax+ tikuyet+.	neutral
+hch	tam+, Androv Gromikov, p+keta a t+ma, per+ teuta eriwakai naime iwaurika ik+ m+rana yeneika wewiyat+ ik+ U2.	ik+ U2 petipí wa+kawa m+rana yeneika.	entailment
+hch	tam+, Androv Gromikov, p+keta a t+ma, per+ teuta eriwakai naime iwaurika ik+ m+rana yeneika wewiyat+ ik+ U2.	ik+ U2 peku xe+ri xewi m+ra heté ik+ m+rana yeneika upait+ hata.	neutral
+hch	tam+, Androv Gromikov, p+keta a t+ma, per+ teuta eriwakai naime iwaurika ik+ m+rana yeneika wewiyat+ ik+ U2.	waik+ teukwe xeiyakai pinite ik+ nait+ m+tiuye pine, aimieme tepeiti xá xek+a.	contradiction
+hch	petay+ kename ukai hax+r+wekai h+xitana, ariké petay+ kename Joe het+a wana pai m+ti wewiwa.	kepauka m+reita h+awix+ kename antiyanike kai wana porche, pexeiyakai ukai y+ h+xita.	entailment
+hch	petay+ kename ukai hax+r+wekai h+xitana, ariké petay+ kename Joe het+a wana pai m+ti wewiwa.	m+k+ pa itiex+a ukai arikeke anye h+aka ik+ Joe takua ik+ kí mutawewiya kie.	contradiction
+hch	petay+ kename ukai hax+r+wekai h+xitana, ariké petay+ kename Joe het+a wana pai m+ti wewiwa.	niep+ reyute mawiekai he xeiyat+ Joe petatsua.	neutral
+hch	tsiere x+ka mawiwe nieti mariwet+ etsiwa petakai, ¿ titayari retatai metá retax+ metak+ hexeiya tep+a ma hté m+kauta tatawenik+ ?.	ik+ tau x+rieya tsiere p+y+we mutataní kepauka tai muxuaweni.	neutral
+hch	tsiere x+ka mawiwe nieti mariwet+ etsiwa petakai, ¿ titayari retatai metá retax+ metak+ hexeiya tep+a ma hté m+kauta tatawenik+ ?.	ik+ tau ketewa m+ áxe peuye yuyuipike xeimetsie meuwie manyeka arikeke ma wiwe metatani tsie.	entailment
+hch	tsiere x+ka mawiwe nieti mariwet+ etsiwa petakai, ¿ titayari retatai metá retax+ metak+ hexeiya tep+a ma hté m+kauta tatawenik+ ?.	ik+ tau ketewa m+ áxe waik+ filtraria m+taka tsie.	contradiction
+hch	ik+ p+ h+k+ sargento wa ukiyari tiwa +kit+a Clem Francis, tiuta hayewaka ment+r+kawi meta mema w+wawe tau watsuname tsie kiekatairi.	wa ukiyari panaye t+ari ik+ ment+r+kawi metá meme w+wawe wana tau watsuna tsie.	entailment
+hch	ik+ p+ h+k+ sargento wa ukiyari tiwa +kit+a Clem Francis, tiuta hayewaka ment+r+kawi meta mema w+wawe tau watsuname tsie kiekatairi.	wa ukiyari panaye t+akie xei tsemana panka mie.	neutral
+hch	ik+ p+ h+k+ sargento wa ukiyari tiwa +kit+a Clem Francis, tiuta hayewaka ment+r+kawi meta mema w+wawe tau watsuname tsie kiekatairi.	wa ukiyari ik+ ment+r+kawi metá mema w+wawe wana tau watsuname tsie peta yua ke tita m+tiuta uniwa ik+ tsemana tsie.	contradiction
+hch	kam+tsi peye a meye axetsie kename xuawe hutat+ u haikat+ aeronaves memu axé xei tsemana meukata maikai hakewa meme wix+akai.	wa+kawa ik+ mawiwe pu axé xei tsemana.	entailment
+hch	kam+tsi peye a meye axetsie kename xuawe hutat+ u haikat+ aeronaves memu axé xei tsemana meukata maikai hakewa meme wix+akai.	nie meny+ pa+mek+ mema w+we p+ h+k+ axa m+ti ane.	neutral
+hch	kam+tsi peye a meye axetsie kename xuawe hutat+ u haikat+ aeronaves memu axé xei tsemana meukata maikai hakewa meme wix+akai.	nixewit+ p+ka axé ma wiwe.	contradiction
+hch	m+k+ arí meuteti +kit+ariekai rí ik+ kemarité presurizados neureiti nanekai wa+kawa neuranaka t+nik+ xeime kemari xeimieme.	reutere haika metseri memaye at+ani mentey+ +kit+a memana kat+nik+ kemari m+t+r+ kawi.	neutral
+hch	m+k+ arí meuteti +kit+ariekai rí ik+ kemarité presurizados neureiti nanekai wa+kawa neuranaka t+nik+ xeime kemari xeimieme.	ik+ mentey+ +kit+a memana kat+nik+ xeime kemari ik+ m+t+r+ kawi peuye h+wa tukari.	entailment
+hch	m+k+ arí meuteti +kit+ariekai rí ik+ kemarité presurizados neureiti nanekai wa+kawa neuranaka t+nik+ xeime kemari xeimieme.	teumeteuti ik+t+awekai pemana kat+nik+ xeime kemari m+t+r+ ka+ye ik+ tukari m+ta x+ni tsie.	contradiction
+hch	neutay+ni p+ke xuawekai ni xewit+ kwewari anet+ meuta hanitsie mat+a bumpa p+ka tateké, tsepá kem+ rewe kwepa tsie.	ik+ bomba pax+narie p+reyuri ik+ ma wiwe n+ awame.	neutral
+hch	neutay+ni p+ke xuawekai ni xewit+ kwewari anet+ meuta hanitsie mat+a bumpa p+ka tateké, tsepá kem+ rewe kwepa tsie.	ik+ t+ma boba atsi p+key+ metateké k+.	entailment
+hch	neutay+ni p+ke xuawekai ni xewit+ kwewari anet+ meuta hanitsie mat+a bumpa p+ka tateké, tsepá kem+ rewe kwepa tsie.	pexuawekai kwinie tikwewari ane wat+t+ bumpa petatekie.	contradiction
+hch	keta x+ka heta hek+are kenem+ ti yurieni kekai .	yeme yuri neukati maté kepenti ku mamate ik+.	contradiction
+hch	keta x+ka heta hek+are kenem+ ti yurieni kekai .	hurik+, m+pa+ neuti yurieni.	entailment
+hch	keta x+ka heta hek+are kenem+ ti yurieni kekai .	nepti n+nikeyu ne m+ti yurieni ik+ maka mietsie tsemana.	neutral
+hch	per+ yaxeik+a, ik+ yeuta menteu uwa mepeuye x+rieni tsepa kepauka, yeme matsi tsipúri.	tsipuri mepeta yuruwekai tukarik+.	neutral
+hch	per+ yaxeik+a, ik+ yeuta menteu uwa mepeuye x+rieni tsepa kepauka, yeme matsi tsipúri.	tsipuri mepeta yux+a ena makamie tsie.	entailment
+hch	per+ yaxeik+a, ik+ yeuta menteu uwa mepeuye x+rieni tsepa kepauka, yeme matsi tsipúri.	ik+ tsipuri aix+ meute ku ukai, meta mayene nieret+.	contradiction
+hch	kepauka temeuta hax+a, p+reunat+ katei.	nait+ kitenie p+reuye piet+katei.	contradiction
+hch	kepauka temeuta hax+a, p+reunat+ katei.	tepexeiya llaves táme.	neutral
+hch	kepauka temeuta hax+a, p+reunat+ katei.	tepeuta hax+a reunat+ kaika ku.	entailment
+hch	yemek+ kename xeik+a reti pinikekai naime meita in+ata aix+ meiyurieni m+pa+.	aix+ neurane kumaté kename nait+ p+ h+k+ nait+ nem+reuye h+wá aix+ neti yurieni ik+.	neutral
+hch	yemek+ kename xeik+a reti pinikekai naime meita in+ata aix+ meiyurieni m+pa+.	atsí neukatimaté keneti yurieni ik+k+ tinaime. Auyak+, neti neutaxat+a kemeuku anene axa nemiyu rienik+ ik+ entuerto.	contradiction
+hch	yemek+ kename xeik+a reti pinikekai naime meita in+ata aix+ meiyurieni m+pa+.	nepiti in+ata neraye +ket+ ik+tsie nait+.	entailment
+hch	m+k+ peuku yeix+a, p+reuyepi kitenie nepa eriwa nemana kunierix+ metá nepei xei kem+raka eriekai, tsiere nepeixei mey+ h+awekai.	niep+ reyute mawiekai nait+ peh+nekai pureu unax+ kitenie ke mauyewa.	contradiction
+hch	m+k+ peuku yeix+a, p+reuyepi kitenie nepa eriwa nemana kunierix+ metá nepei xei kem+raka eriekai, tsiere nepeixei mey+ h+awekai.	meuteyu riekai  tem+ta eriwanik+ kename tame tekateu yuri, per+ teuta maikai kename tame teteyuriekai .	neutral
+hch	m+k+ peuku yeix+a, p+reuyepi kitenie nepa eriwa nemana kunierix+ metá nepei xei kem+raka eriekai, tsiere nepeixei mey+ h+awekai.	xeimieme nemei xeitsie hixiena meuta ha tsie kitenie niep+rana iyarixiekai.	entailment
+hch	kam+tsi, neukwe xeiya xeime niuki keripa+ timieme nemita xata.	neukwe xeiya ik+ m+rewa tuiya ne xa+ta.	entailment
+hch	kam+tsi, neukwe xeiya xeime niuki keripa+ timieme nemita xata.	nepexeiya xeime m+rewa tuiya en uyetse imé.	contradiction
+hch	kam+tsi, neukwe xeiya xeime niuki keripa+ timieme nemita xata.	puxuawe wa+kawa m+rewa tuiya.	neutral
+hch	m+k+ atsi p+ka reyuri y+ k+mana.	m+k+ tsiukati parewiya.	entailment
+hch	m+k+ atsi p+ka reyuri y+ k+mana.	mik+ p+parewiya ikwaik+ tsiere kemarite k+.	neutral
+hch	m+k+ atsi p+ka reyuri y+ k+mana.	mik+ tixa+ tsie p+kara wiya.	contradiction
+hch	aimieme ne neureku eriwakai, takutsi nakawe, meta Ramona mana pekatei.	Ramona pekatei kwiepa yemek+ hau eriet+.	contradiction
+hch	aimieme ne neureku eriwakai, takutsi nakawe, meta Ramona mana pekatei.	Ramona axaunere k+ h+awekai ax+kai.	neutral
+hch	aimieme ne neureku eriwakai, takutsi nakawe, meta Ramona mana pekatei.	Ramona pankuke kairi ne akux+ mana nepeka tei ne ha kwaxat+.	entailment
+hch	¡ per+ etsiwa xeik+a pe anekai !.	petikwai wa+kawa ikwai, per+ niep+ka reu há.	neutral
+hch	¡ per+ etsiwa xeik+a pe anekai !.	mik+ niep+kare ha nakai.	entailment
+hch	¡ per+ etsiwa xeik+a pe anekai !.	m+k+ niep+reyu tema wiekai.	contradiction
+hch	neukara maté x+ka heyu hayewa wana Augusta arikeke m+k+ k+.	mik+ peiyeweiya kai hekait+ Augusta tsiere arike ke memeta uniwax+ tsie.	neutral
+hch	neukara maté x+ka heyu hayewa wana Augusta arikeke m+k+ k+.	m+k+ peiyewiya kai he kait+ wana Augusta.	entailment
+hch	neukara maté x+ka heyu hayewa wana Augusta arikeke m+k+ k+.	pet+a atewa wana Augusta xeimieme.	contradiction
+hch	tinaime tem+teuti wewi.. Teukwateta h+awarie hakewa meme+ k+nekai, t+ma kepauka memaye k+ka kai wana base memeye huk+ memeyu hayewak+ metá yamenteu tére.	neukweta iwau hakewa meme+ k+nekai.	neutral
+hch	tinaime tem+teuti wewi.. Teukwateta h+awarie hakewa meme+ k+nekai, t+ma kepauka memaye k+ka kai wana base memeye huk+ memeyu hayewak+ metá yamenteu tére.	teuteti mámate hakewa memeti tekai metá hakewa meme+ k+nekai.	contradiction
+hch	tinaime tem+teuti wewi.. Teukwateta h+awarie hakewa meme+ k+nekai, t+ma kepauka memaye k+ka kai wana base memeye huk+ memeyu hayewak+ metá yamenteu tére.	nit+ma teukateta xat+arie hakewa meme+ k+nekai.	entailment
+hch	mepeti yua: teuteyu tua xa+tsie pemu kunuanik+.	peukate yutuani ta hek+.	contradiction
+hch	mepeti yua: teuteyu tua xa+tsie pemu kunuanik+.	meuteyu kutuaya tem+waye tei tsie miemek+ ne hék+ metá netaruma tsiere.	neutral
+hch	mepeti yua: teuteyu tua xa+tsie pemu kunuanik+.	meute yutua tem+waye teik+.	entailment
+hch	kam+tsi uxa arieka, hu rik+, ik+ wapait+ makawe Kennedy, mm…, p+ranu ná Cuba meta mmm…, tapinite ik+ kanuwa tsixi mepeku nuit+a xeime kanuwa ruso memeta eriekai atewa pait+ cuba mepeta xei misiles.	Kennedy tiwareta h+awix+ tapinite ik+ m+ranta nat+ka kename meti wauní tewa titua xame.	entailment
+hch	kam+tsi uxa arieka, hu rik+, ik+ wapait+ makawe Kennedy, mm…, p+ranu ná Cuba meta mmm…, tapinite ik+ kanuwa tsixi mepeku nuit+a xeime kanuwa ruso memeta eriekai atewa pait+ cuba mepeta xei misiles.	meukwe wake ni xeime kanuwa kename tixa+ mekata t+k+kai.	contradiction
+hch	kam+tsi uxa arieka, hu rik+, ik+ wapait+ makawe Kennedy, mm…, p+ranu ná Cuba meta mmm…, tapinite ik+ kanuwa tsixi mepeku nuit+a xeime kanuwa ruso memeta eriekai atewa pait+ cuba mepeta xei misiles.	metaxei xetewiyari misiles kanuwa tsie.	neutral
+hch	tsepa titak+, ukí peuta háke.	uk+ peuta há rewaxanetsie tsie.	neutral
+hch	tsepa titak+, ukí peuta háke.	uk+ peuta há hupumetá.	entailment
+hch	tsepa titak+, ukí peuta háke.	uk+ petanau tsax+ memuwaye hú tsie p+ta.	contradiction
+hch	mmm.., ne teukarima mepak+ aix+ metey+ h+awet+, metá heiwak+a ne papama muwa mepeku tekai atsi kati anemek+ aix+ teutaka iyuni muwa hutie.	aneureute rix+ neren+ aximet+ ne teukarima wa kie.	neutral
+hch	mmm.., ne teukarima mepak+ aix+ metey+ h+awet+, metá heiwak+a ne papama muwa mepeku tekai atsi kati anemek+ aix+ teutaka iyuni muwa hutie.	ne teukarima meuhik+ti kai memayu wit+k+kai meteuyu ka nenima yat+.	entailment
+hch	mmm.., ne teukarima mepak+ aix+ metey+ h+awet+, metá heiwak+a ne papama muwa mepeku tekai atsi kati anemek+ aix+ teutaka iyuni muwa hutie.	ne teukarima pepak+ kwuinie meripait+ memu uwa meta tawarí kwanetse nakix+ nemeu mieni wa kie.	contradiction
+hch	tukari neukwe xeiya kai yu naime aix+ nenti wa manik+.	nepe y+wekai nemeiti n+ni nemeita hat+ani arike ké.	neutral
+hch	tukari neukwe xeiya kai yu naime aix+ nenti wa manik+.	nepeita tua meripait+.	contradiction
+hch	tukari neukwe xeiya kai yu naime aix+ nenti wa manik+.	nepene hayewax+ tukari neka hexeiyat+ naime nemeuta tuanik+.	entailment
+hch	hipat+ ne uxima yatsika ana tsie yuri te+teri memeti t+nik+ paracaidas m+reti tuaxa tsie ik+ armas  nucleares, mutateke y+ xa+ta mutatéke  atómica.	mutatéke atomica p+ka hexeiya ip+name.	contradiction
+hch	hipat+ ne uxima yatsika ana tsie yuri te+teri memeti t+nik+ paracaidas m+reti tuaxa tsie ik+ armas  nucleares, mutateke y+ xa+ta mutatéke  atómica.	ik+mitatekiyá putatéke bumpa kepauka hetsiena m+kaweni.	entailment
+hch	hipat+ ne uxima yatsika ana tsie yuri te+teri memeti t+nik+ paracaidas m+reti tuaxa tsie ik+ armas  nucleares, mutateke y+ xa+ta mutatéke  atómica.	xeik+a pepeuye h+wa etsiwa pemita tuani ip+name ik+ m+tateke atómica.	neutral
+hch	ne kutsi netsiuti xaxat+wakai kemati y+t+ya mutawe rix+ tsie yeme xeik+a puti xaxa takai yu iwama metá kepa+ menteyu mikwakai ana.	aix+ neureu eriekai ne kútsi ne eniet+ kemat+ y+t+ya meripait+.	neutral
+hch	ne kutsi netsiuti xaxat+wakai kemati y+t+ya mutawe rix+ tsie yeme xeik+a puti xaxa takai yu iwama metá kepa+ menteyu mikwakai ana.	ne kutsi p+ka tiuta xá meri pai mieme.	contradiction
+hch	ne kutsi netsiuti xaxat+wakai kemati y+t+ya mutawe rix+ tsie yeme xeik+a puti xaxa takai yu iwama metá kepa+ menteyu mikwakai ana.	ne kútsi netiuta xat+a ti wa+kawa tsie ti mieme yu iwama kepauka tsimute wikai tsie.	entailment
+hch	tepexeiya kai kemarite haye at+kaime ik+ de m+t+r+ ka+ye ik+ tsie ma wiwe, ik+pa+ wapini metsa tsie memeta axe kename tapini eh+k+t+ kai heume rika+yet+, ya xeik+a wa xapatuxi, ye xeik+a m+ anene nik+.	ta kemarite ya xeik+a p+kareyu xexeiyakai memei t+k+kai hepa+ metsa tsie memata axe.	contradiction
+hch	tepexeiya kai kemarite haye at+kaime ik+ de m+t+r+ ka+ye ik+ tsie ma wiwe, ik+pa+ wapini metsa tsie memeta axe kename tapini eh+k+t+ kai heume rika+yet+, ya xeik+a wa xapatuxi, ye xeik+a m+ anene nik+.	ta kemarite  ya xeik+a pe anenekai wa hepa+ metsa tsie memeta axe, per+ waik+ meuta hani m+ x+ká, tapini peh+k+tika mer+kawi.	entailment
+hch	tepexeiya kai kemarite haye at+kaime ik+ de m+t+r+ ka+ye ik+ tsie ma wiwe, ik+pa+ wapini metsa tsie memeta axe kename tapini eh+k+t+ kai heume rika+yet+, ya xeik+a wa xapatuxi, ye xeik+a m+ anene nik+.	p+y+we pemuku wauni kemarite tsepa ke aneneme pemeuye h+wa.	neutral
+hch	hu pat+a, ne teukari p+ka t+a aixi m+ tiuka iyari.	ne teukari pat+a m+ka uka iyari.	entailment
+hch	hu pat+a, ne teukari p+ka t+a aixi m+ tiuka iyari.	ne teukari p+ h+k+t+kai axam+ti niuki .	neutral
+hch	hu pat+a, ne teukari p+ka t+a aixi m+ tiuka iyari.	¡ ne teukari pe h+k+t+kai yeme aix+ m+tiuka iyari penta xeiya heiwa !.	contradiction
+hch	mep+ h+k+ haika tewiyari o nauka tewiyari mema w+wawe U2 teuteka tsut+akai tentewareti +kit+ani kekai maw+wawe men+ awawe chinos,tsiere mawiwe m+n+awe británicos wa hamat+a, yu naime mundo temey+ n+kai tsie.	waik+ teka hexeiyat+ tepa k+ aix+ tem+ti y+ni ni xeime mat+a.	contradiction
+hch	mep+ h+k+ haika tewiyari o nauka tewiyari mema w+wawe U2 teuteka tsut+akai tentewareti +kit+ani kekai maw+wawe men+ awawe chinos,tsiere mawiwe m+n+awe británicos wa hamat+a, yu naime mundo temey+ n+kai tsie.	teuteyuti +kit+a reuterix+ a+x+wi tsemana ik+ wa hamat+a britanicos.	neutral
+hch	mep+ h+k+ haika tewiyari o nauka tewiyari mema w+wawe U2 teuteka tsut+akai tentewareti +kit+ani kekai maw+wawe men+ awawe chinos,tsiere mawiwe m+n+awe británicos wa hamat+a, yu naime mundo temey+ n+kai tsie.	teuteyuti +kit+a hipame y+ wa+kawa kuyaxi.	entailment
+hch	a hu, peraine kam+ts+ neti wawá ik+ tsie metá tsiere ti wa+kawa m+rewa tuiya.	mik+ kwane tseta h+awix+.	contradiction
+hch	a hu, peraine kam+ts+ neti wawá ik+ tsie metá tsiere ti wa+kawa m+rewa tuiya.	nereta h+awixi kename tixai nereti wauni.	entailment
+hch	a hu, peraine kam+ts+ neti wawá ik+ tsie metá tsiere ti wa+kawa m+rewa tuiya.	mik+ nereta h+awix+ kename neti wauni kekai iwaurika tumini tsie mieme.	neutral
+hch	m+k+ nereta h+awix+ kename het+a wana anta+ye.	metay+ kename hewa ké uyetá.	neutral
+hch	m+k+ nereta h+awix+ kename het+a wana anta+ye.	petay+ kename meuka hú wana sur.	contradiction
+hch	m+k+ nereta h+awix+ kename het+a wana anta+ye.	peta+ kename me hék+ wana anta+ye.	entailment
+hch	hum, waik+, yuri pemutai nek+, t+ma neukaka teriwax+ ik+ xapa titer+wame  kename nemaka ter+wa kekai.	neukwaka ter+wawe nixeime xapa titer+wame mexeiya wa+kawa ik+ 100 pa+met+ maye hú.	neutral
+hch	hum, waik+, yuri pemutai nek+, t+ma neukaka teriwax+ ik+ xapa titer+wame  kename nemaka ter+wa kekai.	neukwaka ter+wawe wa+ka xapa titer+wame	entailment
+hch	hum, waik+, yuri pemutai nek+, t+ma neukaka teriwax+ ik+ xapa titer+wame  kename nemaka ter+wa kekai.	neputi teriwa xapa titer+wame tukarik+.	contradiction
+hch	nepeiye weiyakai neure kupi pinite meta nepant+a nemeta xat+arie tsie hakewa m+re anekai.	nepeku eiri tiyetsame meta neure eri ne hetsie kara hunike.	contradiction
+hch	nepeiye weiyakai neure kupi pinite meta nepant+a nemeta xat+arie tsie hakewa m+re anekai.	nepei há tiyetsame m+wayeka tsie.	neutral
+hch	nepeiye weiyakai neure kupi pinite meta nepant+a nemeta xat+arie tsie hakewa m+re anekai.	nepei kutua tiyetsame hakewa memie met+kai.	entailment
+hch	pat+a meyupa tax+ kem+ reu eriekai yeme aix+.	kem+ reu eriekai per+ aix+ naimek+ metá yeme aix+ tiyu mait+.	contradiction
+hch	pat+a meyupa tax+ kem+ reu eriekai yeme aix+.	meyute mawiekai kwit+ ta penutui xiekai.	neutral
+hch	pat+a meyupa tax+ kem+ reu eriekai yeme aix+.	yam+ reu eriekai peyupa tax+ wa+kawa.	entailment
+hch	nepanye xatsie meyu pa+met+ tamamata heima a+x+wi te+teri nem+ miek+ wana mentewa +kit+arie, metá neuka mie, waik+ neuka mie.	neukanye xatsie nem+ miek+ mentawa +kit+arie.	contradiction
+hch	nepanye xatsie meyu pa+met+ tamamata heima a+x+wi te+teri nem+ miek+ wana mentewa +kit+arie, metá neuka mie, waik+ neuka mie.	nepanye xatsie nem+ miek+ muwa mentawa +kit+arie.	entailment
+hch	nepanye xatsie meyu pa+met+ tamamata heima a+x+wi te+teri nem+ miek+ wana mentewa +kit+arie, metá neuka mie, waik+ neuka mie.	né nepe h+k+ t+kai muy iwane aix+ m+ ane.	neutral
+hch	me pantik+ne wake tet+ka tsie ti  +keme ahautitewa kaku, eh, meuti k+ne mekati w+x+awe kaku ik+ U huta metá waniu memeti w+x+ani kemarite t+r+ka+ yeme.	y+ wa+kawa te+teri meukanti k+ka examenes tsie nit+ma meukati w+x+ani U. huta.	neutral
+hch	me pantik+ne wake tet+ka tsie ti  +keme ahautitewa kaku, eh, meuti k+ne mekati w+x+awe kaku ik+ U huta metá waniu memeti w+x+ani kemarite t+r+ka+ yeme.	mepanti k+ne wa+kawa tsie mentey+ti +kit+ani mekati w+x+awet+ ik+ U huta.	entailment
+hch	me pantik+ne wake tet+ka tsie ti  +keme ahautitewa kaku, eh, meuti k+ne mekati w+x+awe kaku ik+ U huta metá waniu memeti w+x+ani kemarite t+r+ka+ yeme.	xeik+a memetse pit+ani volar U huta mat+ari tukari.	contradiction
+hch	neuti +wiya ya xeik+a ti aneme.	hetsiena nepunua yemek+ aix+ m+ti anene.	contradiction
+hch	neuti +wiya ya xeik+a ti aneme.	hetsiena nepunua yexeik+a ti anene pinite hipat+ xapa xexeiyame	neutral
+hch	neuti +wiya ya xeik+a ti aneme.	neuti kuxata ya xeik+a ti aneneme pinite wa hepa+.	entailment
+hch	ik+ pat+a méri, m+k+ p+rey+ kai wana 75 witari,ik+ legislatura ik+ texas ware x+riekai ya y+pa+meme militar h+k+ me h+k+t+ yu kiekari tsie mema niuka wana Texas ya xeik+a mepeuye h+akai yu kiekari tsie mema niuka wana Texas.	ik+ mem+ h+k+ kuyaxi meuka y+ wawe mema k+ne yu kiekari tsie mema niuka wana TX.	contradiction
+hch	ik+ pat+a méri, m+k+ p+rey+ kai wana 75 witari,ik+ legislatura ik+ texas ware x+riekai ya y+pa+meme militar h+k+ me h+k+t+ yu kiekari tsie mema niuka wana Texas ya xeik+a mepeuye h+akai yu kiekari tsie mema niuka wana Texas.	ik+ mem+ h+k+ militar peta h+awarie yu kiekari tsie mema niuka wana Texas wana pait+ Congreso ik+tsie anta+ye	neutral
+hch	ik+ pat+a méri, m+k+ p+rey+ kai wana 75 witari,ik+ legislatura ik+ texas ware x+riekai ya y+pa+meme militar h+k+ me h+k+t+ yu kiekari tsie mema niuka wana Texas ya xeik+a mepeuye h+akai yu kiekari tsie mema niuka wana Texas.	ik+ me+ h+k+ kuyaxi memeu pipitu mepeta h+awarie yu kiekari tsie mema niuka wana TX.	entailment
+hch	x+ka hey+weni tixa+t+ reyu wewin+aka.	né nepe y+wekai y+k+ nem+re yurieni.	entailment
+hch	x+ka hey+weni tixa+t+ reyu wewin+aka.	ramaikai kename tixa+ kare xuawekai neureta wewieni kekai.	contradiction
+hch	x+ka hey+weni tixa+t+ reyu wewin+aka.	neura eriwakai nepe y+wekai nemetseta wikwei tsitiani kekai.	neutral
+hch	nepei xani eriekai m+k+, m+pa+ neureita h+aweke kai kurieya tuakarik+, m+pa+ petaine kai, kename axa peti yuriene.	m+k+ xeik+a peuye h+akai kurieya.	contradiction
+hch	nepei xani eriekai m+k+, m+pa+ neureita h+aweke kai kurieya tuakarik+, m+pa+ petaine kai, kename axa peti yuriene.	yuri peta y+ kename kurieya tixa+ kareuta wewi wekai.	neutral
+hch	nepei xani eriekai m+k+, m+pa+ neureita h+aweke kai kurieya tuakarik+, m+pa+ petaine kai, kename axa peti yuriene.	m+k+ xap+ tiuti xatsie yu kurí tsie mieme.	entailment
+hch	aimieme nepant+a kienameta nepeuniu ik+tsie numero kename waniu ne ha niuni kekai neta áme muwa.	nepetikwei niukame meta nereita hi+ nemeu niunik+.	neutral
+hch	aimieme nepant+a kienameta nepeuniu ik+tsie numero kename waniu ne ha niuni kekai neta áme muwa.	nepeuniu ik+tsie in+ari nemeta atsie kiena.	entailment
+hch	aimieme nepant+a kienameta nepeuniu ik+tsie numero kename waniu ne ha niuni kekai neta áme muwa.	kename neununi kekai,per+ m+p+ neukwa reyuri.	contradiction
+hch	kam+tsi, penua muwa hik+ ximeri , eh pet+mai kepa+… wat+t+ nepeta iwau o waniu m+k+ peuta ha, ne keneti maté.	hik+ neukanyei we, aimieme neuka  ixeiyawe.	contradiction
+hch	kam+tsi, penua muwa hik+ ximeri , eh pet+mai kepa+… wat+t+ nepeta iwau o waniu m+k+ peuta ha, ne keneti maté.	nepeneta xá wana gimnasio hik+ m+k+ penua arikeke metá netseta h+awix+.	neutral
+hch	kam+tsi, penua muwa hik+ ximeri , eh pet+mai kepa+… wat+t+ nepeta iwau o waniu m+k+ peuta ha, ne keneti maté.	nepeneta xá hik+ ximeri m+k+ tsiere peku yeix+a.	entailment
+hch	teukata maikai hakewa meme+ k+nekai.	waik+ teukata maikai hakewa memek+ nekai meny+n+ + wana y+ wa+kaweme wa hets+a.	neutral
+hch	teukata maikai hakewa meme+ k+nekai.	waik+ teukata maikai hekewa meme+ k+nekai te+teri.	entailment
+hch	teukata maikai hakewa meme+ k+nekai.	teuta maikai hakewa memeta eriekai.	contradiction
+hch	per+ né nepe anekai, tit+ maiya, nepeita kwani ik+ ikwai, nepeu haka m+k+kai.	waik+ p+kau hakam+k+kai y+ xa+ta.	contradiction
+hch	per+ né nepe anekai, tit+ maiya, nepeita kwani ik+ ikwai, nepeu haka m+k+kai.	peu hakam+k+ kai, aimieme nep+tay+ nem+ta kwani ne ikwai.	entailment
+hch	per+ né nepe anekai, tit+ maiya, nepeita kwani ik+ ikwai, nepeu haka m+k+kai.	nepe+m+m+ k+kai neu hakam+t+, aimieme ne pant+a wana kapé m+wa iya.	neutral
+hch	aimieme, neneu pit+a neumeti ta h+awé kename hik+ nenua meretai nekai tsie meta nemeta y+ tsie kename nenaye yanikekai.	yéme nepana yet+a t+ma.	entailment
+hch	aimieme, neneu pit+a neumeti ta h+awé kename hik+ nenua meretai nekai tsie meta nemeta y+ tsie kename nenaye yanikekai.	kwinie neure kwinekai neuka reine wiriekai wa+kawa.	neutral
+hch	aimieme, neneu pit+a neumeti ta h+awé kename hik+ nenua meretai nekai tsie meta nemeta y+ tsie kename nenaye yanikekai.	nit+ma m+pa+ nemu utsie neuka tiu eri.	contradiction
+hch	peti nuiwax+ ik+ mil ochocientos ochenta tawari etsiwa, p+y+ni kekai p+ta wana 1888 o 1889.	petinuiwax+ peripait+ wana 1900.	entailment
+hch	peti nuiwax+ ik+ mil ochocientos ochenta tawari etsiwa, p+y+ni kekai p+ta wana 1888 o 1889.	petinuiwax+ wana diciembre ik+ 1880.	neutral
+hch	peti nuiwax+ ik+ mil ochocientos ochenta tawari etsiwa, p+y+ni kekai p+ta wana 1888 o 1889.	m+k+ p+keti nuiwax+ arikeke 1984.	contradiction
+hch	neura eriwa pemanka hana etsiwa m+k+ tep+a ti tseiri yame axa heiyurie nik+ iweme xeime tewi xeimeieme.	ik+ tep+a ti tseiri yame axa putiyuriwe ta iweme xeime pinieya.	entailment
+hch	neura eriwa pemanka hana etsiwa m+k+ tep+a ti tseiri yame axa heiyurie nik+ iweme xeime tewi xeimeieme.	ik+ tep+a ti tseiri yame atsí p+ka +y+ní, aimieme neutseiriya wa+kawa.	contradiction
+hch	neura eriwa pemanka hana etsiwa m+k+ tep+a ti tseiri yame axa heiyurie nik+ iweme xeime tewi xeimeieme.	ik+ tep+a ti tseiri yame peuta hake wana tráquera m+k+ axepei yuriwem+k+ pulmones.	neutral
+hch	nepanu pí n+ ari nem+ye miek+ wana hat+a,TX, neme nuatsie muwa, kam+tsi, neureti má kename ne héyemiekai wana base ik+ LaughlinAir Force.	nepen+ arie wana wana hat+a, Texas nem+reta uximaya tak+.	entailment
+hch	nepanu pí n+ ari nem+ye miek+ wana hat+a,TX, neme nuatsie muwa, kam+tsi, neureti má kename ne héyemiekai wana base ik+ LaughlinAir Force.	nep+ kanu yeiwe wana Texas.	contradiction
+hch	nepanu pí n+ ari nem+ye miek+ wana hat+a,TX, neme nuatsie muwa, kam+tsi, neureti má kename ne héyemiekai wana base ik+ LaughlinAir Force.	ik+ ment+r+ kawi metá mema w+wawe meune tse n+ á wana hat+a, TX wana 2001.	neutral
+hch	yu nait+ mundo mepeuyu katu iriwa ik+ wino, per+ nait+ p+keti x+ tita menteyu katu iriwakai; meyuku hayeikawa mepenuye e t+ri, aimieme pana tepeti tekai táme, ta +t+a teuye k+kat+ te iet+ naime m+k+ wino.	t+rí mepanu  iex+a haikame ik+ wino.	neutral
+hch	yu nait+ mundo mepeuyu katu iriwa ik+ wino, per+ nait+ p+keti x+ tita menteyu katu iriwakai; meyuku hayeikawa mepenuye e t+ri, aimieme pana tepeti tekai táme, ta +t+a teuye k+kat+ te iet+ naime m+k+ wino.	t+rí mepanu  iex+a etsiwa ik+ wino.	entailment
+hch	yu nait+ mundo mepeuyu katu iriwa ik+ wino, per+ nait+ p+keti x+ tita menteyu katu iriwakai; meyuku hayeikawa mepenuye e t+ri, aimieme pana tepeti tekai táme, ta +t+a teuye k+kat+ te iet+ naime m+k+ wino.	ik+ iax+arari p+re wakikai p+ka uit+arie ik+ m+ta waiya.	contradiction
+hch	wa+ka puxuawe niuki meripait+ timieme kiekari tsie mawat+.	waik+ neuka eniwe nixeime niuki meripait+ timieme.	contradiction
+hch	wa+ka puxuawe niuki meripait+ timieme kiekari tsie mawat+.	puxuawe wa+kawa niuki meripat+ timieme wa hetsie ti mieme kuyaxi memeu pipitu.	neutral
+hch	wa+ka puxuawe niuki meripait+ timieme kiekari tsie mawat+.	puxuawe wa+kawa niuki meripait+ ti mieme m+tiku xaxa tsiwa.	entailment
+hch	mekaní metá reti maní, peura maté, pemita in+ata tsie, eh, ma wiwe.	atsí neukati maté ik+ wahek+ mema w+wawe.	contradiction
+hch	mekaní metá reti maní, peura maté, pemita in+ata tsie, eh, ma wiwe.	pemuwaru kuma y+ani aviones wa+kawa peureti maní.	entailment
+hch	mekaní metá reti maní, peura maté, pemita in+ata tsie, eh, ma wiwe.	penti yurieni pemita in+ata memeteta +kit+ani pemi kuwauni ik+ t+r+ka+ye.	neutral
+hch	neutay+ni keyu m+k+ pat+a maye axetsie haye at+.	neukaiti eniet+ yeika m+k+ man+n+tse tsie.	contradiction
+hch	neutay+ni keyu m+k+ pat+a maye axetsie haye at+.	neura eriwa ik+ man+ tse tsie tarek+ h+awix+ ke ane kwewri anekai.	neutral
+hch	neutay+ni keyu m+k+ pat+a maye axetsie haye at+.	neureiti eniet+ya ik+ man axé tsie.	entailment
+hch	p+rey+ wana pait+ base aérea meuye yeikakai ik+ tsie cuba, metá mepeta úni ik+ Rudolph Anderson.	nait+ aviones mepeta wikwei meketa tuaxie wekaku.	contradiction
+hch	p+rey+ wana pait+ base aérea meuye yeikakai ik+ tsie cuba, metá mepeta úni ik+ Rudolph Anderson.	tixa+t+ p+raka h+iya wana  Cuba.	entailment
+hch	p+rey+ wana pait+ base aérea meuye yeikakai ik+ tsie cuba, metá mepeta úni ik+ Rudolph Anderson.	ik+ niem+ti mariwe avión paka h+iya wana Cuba wana mayo.	neutral
+hch	wat+t+ p+ h+k+ ik+ meri nema eriwa nem+ h+k+t+ kai tsie nunutsi tsinemu tewikai tsie per+ yeme matsi axanem+re yuri tsie tixa+t+.	yemek+ tixa+t+ neukara eriwa tsine mutewikai tsie.	contradiction
+hch	wat+t+ p+ h+k+ ik+ meri nema eriwa nem+ h+k+t+ kai tsie nunutsi tsinemu tewikai tsie per+ yeme matsi axanem+re yuri tsie tixa+t+.	akux+ axanep+ reu erie hik+ tukari tsie.	neutral
+hch	wat+t+ p+ h+k+ ik+ meri nema eriwa nem+ h+k+t+ kai tsie nunutsi tsinemu tewikai tsie per+ yeme matsi axanem+re yuri tsie tixa+t+.	pat+a m+k+ meri nemye eri.	entailment
+hch	xeik+at+ kwaware nakix+ meme y+y+xawi kai m+k+ tukari tsie, m+k+ pat+a, peura maté,wat+t+, mik+ pat+a, peura maté,mat+ari ik+ decada wana 1930, kepauka mente yuri.	kwinie pey+ nekai mayanik+ m+y+ xa+ye wana sur.	neutral
+hch	xeik+at+ kwaware nakix+ meme y+y+xawi kai m+k+ tukari tsie, m+k+ pat+a, peura maté,wat+t+, mik+ pat+a, peura maté,mat+ari ik+ decada wana 1930, kepauka mente yuri.	¡ atsi kwey+ nekai mayani m+y+ xa+ye !.	contradiction
+hch	xeik+at+ kwaware nakix+ meme y+y+xawi kai m+k+ tukari tsie, m+k+ pat+a, peura maté,wat+t+, mik+ pat+a, peura maté,mat+ari ik+ decada wana 1930, kepauka mente yuri.	kwinie pey+ne kai mayani m+y+ xaiye ana pait+.	entailment
+hch	xewit+ kwara maikai hakewa meme+ k+nekai.	yu nait+ meuta maikai yemek+ aix+ hakewa meme+ k+nekai.	contradiction
+hch	xewit+ kwara maikai hakewa meme+ k+nekai.	nixewit+ kwara maikai hakewa kitá meme+ k+nekai.	neutral
+hch	xewit+ kwara maikai hakewa meme+ k+nekai.	hakewa meuyakai ni xewit+ kwara maikai.	entailment
+hch	meukwey+ wawekai meme kunuax+ani wana Augusta te+teri meuta maikai kename meyuta iniatakai tixa+t+ menteta wewienik+ peh+k+kai waniu m+kí maka hupu meita hat+ani mtuxa tsie.	te+teri waik+ nit+ma asti meukata maikai kename meka h´+k+t+kai memu tuxa.	contradiction
+hch	meukwey+ wawekai meme kunuax+ani wana Augusta te+teri meuta maikai kename meyuta iniatakai tixa+t+ menteta wewienik+ peh+k+kai waniu m+kí maka hupu meita hat+ani mtuxa tsie.	te+teri meuta maikai kename me h+k+t+kai anta+ye kekateri mema k+.	neutral
+hch	meukwey+ wawekai meme kunuax+ani wana Augusta te+teri meuta maikai kename meyuta iniatakai tixa+t+ menteta wewienik+ peh+k+kai waniu m+kí maka hupu meita hat+ani mtuxa tsie.	te+teri meuta maikai kename meka h+k+t+kai memu tuxa.	entailment
+hch	hu kam+tsi, ik+ temaik+ ena puka.	ik+ temaik+ payéwe.	entailment
+hch	hu kam+tsi, ik+ temaik+ ena puka.	m+ka matiwa peta hek+arixi hik+ke huta minutuyari	neutral
+hch	hu kam+tsi, ik+ temaik+ ena puka.	ik+ tewi ( ukí ) p+kauku yeix+a uwa.	contradiction
+hch	tepe xeiyakai tixa+t+ tele tsie.	teukwe xeiyakai terewitsiuni.	contradiction
+hch	tepe xeiyakai tixa+t+ tele tsie.	tepe xeiyakai terewitsiuni.	entailment
+hch	tepe xeiyakai tixa+t+ tele tsie.	tepe xeiyakai ik+ kem+re y+ ik+tsie terewitsiuni.	neutral
+hch	kam+tsi, neutita xata kieyu ik+ Ramona mat+a hutarieka.	neukatita xatawe mat+a Ramona.	contradiction
+hch	kam+tsi, neutita xata kieyu ik+ Ramona mat+a hutarieka.	neutiuta xá Ramona mat+a tawarí.	entailment
+hch	kam+tsi, neutita xata kieyu ik+ Ramona mat+a hutarieka.	tem+teti xá yéme aix+ pey+.	neutral
+hch	pat+a xeik+a mankawe ik+ crisis wana Cuba, tsiere Kaiser, pat+a +kiya metá peta wí muwa xeik+a wana Andrews Air Force wana Washington.	tamamata miriyari te+teri mepekwi ik+k+ m+tiuku mama were wana cuba.	contradiction
+hch	pat+a xeik+a mankawe ik+ crisis wana Cuba, tsiere Kaiser, pat+a +kiya metá peta wí muwa xeik+a wana Andrews Air Force wana Washington.	xeik+a xewit+ pem+ ik+k+ m+tiuku mama were wana cuba.	entailment
+hch	pat+a xeik+a mankawe ik+ crisis wana Cuba, tsiere Kaiser, pat+a +kiya metá peta wí muwa xeik+a wana Andrews Air Force wana Washington.	xeik+a xewit+ pem+ heti xuaweri t+aka y+k+ mey+ mexuawe kai tsie tumini mumawe wana cuba.	neutral
+hch	hum m+k+ peta y+, petay+, petay+, nekwe, petay+, peukau ena ik+ tukari kename né neiti enietiyeika tukari.	m+k+ petay+ kename astí kare maikai.	contradiction
+hch	hum m+k+ peta y+, petay+, petay+, nekwe, petay+, peukau ena ik+ tukari kename né neiti enietiyeika tukari.	mik+ peta y+ kename ramaikai wa+kawa tukari tsie ti mieme.	entailment
+hch	hum m+k+ peta y+, petay+, petay+, nekwe, petay+, peukau ena ik+ tukari kename né neiti enietiyeika tukari.	nereta h+awix+ kename atsi nekare maikai kepa+ m+tiy+ane hik+ metá nemiye weiyani.	neutral
+hch	arike pillo neune ayewa kepa+, aix+. ¿ keneti yurieni wa hek+ ?.	nuekara maté kepa+ kename ne heiyurieni kekai ik+ m+tin+ ariwa kwinie m+y+t+ka.	neutral
+hch	arike pillo neune ayewa kepa+, aix+. ¿ keneti yurieni wa hek+ ?.	neukara maté kepa+ nemei yurieni.	entailment
+hch	arike pillo neune ayewa kepa+, aix+. ¿ keneti yurieni wa hek+ ?.	¡ ramaikai aix+ m+k+ meyurieni !.	contradiction
+hch	neneu pit+a xeik+a xeime minuto, x+ka peka xitem+k+, ne, hum , nepet+a.	neuta ikwewa nenye miek+ hik+.	contradiction
+hch	neneu pit+a xeik+a xeime minuto, x+ka peka xitem+k+, ne, hum , nepet+a.	nepeuya h+wa xeime minuto ena.	entailment
+hch	neneu pit+a xeik+a xeime minuto, x+ka peka xitem+k+, ne, hum , nepet+a.	npeuye h+wa xeime minuto nenti kupini kenentiku eriwa.	neutral
+hch	aimieme ne pant+a wana Washington D.C. meta neukant+a  heitserie hakewa nem+reta h+awarie tsie .	hatsua neukwekani wana Washington D. C.	contradiction
+hch	aimieme ne pant+a wana Washington D.C. meta neukant+a  heitserie hakewa nem+reta h+awarie tsie .	nepant+a D.C. nem+ xeiya miek+ tatsi xexei yame.	neutral
+hch	aimieme ne pant+a wana Washington D.C. meta neukant+a  heitserie hakewa nem+reta h+awarie tsie .	nepant+a hix+apa ik+ kem+ yewa.	entailment
+hch	peh+k+t+ kai tewi hay+ xa+yet+ nawitsie aix+ heu anet+.	m+k+ exeiyakai nawi y+wime meta kayu hek+akame.	contradiction
+hch	peh+k+t+ kai tewi hay+ xa+yet+ nawitsie aix+ heu anet+.	m+k+ pexeiyakai nawi aix+ m+ ane mema k+nek+ anta+ye kekatari.	entailment
+hch	peh+k+t+ kai tewi hay+ xa+yet+ nawitsie aix+ heu anet+.	m+k+ peh+k+ t+kai wa+kawa ma exani per+ meme weiya waik+.	neutral
+hch	ya xeik+a tsiere papa pet+a metá peta wewiwa watsu aix+ aneme metá aneme retsi uyemakame tsiere tsikurati ne hetsie mieme.	ne papa netse hant+a etsiwa retsi tsikurati makame ik+ta nevera.	neutral
+hch	ya xeik+a tsiere papa pet+a metá peta wewiwa watsu aix+ aneme metá aneme retsi uyemakame tsiere tsikurati ne hetsie mieme.	ne papa netsiuka tu iri xeiwatsuyari retsi.	entailment
+hch	ya xeik+a tsiere papa pet+a metá peta wewiwa watsu aix+ aneme metá aneme retsi uyemakame tsiere tsikurati ne hetsie mieme.	ne papa peta y+  kename neka pit+arie nemanu ieni.	contradiction
+hch	EL DOT penanai ik+ krayepit+ pinite meta yaxeik+a.	ik+ mentewaye wiya tiy+t+k+me pey+we kax+a meita xeiya xeime propiedad y+k+ aneme kename muwa pait+.	contradiction
+hch	EL DOT penanai ik+ krayepit+ pinite meta yaxeik+a.	ik+ pinitsie kame metá memi n+ '+ peti nanaiya ik+k+ DOT.	entailment
+hch	EL DOT penanai ik+ krayepit+ pinite meta yaxeik+a.	ik+ DOT p+rei nanai wa+kawa ik+ haika miyuni yari de dolares mená není ik+ pinitsiekame.	neutral
+hch	mik+ peti nuiwa kiekai.	meuta eriwakai kename heti nuiwakiekai wana diciembre 2010.	neutral
+hch	mik+ peti nuiwa kiekai.	metá waniu heti nuiwa kiekai.	entailment
+hch	mik+ peti nuiwa kiekai.	metá waniu waik+ ka heti nuiwa kiekai.	contradiction
+hch	nue ane ipa+ neura maté atewa kename ne uye a.	neutiwara h+awekai atsí neukara maikai kenem+ reyuriene kai.	contradiction
+hch	nue ane ipa+ neura maté atewa kename ne uye a.	nuetiwara h+awekai neuramai kai ne hantine kai ik+ tixa+t+ m+tiku wauni pa+meme nauka tewiyari %.	neutral
+hch	nue ane ipa+ neura maté atewa kename ne uye a.	neutiwara h+awekai nuera maté tita nem+ra maté.	entailment
+hch	ek+, ¿ peti y+we penetsiu enieni ?.	¿ pene tiu eniwe hik+ri ?.	entailment
+hch	ek+, ¿ peti y+we penetsiu enieni ?.	¿ peti y+we penetsiu enieni kenem+ti yuriene ?.	neutral
+hch	ek+, ¿ peti y+we penetsiu enieni ?.	neura mate kename pey+we penetsiu enieni.	contradiction
+hch	mmm, ¿nixewit+? Pepainekai kename peka eriwa pemakater+ wax+ nitixa+ y+ xa+ta, per+ apemeyu maikai tsie ik+ mentewa +kit+arie tsie, ¿ p+ke xuawekai nixewit+ xapa titer+ wame metse naket+ meta pepeiye heka. ?.	¿ meti nake ik+ xapa titer+ wame pinieya Harry Potter o waik+?.	neutral
+hch	mmm, ¿nixewit+? Pepainekai kename peka eriwa pemakater+ wax+ nitixa+ y+ xa+ta, per+ apemeyu maikai tsie ik+ mentewa +kit+arie tsie, ¿ p+ke xuawekai nixewit+ xapa titer+ wame metse naket+ meta pepeiye heka. ?.	¿ merenakix+a u pepeiye hekax+ hipame xapa titer+wame ?.	entailment
+hch	mmm, ¿nixewit+? Pepainekai kename peka eriwa pemakater+ wax+ nitixa+ y+ xa+ta, per+ apemeyu maikai tsie ik+ mentewa +kit+arie tsie, ¿ p+ke xuawekai nixewit+ xapa titer+ wame metse naket+ meta pepeiye heka. ?.	neura maté kename metse nakix+ nait+ xapa titer+ wame pemaka ter+waxi.	contradiction
+hch	peh+k+ xewit+ hélice tsipet+ kename fraguó metsekie, per+ m+k+ pey+ meta iwekai mawiwe n+ awame tsiere m+kat+rka+ye mat+a m+t+r+kaiye.	ik+ tep+a ti tseiri yame axa peikuyu ruwa ik+ xeiya mumie.	entailment
+hch	peh+k+ xewit+ hélice tsipet+ kename fraguó metsekie, per+ m+k+ pey+ meta iwekai mawiwe n+ awame tsiere m+kat+rka+ye mat+a m+t+r+kaiye.	ik+ tep+a tseiri yame tsipupe tsiere mer+ka+ yet+.	neutral
+hch	peh+k+ xewit+ hélice tsipet+ kename fraguó metsekie, per+ m+k+ pey+ meta iwekai mawiwe n+ awame tsiere m+kat+rka+ye mat+a m+t+r+kaiye.	pumawe tep+a ti tseiri yame, xeik+a putuni.	contradiction
+hch	m+k+ petaine, atsi peukara eriwani, peuramate ri, tsepa kepem+ reuterix+.	mik+ nera h+awekai kename xeiya ne hey+ni kiekai.	contradiction
+hch	m+k+ petaine, atsi peukara eriwani, peuramate ri, tsepa kepem+ reuterix+.	nera h+awekai kename atsi karey+ni kekai x+ka anereu tereke nemeita wewienik+.	neutral
+hch	m+k+ petaine, atsi peukara eriwani, peuramate ri, tsepa kepem+ reuterix+.	nereta h+awix+ kename neyemie ax+kai.	entailment
+hch	ik+ presidente Kennedy tiwarek+ h+awe ik+ mawiwe mem+n+ awawe, paine, ukitsi, aix+ xeutei kuwewiwa ik+yate mema ú.	Kennedy p+kaware timá.	contradiction
+hch	ik+ presidente Kennedy tiwarek+ h+awe ik+ mawiwe mem+n+ awawe, paine, ukitsi, aix+ xeutei kuwewiwa ik+yate mema ú.	kennedy p+reta xá wa hamt+a mawiwe n+ awamete.	neutral
+hch	ik+ presidente Kennedy tiwarek+ h+awe ik+ mawiwe mem+n+ awawe, paine, ukitsi, aix+ xeutei kuwewiwa ik+yate mema ú.	Kennedy p+reta xá wa hamt+a mawiwe n+ awamw	entailment
+hch	ne neureu eriekai, nep+ aneri neuka reux+a mayá.	neureita h+awix+ kename neti n+ni kekai ik+ tamamáta minutu yari.	neutral
+hch	ne neureu eriekai, nep+ aneri neuka reux+a mayá.	neureita h+awix+ kename waik+ nekati n+ni kekai.	contradiction
+hch	ne neureu eriekai, nep+ aneri neuka reux+a mayá.	neutiwara h+awekai kename tetin+ ximekai ri.	entailment
+hch	tinaime tinapini pem+raka ut+ani.	m+k+tsie xei+a nepeu nierekai nem+raka ut+anik+ pinite.	entailment
+hch	tinaime tinapini pem+raka ut+ani.	atsi neuketa y+ nem+raka ut+ani nitixa+t+.	contradiction
+hch	tinaime tinapini pem+raka ut+ani.	neuraka ut+a tixexuime mereti xá.	neutral
+hch	waik+ m+k+ peti nuiwax+ wana 1900 mexeiya kaik+ tamamata heima ataxewí witari peh+k+ t+kai ik+ 1926, tamamata heimana atanauka peura maté, peripai ik+ 1930.	peti nuiwax+ ik+ xewí ik+ enero wana 1900.	neutral
+hch	waik+ m+k+ peti nuiwax+ wana 1900 mexeiya kaik+ tamamata heima ataxewí witari peh+k+ t+kai ik+ 1926, tamamata heimana atanauka peura maté, peripai ik+ 1930.	m+k+ peti nuiwax+ mat+ari ik+ tsie siglo.	entailment
+hch	waik+ m+k+ peti nuiwax+ wana 1900 mexeiya kaik+ tamamata heima ataxewí witari peh+k+ t+kai ik+ 1926, tamamata heimana atanauka peura maté, peripai ik+ 1930.	m+k+ waik+ kweti nuiwax+ arikeke 1943.	contradiction
+hch	kam+ts+ pat+a nie reuyewet+.	pe anekai metá remaim+ k+kai kepa+meme reti kwani kekai.	neutral
+hch	kam+ts+ pat+a nie reuyewet+.	waik+ kwareu maim+ k+kai en yemek+.	contradiction
+hch	kam+ts+ pat+a nie reuyewet+.	nepeita xei yeme aix+.	entailment
+hch	kurieya peku yanikekai hets+a blanca, ya xeik+a pek+t+a hetsia blanca.	kurieya pexeiyakai nawi tsi aneme yunaime wara iwakai menwaye tei tsie.	neutral
+hch	kurieya peku yanikekai hets+a blanca, ya xeik+a pek+t+a hetsia blanca.	naimek+ mepeti yuanekai kename kurieya he tuxa kai.	entailment
+hch	kurieya peku yanikekai hets+a blanca, ya xeik+a pek+t+a hetsia blanca.	ik+ kurieya Sher peh+k+ t+kai kwinie kwatiyu hek+a.	contradiction
+hch	kam+ts+ peh+k+ t+kai kwinie p+re ukirast+ kai mayanik+ wa pápa.	peh+k+ t+kai xeitewiyari heimana atahuta witari ayumait+ ke m+k+.	neutral
+hch	kam+ts+ peh+k+ t+kai kwinie p+re ukirast+ kai mayanik+ wa pápa.	m+k+ peh+k+ t+kai wa+ka tsiyu mait+.	contradiction
+hch	kam+ts+ peh+k+ t+kai kwinie p+re ukirast+ kai mayanik+ wa pápa.	m+k+ apeyu maikai ke m+k+.	entailment
+hch	m+k+, né nexeik+a nepe h+k+t+ kai 922 peh+k+t+ kai ukí  metawi wikweitsi t+arie, metá xewit+ ukí peparewi m+k+ tsiemieme raxaxa tsiwat+.	nexewit+ kweyetua parewiya.	contradiction
+hch	m+k+, né nexeik+a nepe h+k+t+ kai 922 peh+k+t+ kai ukí  metawi wikweitsi t+arie, metá xewit+ ukí peparewi m+k+ tsiemieme raxaxa tsiwat+.	xewit+ ukí p+repa rewi hetsiena mieme raxaxa tsiwat+ ik+ las m+ranta nat+ka tsie.	neutral
+hch	m+k+, né nexeik+a nepe h+k+t+ kai 922 peh+k+t+ kai ukí  metawi wikweitsi t+arie, metá xewit+ ukí peparewi m+k+ tsiemieme raxaxa tsiwat+.	xewit+ ukí peyetua parewiya wa hetsie mieme raneriet+.	entailment
+hch	ena nepuka netiku eriwat+ tita m+ramie ena maka mietsie, peura maté, nem+waye hanak+ ne hets+a, peura maika, neneutati a wat+t+ neure y+wekai nemei patak+.	ramaikai kename m+k+ p+kaye nenikekai hawai karawiyat+.	contradiction
+hch	ena nepuka netiku eriwat+ tita m+ramie ena maka mietsie, peura maté, nem+waye hanak+ ne hets+a, peura maika, neneutati a wat+t+ neure y+wekai nemei patak+.	neure eri netsi kumieneme neu eriekai.	entailment
+hch	ena nepuka netiku eriwat+ tita m+ramie ena maka mietsie, peura maté, nem+waye hanak+ ne hets+a, peura maika, neneutati a wat+t+ neure y+wekai nemei patak+.	neure eri y+k+ hetay+ nike nepe eriekai kenem+ re xaxa tá.	neutral
+hch	kam+ts+, tam+, waik+ p+ka y+we tsepa mutay+ni kename tekauye x+ri.	aix+ p+ ane x+ka teuye x+rieni hipame tsie.	contradiction
+hch	kam+ts+, tam+, waik+ p+ka y+we tsepa mutay+ni kename tekauye x+ri.	teukwe pit+ariekai temeuye x+r+weni.	entailment
+hch	kam+ts+, tam+, waik+ p+ka y+we tsepa mutay+ni kename tekauye x+ri.	teukwe pit+arie tem+ta ut+ani tsie tekauye x+r+wet+.	neutral
+hch	oh, per+,oh, re eriwe, y+wik+ta kekwe tíku.	axa nepetiy+ nemeka kuni kiekai tsie y+wik+ta.	entailment
+hch	oh, per+,oh, re eriwe, y+wik+ta kekwe tíku.	neixeiyat+ nepat+a axa nem+re hein+kai aimieme neukwe kuwekai.	neutral
+hch	oh, per+,oh, re eriwe, y+wik+ta kekwe tíku.	y+wik+ta nepeti kukutsu nunutsi pa+ tsim+pé.	contradiction
+hch	tixa+ m+k+ rexeiyakai yeme yu hetsie nunu wame.	m+k+ pey+we kai yu hetsie meta nuani ik+ ts+ik+ri wa hamat+a.	neutral
+hch	tixa+ m+k+ rexeiyakai yeme yu hetsie nunu wame.	m+k+ pey+we kai aix+ yu hetsie m+re nuani.	entailment
+hch	tixa+ m+k+ rexeiyakai yeme yu hetsie nunu wame.	m+k+ yemek+ pe h+k+t+ kai penanai mariekai.	contradiction
+hch	um, nit+ma m+pa+ kwareta niukie.	mik+ petay+ naime tita m+reu maim+ k+kai.	contradiction
+hch	um, nit+ma m+pa+ kwareta niukie.	waik+ atsi neukareta h+awarieik+ tsie ti mieme kepa+ penti kayani mem+ +wiyarie.	neutral
+hch	um, nit+ma m+pa+ kwareta niukie.	heiwa meukwa neteku xaxa t+wa.	entailment
+hch	aimieme teuti tei éna muye hane.	ta kí puwekai uwa.	entailment
+hch	aimieme teuti tei éna muye hane.	ta kí puwekai atewa uwa muye hanetsie.	contradiction
+hch	aimieme teuti tei éna muye hane.	tapini kí pewekai ik+ hutame hakuye yeukaku.	neutral
+hch	p+rekuxata xeiyá, peuniuka niukame tsie.	peta niuka yeme ax+kai kem+re y+we.	contradiction
+hch	p+rekuxata xeiyá, peuniuka niukame tsie.	peuniuka ik+tsie terepunu.	neutral
+hch	p+rekuxata xeiyá, peuniuka niukame tsie.	pauniuka ik+tsie terepunu.	entailment
+hch	nuka y+we nemaye erieni tita m+rat+a, per+ xeimieme nepey+ neme tima nera eriwat+ kename ne heyemiekai mentawa +kit+arie tsie mat+ari, meta pat+a m+k+ nie nenreti h+awix+ naime tukari tsie.	atsi neukara eriwakai meyuka tsut+ani kekai tsie ik+ mentewa +kitrie tsie.	contradiction
+hch	nuka y+we nemaye erieni tita m+rat+a, per+ xeimieme nepey+ neme tima nera eriwat+ kename ne heyemiekai mentawa +kit+arie tsie mat+ari, meta pat+a m+k+ nie nenreti h+awix+ naime tukari tsie.	nepe iyari xiekai neme miek+ mentewa +kit+arie tsie.	entailment
+hch	nuka y+we nemaye erieni tita m+rat+a, per+ xeimieme nepey+ neme tima nera eriwat+ kename ne heyemiekai mentawa +kit+arie tsie mat+ari, meta pat+a m+k+ nie nenreti h+awix+ naime tukari tsie.	nepe iyari xiekai meyuka tsut+ani kekai tsie jardin ik+ tsimem+t+ tsie.	neutral
+hch	Eh, pekatei atewa St.Louis, mat+a jefferson City tsiere St. Louis,MO.	nepeka tei wana Texas.	contradiction
+hch	Eh, pekatei atewa St.Louis, mat+a jefferson City tsiere St. Louis,MO.	nepeka tei kí taxaiyeme tá wana Missouri.	neutral
+hch	Eh, pekatei atewa St.Louis, mat+a jefferson City tsiere St. Louis,MO.	pekatei wana Missouri.	entailment
+hch	ramaikai man+tse tsie muwa wana hat+a, tawari nepe t+a wana Laughlin Air Force Base, kename táwari meuye pierix+.	ik+ mente wayewiya tsie maw+wawe Laughlin p+reuná yatewi mek+.	entailment
+hch	ramaikai man+tse tsie muwa wana hat+a, tawari nepe t+a wana Laughlin Air Force Base, kename táwari meuye pierix+.	ik+ Base dela ment+r+ kswi meta mema w+wawe Laughlin yap+ reuye pie .	contradiction
+hch	ramaikai man+tse tsie muwa wana hat+a, tawari nepe t+a wana Laughlin Air Force Base, kename táwari meuye pierix+.	ik+ Base dela ment+r+ kawi meta mema w+wawe Laughlin pe h+k+ wa kie ik+ tamamata mriyari kuyaxi.	neutral
+hch	ya xeik+a neureu erie tsepa kepemi yuri.	tsepá ke aneme pemanye xá.	neutral
+hch	ya xeik+a neureu erie tsepa kepemi yuri.	nepeuye h+wa nemanti tuani xexuime trato.	contradiction
+hch	ya xeik+a neureu erie tsepa kepemi yuri.	nit+ma neuka reumai m+k+ kepa+ pem+ti n+ní.	entailment
+hch	wat+t+  teik+ nep+re nenieré, neuretimaní hakewa meka Ramona metá mana nepei h+awe.	nepei h+awix+ Ramona ne kitá.	neutral
+hch	wat+t+  teik+ nep+re nenieré, neuretimaní hakewa meka Ramona metá mana nepei h+awe.	nepei h+awix+ Ramona nenreti manik+ hakewa mekatei.	entailment
+hch	wat+t+  teik+ nep+re nenieré, neuretimaní hakewa meka Ramona metá mana nepei h+awe.	nekwaita h+awix+ Ramona.	contradiction
+hch	ik+t+ ment+r+ kawi meta mema w+wawe penanai ik+ SR71, hik+ta ik+ A-tamamata heimana huta kename teté uximaya kai ik+ tsie CIA.	ment+r+ kawi tsiere mema w+wawe peti nanai tamamata heimana atanauka maw+ wawe.	neutral
+hch	ik+t+ ment+r+ kawi meta mema w+wawe penanai ik+ SR71, hik+ta ik+ A-tamamata heimana huta kename teté uximaya kai ik+ tsie CIA.	ment+r+ kawi tsiere mema w+wawe mepeti nanai awiuni tsixi.	entailment
+hch	ik+t+ ment+r+ kawi meta mema w+wawe penanai ik+ SR71, hik+ta ik+ A-tamamata heimana huta kename teté uximaya kai ik+ tsie CIA.	mentir+ kawi tsiere  meukwe xeiya kai nixeime kemente yurieni	contradiction
+hch	¿ wat+t+ kurieya k+naya tsiere pexeiya kai nawí aix+ aneme ?.	kurieya pewikie xeime ukí y+xa+ yeme mat+a.	neutral
+hch	¿ wat+t+ kurieya k+naya tsiere pexeiya kai nawí aix+ aneme ?.	kurieya pe wikie.	entailment
+hch	¿ wat+t+ kurieya k+naya tsiere pexeiya kai nawí aix+ aneme ?.	kurieya pe +imari.	contradiction
+hch	per+ mutimie mutawe rix+, t+ma kwaretimá kename hauye wekai, per+ waniu peyu patax+ kem+reka iyarikai.	m+k+ p+keyu patax+ kem+reka iyarikai ik+ y+ xa+tame.	contradiction
+hch	per+ mutimie mutawe rix+, t+ma kwaretimá kename hauye wekai, per+ waniu peyu patax+ kem+reka iyarikai.	m+k+  t+ma kwetay+ kename hauyewekai.	entailment
+hch	per+ mutimie mutawe rix+, t+ma kwaretimá kename hauye wekai, per+ waniu peyu patax+ kem+reka iyarikai.	m+k+ t+ma kwetay+ kename yuri hetainekai tsie mieme paritsiteri m+ h+k+ waí.	neutral
+hch	ne tatatsi, m+k+ p+h+k+ yeme aix+ tiuka iyari.	ne tatatsi aix+ neuti maté.	entailment
+hch	ne tatatsi, m+k+ p+h+k+ yeme aix+ tiuka iyari.	¡ ne tatatsi p+kauka iyari !.	contradiction
+hch	ne tatatsi, m+k+ p+h+k+ yeme aix+ tiuka iyari.	ne tatatsi p+ h+k+ p+tiyu m+kwa.	neutral
+hch	nepant+a nekuri kitá mekatei tsie mana, k+naya p+reku ma+wakai reta uximaya tax+ yeme ramait+, metá né nepant+a kiena,	nékema payewekai wana kuyaxi amenyu pa+me.	neutral
+hch	nepant+a nekuri kitá mekatei tsie mana, k+naya p+reku ma+wakai reta uximaya tax+ yeme ramait+, metá né nepant+a kiena,	nékema tsire p+ h+k+t+ kai ik+ kemente yurie.	entailment
+hch	nepant+a nekuri kitá mekatei tsie mana, k+naya p+reku ma+wakai reta uximaya tax+ yeme ramait+, metá né nepant+a kiena,	ne matsika aix+ p+keyu kuyuri.	contradiction
+hch	nepiti maix+awe. Kam+tsi, neumie, nepei hayewax+ memiek+ xewit+ p+ta, er+ta neureti erieni.¡ takutsi nakawe !.	neure eri kename ne hayewake kai xewit+ p+ta mumiek+ ne hetsie mieme.	entailment
+hch	nepiti maix+awe. Kam+tsi, neumie, nepei hayewax+ memiek+ xewit+ p+ta, er+ta neureti erieni.¡ takutsi nakawe !.	neuré eri kename ne hei hayewake kai xewit+ ne hetsie mieme miekai memeyuku xe+rieni tsie	neutral
+hch	nepiti maix+awe. Kam+tsi, neumie, nepei hayewax+ memiek+ xewit+ p+ta, er+ta neureti erieni.¡ takutsi nakawe !.	waik+ neukwai pit+ani kekai xeime tawrí mumie.	contradiction
+hch	xei minuto yari p+ranka hutsuna kai ti utuwame tsie, uxa arieka aix+ta p+ ane, nenaka pini né ut+wame tsie, da,da,da,.	peipatax+ wa+kawa kem+re ku eriwakai.	entailment
+hch	xei minuto yari p+ranka hutsuna kai ti utuwame tsie, uxa arieka aix+ta p+ ane, nenaka pini né ut+wame tsie, da,da,da,.	peikupáta kenreku eriwa kwara matek+ kem+re yuriene.	neutral
+hch	xei minuto yari p+ranka hutsuna kai ti utuwame tsie, uxa arieka aix+ta p+ ane, nenaka pini né ut+wame tsie, da,da,da,.	m+k+ aix+ reyumaté meta atsi kara eriwat+.	contradiction
+hch	kam+tsi, kem+ ti+y+,reye at+a meuta hak+ muwa ¿ keti hú pinite uwa ?.	péta iwau kepa+ tihukai pinite.	entailment
+hch	kam+tsi, kem+ ti+y+,reye at+a meuta hak+ muwa ¿ keti hú pinite uwa ?.	peta iwau x+ka teti n+xime kait+ni ik+ xápate.	neutral
+hch	kam+tsi, kem+ ti+y+,reye at+a meuta hak+ muwa ¿ keti hú pinite uwa ?.	m+k+ waik+ kuata tseta h+awix+ yemek+.	contradiction
+hch	arikeke ta aurie pa wautsekai nepini, neukara maté, neure maikai naime tsie tukari ana tikarik+	neene kume x+it+a metá xeimieme nepe tin+.	contradiction
+hch	arikeke ta aurie pa wautsekai nepini, neukara maté, neure maikai naime tsie tukari ana tikarik+	mana nepayá m+reute rix+ huta ura yaritsie.	neutral
+hch	arikeke ta aurie pa wautsekai nepini, neukara maté, neure maikai naime tsie tukari ana tikarik+	ta aurie nepe h+a ne tukari wa+kawa tukari.	entailment
+hch	m+k+ exeiyakai kwiniya mukukim+ya né t+ma neuka retimá m+k+k+.	neukara maikai etsiwa t+kaku pem+ ik+k+ kwiniya mukukim+ya.	neutral
+hch	m+k+ exeiyakai kwiniya mukukim+ya né t+ma neuka retimá m+k+k+.	neukara maikai kename hexeiyakai kwiniya kwiniya m+kukim+ya.	entailment
+hch	m+k+ exeiyakai kwiniya mukukim+ya né t+ma neuka retimá m+k+k+.	neura maikai kename kwinie rekuyekai ik+k+ kwiniya m+kukim+ya.	contradiction
+hch	peramaté, peuka y+we, peuka y+we pemaye niereni x+ka peka hexeiyani ik+ m+kat+r+ ka+ye metá m+r+ka+ye panti t+a ik+ xeiya mumie muta iwetsie m+k+ tsie yameu titewa.	ik+ xeiya mumie m+ta hek+ata metsi kumemiwa tsepa kepauka.	contradiction
+hch	peramaté, peuka y+we, peuka y+we pemaye niereni x+ka peka hexeiyani ik+ m+kat+r+ ka+ye metá m+r+ka+ye panti t+a ik+ xeiya mumie muta iwetsie m+k+ tsie yameu titewa.	pepeuye h+wa xeime m+t+r+ ka+ye meta kwat+r+ ka+ye antiyakame ik+ a+x+wi miriyari hetewa kaku.	neutral
+hch	peramaté, peuka y+we, peuka y+we pemaye niereni x+ka peka hexeiyani ik+ m+kat+r+ ka+ye metá m+r+ka+ye panti t+a ik+ xeiya mumie muta iwetsie m+k+ tsie yameu titewa.	pepeuye h+wa xeime m+t+r+ ka+ye meta kwat+r+ ka+ye m+pa+ heutite wame tsie.	entailment
+hch	neureka tsut+a xeimieme, eh, netiware +k+t+anet+ yu hutame temari mana memaye ukai.	t+ma neukanpi +kit+arika, aimieme nepeitimá kepa+ m+tiye miekai tsie.	contradiction
+hch	neureka tsut+a xeimieme, eh, netiware +k+t+anet+ yu hutame temari mana memaye ukai.	yu hutat+ temari meuneteti +kit+a neureta uximaya tak+ muwa murewa tuiya.	neutral
+hch	neureka tsut+a xeimieme, eh, netiware +k+t+anet+ yu hutame temari mana memaye ukai.	yu hutat+ netata tsima meuneteti +kit+a.	entailment
+hch	x+ka eh+k+ t+ni ápice, peureyu rieni hipame aix+ penreti yurieni ik+ ti +n+n+a tame.	ik+ ti +n+n+a tame tixa+ kwareyu naki eriekai.	contradiction
+hch	x+ka eh+k+ t+ni ápice, peureyu rieni hipame aix+ penreti yurieni ik+ ti +n+n+a tame.	ik+ m+ti in+ata peipa tawe ik+ niem+ tit+r+ ka+ye naime tsie akemarite.	neutral
+hch	x+ka eh+k+ t+ni ápice, peureyu rieni hipame aix+ penreti yurieni ik+ ti +n+n+a tame.	nepeti waika keyu ik+k+ ti +n+n+a tame.	entailment
+hch	oh, akux+ peh+k+ t+kai m+k+ xeik+a ik+ nueve huta huta kename uayek+ heitse kai ik+ tsie m+ti in+ata.	nepeuke kai ik+ inyector ik+ maritik+.	neutral
+hch	oh, akux+ peh+k+ t+kai m+k+ xeik+a ik+ nueve huta huta kename uayek+ heitse kai ik+ tsie m+ti in+ata.	né nepe h+k+t+ kai 922.	entailment
+hch	oh, akux+ peh+k+ t+kai m+k+ xeik+a ik+ nueve huta huta kename uayek+ heitse kai ik+ tsie m+ti in+ata.	t+ma neuka t+a 922.	contradiction
+hch	nit+ma kweti enat+ya ik+ memeyu ku xe+r+ nupcial, nit+ma kwara maikai kename hetine+ kekai, yeme yuri.	m+k+ kwau enakai kename hekunakai ik+ mat+a temaik+ yu heyeme tsepa waik+ neuka reitimá.	neutral
+hch	nit+ma kweti enat+ya ik+ memeyu ku xe+r+ nupcial, nit+ma kwara maikai kename hetine+ kekai, yeme yuri.	p+keti enat+ yeikakai kem+ rey+kai.	entailment
+hch	nit+ma kweti enat+ya ik+ memeyu ku xe+r+ nupcial, nit+ma kwara maikai kename hetine+ kekai, yeme yuri.	ramaikai titatsie m+tiuye hakekai.	contradiction
+hch	táme tepeuta hax+ani keyu muwa.	tepeuta hax+anikeyu muwa atanauka taikai.	neutral
+hch	táme tepeuta hax+ani keyu muwa.	tepeuta hax+ani keyu.	entailment
+hch	táme tepeuta hax+ani keyu muwa.	waik+ teukauta hax+ani keyu.	contradiction
+hch	peh+k+ t+kai wat+t+ waik+ ke ane pey+ane kai, y+k+ p+ta,titayari, peura matéri, kemei yurie nekai,peura maté hipáme teukari máma.	m+k+ yaxeik+a tiware xei yu naime.	contradiction
+hch	peh+k+ t+kai wat+t+ waik+ ke ane pey+ane kai, y+k+ p+ta,titayari, peura matéri, kemei yurie nekai,peura maté hipáme teukari máma.	tiware xeiya hipame teukari tsixi y+k+ p+ta.	entailment
+hch	peh+k+ t+kai wat+t+ waik+ ke ane pey+ane kai, y+k+ p+ta,titayari, peura matéri, kemei yurie nekai,peura maté hipáme teukari máma.	tiware xeiya kai hipame teukari tsixi y+k+ p+ta meme h+k+ t+kaik+ meny+ y+xawi.	neutral
+hch	pat+a kwinie m+ti mate, meta íwi peta enix+ etsiwa ekak+.	ik+ íwi p+retai nekai ik+ ekek+.	entailment
+hch	pat+a kwinie m+ti mate, meta íwi peta enix+ etsiwa ekak+.	ik+ íwi p+retai nekai ik+ ekak+.	neutral
+hch	pat+a kwinie m+ti mate, meta íwi peta enix+ etsiwa ekak+.	p+ke ekakai amieme íwi kaiwat+ p+re wiekai.	contradiction
+hch	Oh, aix+ neuraka iyuni nemí h+kai tsie, ik+, m+ti ku may+iwak+ xeik+a.	nepaye wekai m+t+ku may+iwa tsie xeik+a hutak+a tukari anke yeika kaku.	neutral
+hch	Oh, aix+ neuraka iyuni nemí h+kai tsie, ik+, m+ti ku may+iwak+ xeik+a.	né nepaye wekai m+tiku may+iwa tsie m+k+ tsie xeik+a mieme texi.	entailment
+hch	Oh, aix+ neuraka iyuni nemí h+kai tsie, ik+, m+ti ku may+iwak+ xeik+a.	t+ma neukwaye wekai tikuma y+iwa tsie m+k+ tsie xeik+a mieme texi.	contradiction
+hch	per+… mepeti tekai kiekari tsiyeume tsie atewa ik+ Augusta retewa kaku Evans, kename akuxi heyeika. Muwa akuxi nepe xeiya y+ wa+kawa ne iwama muwa memeti tei.	ware xeiyakai iwama rix+ meme titekai wana Evans.	neutral
+hch	per+… mepeti tekai kiekari tsiyeume tsie atewa ik+ Augusta retewa kaku Evans, kename akuxi heyeika. Muwa akuxi nepe xeiya y+ wa+kawa ne iwama muwa memeti tei.	mepeti tekai wana Atlanta.	contradiction
+hch	per+… mepeti tekai kiekari tsiyeume tsie atewa ik+ Augusta retewa kaku Evans, kename akuxi heyeika. Muwa akuxi nepe xeiya y+ wa+kawa ne iwama muwa memeti tei.	mepeti yaxix+ wana Evans, m+ h+k+ tsim+ pé.	entailment
+hch	kurieya ya xeik+a nerek+ h+awe, petaine: heiwa peutiuka iyari nekutsi hepa+, axa peutiwa xeiya te+teri per+ pepeuye wautse.	ne kurí petay+ kename né neh+k+ t+kai m+katiuyuka naki erie.	neutral
+hch	kurieya ya xeik+a nerek+ h+awe, petaine: heiwa peutiuka iyari nekutsi hepa+, axa peutiwa xeiya te+teri per+ pepeuye wautse.	ne kurí petay+ kename waik+ nekat+a ax+ netine h+awet+.	entailment
+hch	kurieya ya xeik+a nerek+ h+awe, petaine: heiwa peutiuka iyari nekutsi hepa+, axa peutiwa xeiya te+teri per+ pepeuye wautse.	ne kurí petay+ kename nekareyu xexei yakai ne kutsi hepa+.	contradiction
+hch	hum, arikeke tepe k+ xeime kitá hekwame tá.	tepek+ xeime kitá temeite wewiekai ik+ tsie país.	neutral
+hch	hum, arikeke tepe k+ xeime kitá hekwame tá.	tepeyek+ xeime hekwameta kí am+ti mariwe.	entailment
+hch	hum, arikeke tepe k+ xeime kitá hekwame tá.	tepeyu hayewax+ m+k+ta xeik+a kí yu heyeme.	contradiction
+hch	né nepe anekai kepa+, aix+ p+ ane, kam+tsi, m+k+ aix+ p+ ane, peuramate , m+pa+.	nepe tay+ kename nei hekakai metá neukai naki eriekai wa+kawa mek+.	contradiction
+hch	né nepe anekai kepa+, aix+ p+ ane, kam+tsi, m+k+ aix+ p+ ane, peuramate , m+pa+.	nepe tay+ kename netse nakekai m+ hekwa kemany+ne kwikari.	neutral
+hch	né nepe anekai kepa+, aix+ p+ ane, kam+tsi, m+k+ aix+ p+ ane, peuramate , m+pa+.	arí nepaine kename hexeiya hú ne haine.	entailment
+hch	ik+ mawet+ka pintura peipatawe ik+ cien grados, pey+we kax+ani mayani m+ xéta tsiere mayani yuyuawi, ik+ hepa+.	ik+ pintura peikupata kem+ aneni.	entailment
+hch	ik+ mawet+ka pintura peipatawe ik+ cien grados, pey+we kax+ani mayani m+ xéta tsiere mayani yuyuawi, ik+ hepa+.	ik+ pintura peikupata mente timanik+ kem+re x+ká m+k+ tsepa menka tei in+atax+.	neutral
+hch	ik+ mawet+ka pintura peipatawe ik+ cien grados, pey+we kax+ani mayani m+ xéta tsiere mayani yuyuawi, ik+ hepa+.	ik+ pintura p+ h+k+ xeik+a m+y+ xa+ye.	contradiction
+hch	neure kwa mex+ima, kenem+ ramex+a kwit+ wata há metá netse parewi m+k+k+.	nepeta kwai pitsa xeimieme ik+ huta minutu yari.	neutral
+hch	neure kwa mex+ima, kenem+ ramex+a kwit+ wata há metá netse parewi m+k+k+.	neure kwai ain+ari nekwareta kwinek+.	contradiction
+hch	neure kwa mex+ima, kenem+ ramex+a kwit+ wata há metá netse parewi m+k+k+.	nepeta huxai nix+ ikwaik+.	entailment
+hch	kurieya k+naya tsiere peh+k+ t+kai nawi aix+ m+ ane.	kemaya peh+k+ t+kai kurur aix+ m+ ane.	entailment
+hch	kurieya k+naya tsiere peh+k+ t+kai nawi aix+ m+ ane.	kemaya peh+k+ t+kai sueco.	neutral
+hch	kurieya k+naya tsiere peh+k+ t+kai nawi aix+ m+ ane.	kurieya p+ke wikiekai.	contradiction
+hch	ya xeik+a tsiere, meute erí ik+ memeu keni atewa ti in+n+a tame ik+ O huta.	m+k+ mepeita inventaro wa xeime hekwame ti in+an+a tame.	entailment
+hch	ya xeik+a tsiere, meute erí ik+ memeu keni atewa ti in+n+a tame ik+ O huta.	inventaron xeime ti in+n+atame kename hey+wekai m+k+ tsie makumawe tsie.	neutral
+hch	ya xeik+a tsiere, meute erí ik+ memeu keni atewa ti in+n+a tame ik+ O huta.	mepeiye weiyakai mekata mait+ kepa+ mentei wewieni xeime ti in+n+a tame ik+ eka tsie.	contradiction
+hch	kepa+, tepek+ wana Las Vegas, NV, né neureta xá, yaxeik+a kenem+ reyuri wana Washington, kewa me h+k+t+ kai hix+apa wana Las Vegas.	t+ma neukant+a wana Las Vegas.	contradiction
+hch	kepa+, tepek+ wana Las Vegas, NV, né neureta xá, yaxeik+a kenem+ reyuri wana Washington, kewa me h+k+t+ kai hix+apa wana Las Vegas.	neureta uximaya tax+ wa+kawa wana Las Vegas ya xeik+a wana Washington.	entailment
+hch	kepa+, tepek+ wana Las Vegas, NV, né neureta xá, yaxeik+a kenem+ reyuri wana Washington, kewa me h+k+t+ kai hix+apa wana Las Vegas.	neureta uximaya tax+ taxi tsie wa+ka kiekari tsie.	neutral
+hch	hu, nauka pat+a aix+ m+reti y+.	¡ neure hekakai tinaime wana memayetei tsie !.	contradiction
+hch	hu, nauka pat+a aix+ m+reti y+.	netse nakix+ nauka gradoyari teme xeiya kaik+ hutame tsie mema naye uxipiwe.	neutral
+hch	hu, nauka pat+a aix+ m+reti y+.	netsi nake ik+ nauka mutimie tsie.	entailment
+hch	p+ h+k+ ikpa+ xewit+ m+tiwa ustie wa+kawa y+k+ anenet+ ma hek+k+a, peura matéri. Ik+ h+xiena pexeiya ik+ hepa+ xapa ik+ kem+ pa+me y+k+ aneneme m+k+ tsie.	ik+ página p+ h+k+ xeik+a memaka úxaik+ in+ari.	contradiction
+hch	p+ h+k+ ikpa+ xewit+ m+tiwa ustie wa+kawa y+k+ anenet+ ma hek+k+a, peura matéri. Ik+ h+xiena pexeiya ik+ hepa+ xapa ik+ kem+ pa+me y+k+ aneneme m+k+ tsie.	ik+ me+p+nirikr t+ka pexeiya wa+kawa ik+ m+raye mie.	entailment
+hch	p+ h+k+ ikpa+ xewit+ m+tiwa ustie wa+kawa y+k+ anenet+ ma hek+k+a, peura matéri. Ik+ h+xiena pexeiya ik+ hepa+ xapa ik+ kem+ pa+me y+k+ aneneme m+k+ tsie.	ik+ h+xiena pa hek+k+ata ik+ kepa+met+ muyemane hik+.	neutral
+hch	atsí neukara eriwa tsepá kepa+ pem+rei wewi.	atsí neukara eriwa x+ka ek+ peita wewieni ek+ xeik+a o peuwata inieni.	neutral
+hch	atsí neukara eriwa tsepá kepa+ pem+rei wewi.	atsí neukara eriwa tita pentiuiti wewi.	entailment
+hch	atsí neukara eriwa tsepá kepa+ pem+rei wewi.	neureu maim+k+ yeme aix+ kepat penti wewieni ik+.	contradiction
+hch	mepe k+ wana Mallard Crek wana Charlotte.	peta wewiya xewit+ kí wana Mallard Creek.	neutral
+hch	mepe k+ wana Mallard Crek wana Charlotte.	t+ma meukwe k+ wana Charlotte.	contradiction
+hch	mepe k+ wana Mallard Crek wana Charlotte.	ari keké mepeti tekai wana Mallard Creek.	entailment
+hch	hakewa m+k+ peh+k+ t+kai, m+k+ peh+k+ t+kai niweya xewit+ ministro, m+k+ pexeiyakai, m+k+ mepe xeiyakai pinitsiekame, metá tixa+t+ tsiere, yeme aix+ meuta wiyakai ik+ kiekatri wa hets+a, aix+ meutey+ h+awekai.	papaya peh+k+ t+kai patsituri yuri m+ti erie.	neutral
+hch	hakewa m+k+ peh+k+ t+kai, m+k+ peh+k+ t+kai niweya xewit+ ministro, m+k+ pexeiyakai, m+k+ mepe xeiyakai pinitsiekame, metá tixa+t+ tsiere, yeme aix+ meuta wiyakai ik+ kiekatri wa hets+a, aix+ meutey+ h+awekai.	papaya peh+k+ t+kai tiyumiekame nit+ma p+kant+a wana teyupanie.	contradiction
+hch	hakewa m+k+ peh+k+ t+kai, m+k+ peh+k+ t+kai niweya xewit+ ministro, m+k+ pexeiyakai, m+k+ mepe xeiyakai pinitsiekame, metá tixa+t+ tsiere, yeme aix+ meuta wiyakai ik+ kiekatri wa hets+a, aix+ meutey+ h+awekai.	papaya peh+k+ t+kai patsituri yuri m+ti erie.	entailment
+hch	ne neukara maikai ke hauku aneneme meuye h+akai.	neukara maikai x+ka m+k+ hauye h+akai t+ni iwaurika ik+tsie kemu paukani memaye k+ne.	neutral
+hch	ne neukara maikai ke hauku aneneme meuye h+akai.	naime neuti pit+a kemauku anene titayari neura maikai kename heiye h+akai.	contradiction
+hch	ne neukara maikai ke hauku aneneme meuye h+akai.	aix+ neuka reyu maikai ke meuka tewakai.	entailment
+hch	um, y+k+p+ta, yu xexuime tsie tenawe mete, nait+ reyepine waxapate.	m+k+ meukwe xeiya ni xeime inite tiyepine.	contradiction
+hch	um, y+k+p+ta, yu xexuime tsie tenawe mete, nait+ reyepine waxapate.	mepeiti utá naime wa+kawa m+tiye pine.	entailment
+hch	um, y+k+p+ta, yu xexuime tsie tenawe mete, nait+ reyepine waxapate.	meuteti utá ik+ utame teyu auyemawe mete legales naime yu nait+.	neutral
+hch	ik+ tiyu xexeiya wa+kawa m+tiyu wewin+a kwinie m+ka ti+y+t+ka, m+k+ netse hant+akai hepa+ peh+k+ t+kai nait+ kemeuku anene metá waniu nie meuku anene hutarieka atsí p+ke y+nekai.	m+k+ netse pa+rit+a hutame meuranku ut+ka.	entailment
+hch	ik+ tiyu xexeiya wa+kawa m+tiyu wewin+a kwinie m+ka ti+y+t+ka, m+k+ netse hant+akai hepa+ peh+k+ t+kai nait+ kemeuku anene metá waniu nie meuku anene hutarieka atsí p+ke y+nekai.	m+k+ netse pa+rit+a hutame ik+ nereta xat+a kenenti yurieni nepanye xá nie meuku anene kai.	neutral
+hch	ik+ tiyu xexeiya wa+kawa m+tiyu wewin+a kwinie m+ka ti+y+t+ka, m+k+ netse hant+akai hepa+ peh+k+ t+kai nait+ kemeuku anene metá waniu nie meuku anene hutarieka atsí p+ke y+nekai.	m+k+ netse pa+ri t+a xeik+a xeime maka uxa xeik+a peyu haye wanekai yapa+met+ kem+t+t+..	contradiction
+hch	yeme hek+atsi mek+ meukwe titekai wana Augusta, mepeti tekai en… kam+tsi, peura materí, Augusta akux+ pe h+k+t+ kai kiekari tsiyeut+ ána, yameta eriwat+ te+teri kename mentitei kiekari amuyeyeu tsie ik+ hepa+, Augusta niep+kati mariwe.	Augusta ware xeiya tamamata miriyari te+teri.	neutral
+hch	yeme hek+atsi mek+ meukwe titekai wana Augusta, mepeti tekai en… kam+tsi, peura materí, Augusta akux+ pe h+k+t+ kai kiekari tsiyeut+ ána, yameta eriwat+ te+teri kename mentitei kiekari amuyeyeu tsie ik+ hepa+, Augusta niep+kati mariwe.	Augusta p+ka h+k+ aix+ m+ ane kiekari.	entailment
+hch	yeme hek+atsi mek+ meukwe titekai wana Augusta, mepeti tekai en… kam+tsi, peura materí, Augusta akux+ pe h+k+t+ kai kiekari tsiyeut+ ána, yameta eriwat+ te+teri kename mentitei kiekari amuyeyeu tsie ik+ hepa+, Augusta niep+kati mariwe.	mepeti tekai iyarieya tsie ik+ Augusta.	contradiction
+hch	arikeke ik+ 1962, nepanu pí niuki nem+ miek+ wana Washington, DC.	neureta h+awarie kename ne mie wana DC.	entailment
+hch	arikeke ik+ 1962, nepanu pí niuki nem+ miek+ wana Washington, DC.	ik+ ejercito netse n+ á wana DC yapauka.	neutral
+hch	arikeke ik+ 1962, nepanu pí niuki nem+ miek+ wana Washington, DC.	neureta h+awarie kename ne mie wana África.	contradiction
+hch	kepauka DOT meikutui yu pinitsie kame, tepek+ xeimetsie área matsi tsi hepeme tsie wana Concord menkwe pit+arie tsie memu ware xeiyani yeutari eske waniu yayeume tsie mepeku tet+ka, pe h+k+ meuti pare ik+ niuki tsie yeute meteu uwa.	ta kí wana Concord meukwe pit+arie yeuta  meteu uwa.	entailment
+hch	kepauka DOT meikutui yu pinitsie kame, tepek+ xeimetsie área matsi tsi hepeme tsie wana Concord menkwe pit+arie tsie memu ware xeiyani yeutari eske waniu yayeume tsie mepeku tet+ka, pe h+k+ meuti pare ik+ niuki tsie yeute meteu uwa.	ta kí wana Concord pe xeiya 30000 acres tsiere y+ wa+kawa yeuta meteu uwa.	contradiction
+hch	kepauka DOT meikutui yu pinitsie kame, tepek+ xeimetsie área matsi tsi hepeme tsie wana Concord menkwe pit+arie tsie memu ware xeiyani yeutari eske waniu yayeume tsie mepeku tet+ka, pe h+k+ meuti pare ik+ niuki tsie yeute meteu uwa.	teute tua naime yeuta menteu uwa kepauka temek+ wana Concord.	neutral
+hch	tsepa keti aneme, tepe k+, hik+ neputa y+we yati anemek+ tepe k+ wana Kadina, tsiere Okinawa, ik+ pey+ 1968.	tepena yetua temeut+ r+kawi wana 1968.	entailment
+hch	tsepa keti aneme, tepe k+, hik+ neputa y+we yati anemek+ tepe k+ wana Kadina, tsiere Okinawa, ik+ pey+ 1968.	waik+ teukwe tin+ tenaye tuayet+ ni xeime t+ma.	contradiction
+hch	tsepa keti aneme, tepe k+, hik+ neputa y+we yati anemek+ tepe k+ wana Kadina, tsiere Okinawa, ik+ pey+ 1968.	teute ni á tapinete ik+ m+ranta nat+ka wana Japon ik+tsie kuniyu wana 1968.	neutral
+hch	nereta h+awix+ kename hauye h+akai tsiere haye at+ peiye h+akai hik+.	petay+ kename hey+we kai meiye tuani kekai tsepa kepauka.	contradiction
+hch	nereta h+awix+ kename hauye h+akai tsiere haye at+ peiye h+akai hik+.	nera h+awekai kename xeik+a hexeiya kai xeik+a huta p.m. temeiti n+nik+ naime tita ma+rana yeneni.	neutral
+hch	nereta h+awix+ kename hauye h+akai tsiere haye at+ peiye h+akai hik+.	nera h+awekai kename eh+k+ t+kai xeiyá.	entailment
+hch	arí peyakai rí nera h+awekai kename atsí nekara eriwani.	nera h+awekai kenema ney+ni kekai asumir kename mentawa +kit+arie tsie aix+ he anenike kai.	neutral
+hch	arí peyakai rí nera h+awekai kename atsí nekara eriwani.	painekai kename neka iyari xiekakie kai.	entailment
+hch	arí peyakai rí nera h+awekai kename atsí nekara eriwani.	painekai kenameri haye akairi meuta haní wana heumat+.	contradiction
+hch	ik+ h+k+, peura materi, neuxei, pere xeiya axa m+rany+ne.	peukwe wari ane.	entailment
+hch	ik+ h+k+, peura materi, neuxei, pere xeiya axa m+rany+ne.	¡ aix+ pepey+ ní !.	contradiction
+hch	ik+ h+k+, peura materi, neuxei, pere xeiya axa m+rany+ne.	peukwe wari ane pemana ye h+ityak+.	neutral
+hch	ne mama pan+n+ ka h+k+t+ ik+ nie m+tinake mat+ari, ah, aimieme pat+a imikieri reta uximayata wana kemaku yewa ke hipat+ t+rí meute uximaya wana kemaku yewa tsie.	ne mama peiku pinikekai kwemuxa tsiere ikú.	neutral
+hch	ne mama pan+n+ ka h+k+t+ ik+ nie m+tinake mat+ari, ah, aimieme pat+a imikieri reta uximayata wana kemaku yewa ke hipat+ t+rí meute uximaya wana kemaku yewa tsie.	ne mama pe h+k+ t+kai uka de oro aimieme p+ka tiuta uximaya tax+.	contradiction
+hch	ne mama pan+n+ ka h+k+t+ ik+ nie m+tinake mat+ari, ah, aimieme pat+a imikieri reta uximayata wana kemaku yewa ke hipat+ t+rí meute uximaya wana kemaku yewa tsie.	ne mama putiuta uximaya tax+ atewa.	entailment
+hch	peuramate, ariké, peuramate. Peuramate kename meita iwawiya x+te+teri, hipat+ meta hipame,xewit+ kwara maikai hakewa memeti tekai,peita wau, peura maté, xeik+at+ mepeyuta h+awix+ meta eriwat+ kename meka hexeiya kiekai ik+ Joe.	Joe m+k+ xeik+a pe h+k+t+kai llave mat+k+kai wana mieme sala uxipiweme.	neutral
+hch	peuramate, ariké, peuramate. Peuramate kename meita iwawiya x+te+teri, hipat+ meta hipame,xewit+ kwara maikai hakewa memeti tekai,peita wau, peura maté, xeik+at+ mepeyuta h+awix+ meta eriwat+ kename meka hexeiya kiekai ik+ Joe.	hawai karawiyat+ kepa+mex+a temita in+ata, tekwe y+weka x+a temeika xeiya kename Joe tatse haye wakiekai.	contradiction
+hch	peuramate, ariké, peuramate. Peuramate kename meita iwawiya x+te+teri, hipat+ meta hipame,xewit+ kwara maikai hakewa memeti tekai,peita wau, peura maté, xeik+at+ mepeyuta h+awix+ meta eriwat+ kename meka hexeiya kiekai ik+ Joe.	heiwa, Joe peya kai xewit+ kwara maikai hakewa meuya kai.	entailment
+hch	neutiwara h+awekai kename nekurí repinieya t+kai.	ne kurí hetsie neuraté.	entailment
+hch	neutiwara h+awekai kename nekurí repinieya t+kai.	nepetay+ kename tine pini.	contradiction
+hch	neutiwara h+awekai kename nekurí repinieya t+kai.	neutiwara h+awe kename ts+k+ nekurí repinie yat+kai.	neutral
+hch	kwit+wa petay+ mamaya, mamaya pakatutsitax+ y+ h+xie, mey+ +wiyax+ tsiere petay+: m+k+ pa+ ne aneni.	m+k+ petay+ kename mamaya hekuyeika tiyek+tsi mawet+.	neutral
+hch	kwit+wa petay+ mamaya, mamaya pakatutsitax+ y+ h+xie, mey+ +wiyax+ tsiere petay+: m+k+ pa+ ne aneni.	m+k+ petay+ kename mamaya yaxeik+a reyeikakai.	entailment
+hch	kwit+wa petay+ mamaya, mamaya pakatutsitax+ y+ h+xie, mey+ +wiyax+ tsiere petay+: m+k+ pa+ ne aneni.	petay+ kename mamaya kaiwat+ rewe aimieme p+keyeiwe.	contradiction
+hch	peramaté, m+k+ peti h+niya ik+ xapa ti itiwame muwa né neukara maikai ni xeime kename ramaiká.	neukwara maikai kename niere kwine kiekai.	neutral
+hch	peramaté, m+k+ peti h+niya ik+ xapa ti itiwame muwa né neukara maikai ni xeime kename ramaiká.	neukara maikai kemey+ n+kekai  m+k+.	entailment
+hch	peramaté, m+k+ peti h+niya ik+ xapa ti itiwame muwa né neukara maikai ni xeime kename ramaiká.	neuramai kai kename m+pa+ rey+ni kekai m+pa+ m+reyuri tsie m+k+.	contradiction
+hch	ah, t+xa+t+ tawari yam+re y+ muwa neure eri nie reuye wekame pat+a xeime méri nemaye erí nekurik+, m+k+ rey+ m+k+ tsie takua wa +t+a.	neukwa eriwa m+k+ kitá.	contradiction
+hch	ah, t+xa+t+ tawari yam+re y+ muwa neure eri nie reuye wekame pat+a xeime méri nemaye erí nekurik+, m+k+ rey+ m+k+ tsie takua wa +t+a.	nepa eriwa nemeik+t+ ik+ watsute winu uyemanet+ takwa wana waritana.	neutral
+hch	ah, t+xa+t+ tawari yam+re y+ muwa neure eri nie reuye wekame pat+a xeime méri nemaye erí nekurik+, m+k+ rey+ m+k+ tsie takua wa +t+a.	nepaye eri tixa+t+ kem+re y+ takwa waritana.	entailment
+hch	amime nait+ m+k+ estrés, tam+, tinaime rexeiyakai me anennik+ ik+ kara+ x+amayat+ hik+, pe h+k+t+ kai, peuyetúa tixa+t+ penkara maté kepa+ pemi yurieni, p+ h+k+ kepa+ penti ye e.	neukara maikai kenemei yurieni uximaya tsika neme xat+arie hik+.	entailment
+hch	amime nait+ m+k+ estrés, tam+, tinaime rexeiyakai me anennik+ ik+ kara+ x+amayat+ hik+, pe h+k+t+ kai, peuyetúa tixa+t+ penkara maté kepa+ pemi yurieni, p+ h+k+ kepa+ penti ye e.	neureta h+awarie kename reime neuti kenikekai ik+ kakuni ik+ fusibles wana k+i ti it+wame, per+ neukara maté ik+ kaw+re electrico.	neutral
+hch	amime nait+ m+k+ estrés, tam+, tinaime rexeiyakai me anennik+ ik+ kara+ x+amayat+ hik+, pe h+k+t+ kai, peuyetúa tixa+t+ penkara maté kepa+ pemi yurieni, p+ h+k+ kepa+ penti ye e.	hik+ nepeta wawi yarie kename xeik+a neti wewieni kekai tareas ke ane aix+ nenti mate.	contradiction
+hch	aimieme hik+, ena puka, pereiye h+wa hik+.	paine kename hekuwauni tsepa kepauka.	contradiction
+hch	aimieme hik+, ena puka, pereiye h+wa hik+.	paine kename ra eriwaka ku hetuka keyu hik+	entailment
+hch	aimieme hik+, ena puka, pereiye h+wa hik+.	paine kename heiku nanake manpini ik+ kemente yurieni man n+ní ik+ a+x+wi taikai.	neutral
+hch	yatekata eriwat+ tawrí tepyu patax+.	tepeyu patax+ ari kéke.	entailment
+hch	yatekata eriwat+ tawrí tepyu patax+.	tepeyu patax+ xa+tsie kem+yewa wana 1992.	neutral
+hch	yatekata eriwat+ tawrí tepyu patax+.	teukweku yuax+a arikeké m+k+.	contradiction
+hch	ne aix+ neureima tekai ik+ ukaratsi Faulk, m+k+ pexeiyakai 80 witari, m+k+ aix+ reka iyarkai, peixeiya kai yapa+me x+a, per+ pe anekai yemek+ pemakai.	nepexei ik+ ukaratsi. Faulk yapa+me x+a, per+ aix+ nekwati mate aix+.	entailment
+hch	ne aix+ neureima tekai ik+ ukaratsi Faulk, m+k+ pexeiyakai 80 witari, m+k+ aix+ reka iyarkai, peixeiya kai yapa+me x+a, per+ pe anekai yemek+ pemakai.	né nepat+a hamiku hurawa ik+ ukaratsi. Faulk.	contradiction
+hch	ne aix+ neureima tekai ik+ ukaratsi Faulk, m+k+ pexeiyakai 80 witari, m+k+ aix+ reka iyarkai, peixeiya kai yapa+me x+a, per+ pe anekai yemek+ pemakai.	ik+ ukaratsi Faulk pen+ aximekai xeime Honda hautaxa+ yeme tukarik+ ti uximayata miek+.	neutral
+hch	tepeti tekai wana 85 ik+ Mallard Creek, hik+ hekwamek+ p+ h+k+ 485 porque ts+ temeyupa tax+ ana 485.	tepeti tekai muwa kí tsi+ra+ye tsie.	neutral
+hch	tepeti tekai wana 85 ik+ Mallard Creek, hik+ hekwamek+ p+ h+k+ 485 porque ts+ temeyupa tax+ ana 485.	tepeti tekai muwa wa+kawa witari.	entailment
+hch	tepeti tekai wana 85 ik+ Mallard Creek, hik+ hekwamek+ p+ h+k+ 485 porque ts+ temeyupa tax+ ana 485.	xeik+a tepeti tekai huta tsemana.	contradiction
+hch	ne hepa+ m+ ane, reyuxe xeiyakai kename hexeiyakai m+raye at+wa m+ix+a, tatatsi.	pe anekai nie neureu ha akai.	entailment
+hch	ne hepa+ m+ ane, reyuxe xeiyakai kename hexeiyakai m+raye at+wa m+ix+a, tatatsi.	ne ukiyari pe anekai meyute mawiekai o waniu perukut+kai.	neutral
+hch	ne hepa+ m+ ane, reyuxe xeiyakai kename hexeiyakai m+raye at+wa m+ix+a, tatatsi.	ne ukiyari pe anekai suave tsiere yara eriwat+.	contradiction
+hch	ap+yu maté ne papa mayeika nik+.	m+k+ pexeiya xeitewiyari heimana ata huta witari auyumaté netsa iwa.	neutral
+hch	ap+yu maté ne papa mayeika nik+.	m+k+ matsi tsiuyumaté netsa iwa.	contradiction
+hch	ap+yu maté ne papa mayeika nik+.	m+k+ auyumaté ke né.	entailment
+hch	yu nait+ meuta wiya ik+ taktsi nakawe hets+a, neukwara maté kepa+me x+a.	neukwara maté kem+ reutere,	entailment
+hch	yu nait+ meuta wiya ik+ taktsi nakawe hets+a, neukwara maté kepa+me x+a.	neukwara maté kem+ reutere ik+ kem+ti+y+ tsie meripat+.	neutral
+hch	yu nait+ meuta wiya ik+ taktsi nakawe hets+a, neukwara maté kepa+me x+a.	neura maté kename tewi nauka pies ( tamamata cm ) amaye tewi tsie.	contradiction
+hch	hik+ nit+ma nuekwe yutemawiekai kename ne hayeweni muwa titayari me anekai  niere y+ h+awet+.	¡ne nepene temawiekai atsi nekara eriwat+ !.	contradiction
+hch	hik+ nit+ma nuekwe yutemawiekai kename ne hayeweni muwa titayari me anekai  niere y+ h+awet+.	pe anekai kwinie reu eriet+ meyute mawiekak+ porkets+ m+k+ penuani kekai peripait+.	neutral
+hch	hik+ nit+ma nuekwe yutemawiekai kename ne hayeweni muwa titayari me anekai  niere y+ h+awet+.	pe anekai kwinie reu eriekai meyute mawiekak+ porkets+ m+k+ mekatei muwa.	entailment
+hch	wa+kawa m+k+ he anet+ kename wama mama mepe h+k+ axa menteu eire xati aneme mete yenat+.	wama mama mep+ h+k+ xati aneneme pente yéna.	neutral
+hch	wa+kawa m+k+ he anet+ kename wama mama mepe h+k+ axa menteu eire xati aneme mete yenat+.	wama mama meukwa kwa á ni uayete.	contradiction
+hch	wa+kawa m+k+ he anet+ kename wama mama mepe h+k+ axa menteu eire xati aneme mete yenat+.	wa mama panye e axanti mayá.	entailment
+hch	hu, yemek+ p+t+y+ h+awe, pewiye kai.	atsi neukara eriwa x+ka wiyeni.	neutral
+hch	hu, yemek+ p+t+y+ h+awe, pewiye kai.	aix+ p+ ane meta wiyet+.	entailment
+hch	hu, yemek+ p+t+y+ h+awe, pewiye kai.	axa pumayá ik+k+ tauru xiya pinieya tau.	contradiction
+hch	oh, kem+raye axe tewi tukarieya x+ka y+weni o waik+ aix+ miyurieni xeime.	nait+ tukari paye axé aix+ m+ it+arie metá hutarieka mupi t+arieni.	neutral
+hch	oh, kem+raye axe tewi tukarieya x+ka y+weni o waik+ aix+ miyurieni xeime.	ne xewit+ tewi mayani aix+ it+ariet+.	contradiction
+hch	oh, kem+raye axe tewi tukarieya x+ka y+weni o waik+ aix+ miyurieni xeime.	hawai karawiyat+ ik+tsie aix+ m+ it+arieni, tukari puyunaki erie.	entailment
+hch	oh, temaik+, ena pepexeiya y+k+ aneme axam+ti ane ik+ kaw+re	hatsua t+ma neukwe xeiya wekai ik+ yam+ti ane ik+ ka+re	neutral
+hch	oh, temaik+, ena pepexeiya y+k+ aneme axam+ti ane ik+ kaw+re	ik+ kaw+re p+ka hik+ axam+ ane.	contradiction
+hch	oh, temaik+, ena pepexeiya y+k+ aneme axam+ti ane ik+ kaw+re	puxuewe axa m+ti ane heiyuriene kaku kamtiwa kaw+re.	entailment
+hch	pek+y+ne teme wi+r+k+, hu, netsi kumariuta kepa+ meme pinite mem+ pit+arie kaku.	waik+ meuka nesmariuta  kename meh+k+ kem+tiyu rieni y+ x+ata.	contradiction
+hch	pek+y+ne teme wi+r+k+, hu, netsi kumariuta kepa+ meme pinite mem+ pit+arie kaku.	penesmariuta memespit+a pemeuta hani muwa perapit+ ikwai meta m+ti  iwa. 	neutral
+hch	pek+y+ne teme wi+r+k+, hu, netsi kumariuta kepa+ meme pinite mem+ pit+arie kaku.	peunesmariuta tita xente axix+ xente kuwau.	entailment
+hch	hu, aix+mek+, ne paine kename, kepauka peureta hayewa pemeyuku ha arit+ani, kem+ti uxiya m+k+ yam+ tiuti yurieni… pepeuyei we wana Club Med ik+ penaye uxipieni nait+ reuti n+t+.	p+raye axe $ huta miriyari pem+reti naneni ti naime pem+ reuye h+wa.	neutral
+hch	hu, aix+mek+, ne paine kename, kepauka peureta hayewa pemeyuku ha arit+ani, kem+ti uxiya m+k+ yam+ tiuti yurieni… pepeuyei we wana Club Med ik+ penaye uxipieni nait+ reuti n+t+.	p+raye axe pen atiket+ani eki axa+ta.	entailment
+hch	hu, aix+mek+, ne paine kename, kepauka peureta hayewa pemeyuku ha arit+ani, kem+ti uxiya m+k+ yam+ tiuti yurieni… pepeuyei we wana Club Med ik+ penaye uxipieni nait+ reuti n+t+.	tsiuraye axé neune ti ket+ani.	contradiction
+hch	oh, per+ yaxeik+a neniwema hik+ mepe xeiya xeitewiyari heimana xewi tsiere xeitewiyari heimana nauka, aimieme waik+ neukwe xeiya tita.	tsepa waik+ titayari neniwema meme xeiya wa+kawa xeitewiyari witari.	entailment
+hch	oh, per+ yaxeik+a neniwema hik+ mepe xeiya xeitewiyari heimana xewi tsiere xeitewiyari heimana nauka, aimieme waik+ neukwe xeiya tita.	m+pa+ neuti yurieni, memaye at+arieximeri.	neutral
+hch	oh, per+ yaxeik+a neniwema hik+ mepe xeiya xeitewiyari heimana xewi tsiere xeitewiyari heimana nauka, aimieme waik+ neukwe xeiya tita.	neuti yurieni yunait+ mepe xeiya tamamata y tamamata heimana xewi witari.	contradiction
+hch	¡ kwai ! Aix+ ik+ p+ h+k+ p+retsinu	nepeti nuiwax+ wana p+retsinu	neutral
+hch	¡ kwai ! Aix+ ik+ p+ h+k+ p+retsinu	nekweneta maix+awe hakewa me h+k+ ik+.	contradiction
+hch	¡ kwai ! Aix+ ik+ p+ h+k+ p+retsinu	neumera h+awe kename ik+ h+k+ p+retsinu.	entailment
+hch	hu, te+teri memaye ukakiekai uximayatsika tsie tsepa kepauka kememe tiyuani peku haiyatawe x+ka kememe tiyuani.	hu, te+teri heiwat+ menkatu wa+riya m+pa+ memeti yuani aix+ anemek+.	entailment
+hch	hu, te+teri memaye ukakiekai uximayatsika tsie tsepa kepauka kememe tiyuani peku haiyatawe x+ka kememe tiyuani.	hu, te+teri heiwat+ menkau haka kwiku.	neutral
+hch	hu, te+teri memaye ukakiekai uximayatsika tsie tsepa kepauka kememe tiyuani peku haiyatawe x+ka kememe tiyuani.	hu, ik+ te+teri nie meiku anenet+, ya menku yuanik+ waik+ axuka anene.	contradiction
+hch	waik+, akuxi meukwa nuax+a wawe. Meuku uwa meripait+ manye mietsie sesenta witari tsie.	mepaye k+ka meripat+ meripait+ ik+ 1970.	entailment
+hch	waik+, akuxi meukwa nuax+a wawe. Meuku uwa meripait+ manye mietsie sesenta witari tsie.	niep+ti wanake menku uwani.	neutral
+hch	waik+, akuxi meukwa nuax+a wawe. Meuku uwa meripait+ manye mietsie sesenta witari tsie.	meuteta hayewax+ menku uwakai hik+kie.	contradiction
+hch	kepa+ peiyuriwe tep+ate raheteme mem+ tank+t+k+.	¿ peti y+we penetsita +kit+ani kepa+ pemi yurieni ra heteme mentank+ t+k+ ?.	entailment
+hch	kepa+ peiyuriwe tep+ate raheteme mem+ tank+t+k+.	yaneura eriwa ik+tsie aeróbic titayari neureuye h+wa y+k+ nenti yurieni ik+ yu iyari tsie kem+ ane.	neutral
+hch	kepa+ peiyuriwe tep+ate raheteme mem+ tank+t+k+.	auyak+, tineu hayewa ik+ tsie timieme  ekritsi tsiu menwati wewiwa.	contradiction
+hch	kam+ts+, m+k+ aix+ p+ ane m+k+ tsie m+pa+ kware eriekai kename hu.	m+k+ yenem+re eri axap+ ane nemetay+ tsie matimiekai tsie tsemana.	contradiction
+hch	kam+ts+, m+k+ aix+ p+ ane m+k+ tsie m+pa+ kware eriekai kename hu.	ik+ yeme aix+ p+ ane.	entailment
+hch	kam+ts+, m+k+ aix+ p+ ane m+k+ tsie m+pa+ kware eriekai kename hu.	ik+ paradoja pemaxa xata aix+ p+ ane .	neutral
+hch	ik+ tih+weme m+ h+k+ huta tukari tsemana, meutei ter+wa ik+ amenyumate wa hetsie mieme, per+ m+k+ peta axe wana hix+apa ukirawe tsixi menwa yetei.	ik+ tih+weme p+reuyepie tsepa kepauka kepauka wa hetsie mieme t+ri meme xeiyat+ka xewí witari xeik+a.	contradiction
+hch	ik+ tih+weme m+ h+k+ huta tukari tsemana, meutei ter+wa ik+ amenyumate wa hetsie mieme, per+ m+k+ peta axe wana hix+apa ukirawe tsixi menwa yetei.	meuware pit+a hutak+a meme+k+ne tsemana x+ka amenyu mate aix+ meteu erieka.	neutral
+hch	ik+ tih+weme m+ h+k+ huta tukari tsemana, meutei ter+wa ik+ amenyumate wa hetsie mieme, per+ m+k+ peta axe wana hix+apa ukirawe tsixi menwa yetei.	m+k+ mep+ xata xeime hepa+ tih+weme ik+ wapini ukiraixi, per+ waniu retewa ik+ hix+apa wa hetsiemieme ukiraixi amenyu mate.	entailment
+hch	m+k+ peh+k+ t+kai su meta oh.	m+k+ p+ h+k+ hek+ wa+riyarika meyupi t+akai.	entailment
+hch	m+k+ peh+k+ t+kai su meta oh.	p+k+ p+ka h+k+t+ kai meuye h+akai.	contradiction
+hch	m+k+ peh+k+ t+kai su meta oh.	me peuti ax+a su meta.	neutral
+hch	mik+ma+wa armas pany+ne muyurieni hutame mamate.	ik+ hix+apa nait+ axam+ y+t+ka m+tiuti tuaxa te+a titua xame waniu panayeneika kename meiku yuruwa xeimek+ mama.	neutral
+hch	mik+ma+wa armas pany+ne muyurieni hutame mamate.	ik+ aix+ m+ti +wiya ik+ armas p+y+we miyu rieni tsepa ke anemek+ +ká.	contradiction
+hch	mik+ma+wa armas pany+ne muyurieni hutame mamate.	naime nepeyuri mamate x+ka pe a +kit+am+ k+ni kepa+ penti +wiya tep+a tituaxame.	entailment
+hch	xeimieme payenieka xa+tsie neukara maté kem+ra neika per+.	neukara maté kem+ra neika, per+ kwinie pa y+we.	entailment
+hch	xeimieme payenieka xa+tsie neukara maté kem+ra neika per+.	xeimie p+ axé, per+ neura maté kem+ra neika.	neutral
+hch	xeimieme payenieka xa+tsie neukara maté kem+ra neika per+.	p+ axé ik+ pa+ melaza metá neura maté ye aix+ kepauka munuani.	contradiction
+hch	waik+, nit+ma neukwai mate, waik+.	nuekara maté m+k+ k+.	entailment
+hch	waik+, nit+ma neukwai mate, waik+.	neuka naki eriwa tsie timieme ik+ memeuye h+wa.	neutral
+hch	waik+, nit+ma neukwai mate, waik+.	neutine +kit+a ik+ yam+ reutewi witari.	contradiction
+hch	hu, ek+ peramaté kename m+k+ h+k+t+ kai tsim+ti ane.	wat+t+ peuramaté kename hat+a aix+ m+ ane.	neutral
+hch	hu, ek+ peramaté kename m+k+ h+k+t+ kai tsim+ti ane.	waik+, m+k+ peh+k+ axau anekai	contradiction
+hch	hu, ek+ peramaté kename m+k+ h+k+t+ kai tsim+ti ane.	hu, m+k+ pe anekai aix+.	entailment
+hch	hu, m+k+ p+re eri xeik+a mena neni xeime neit+ y+wet+ pemei yurieni pa+.	re eri menaneni xeime ti itiwame.	contradiction
+hch	hu, m+k+ p+re eri xeik+a mena neni xeime neit+ y+wet+ pemei yurieni pa+.	re eri metaxeiya xeime niem+ti y+we.	entailment
+hch	hu, m+k+ p+re eri xeik+a mena neni xeime neit+ y+wet+ pemei yurieni pa+.	peku itieni kekai xuriya xeime ixuriki ti itiwame k+.	neutral
+hch	ena pinite yemek+ axa p+ti ane, hik+ ke p+reyuti tuaxi t+x+ wana autopista hautewa kaku haikame manzanas ta  kie.	ik+ reyuti tuaxit+x+ pat+a etsiwa ik+ 100 miya yari nemanuka tsie.	contradiction
+hch	ena pinite yemek+ axa p+ti ane, hik+ ke p+reyuti tuaxi t+x+ wana autopista hautewa kaku haikame manzanas ta  kie.	m+reyuti tuaxit+x+ p+rey+ huarawa ne kie npeumá ne manye yani.	neutral
+hch	ena pinite yemek+ axa p+ti ane, hik+ ke p+reyuti tuaxi t+x+ wana autopista hautewa kaku haikame manzanas ta  kie.	p+reyuti tuaxit+x+ hurawa ne kie, yemek+ aix+ p+ka ane ena muye hane.	entailment
+hch	oh, m+k+ yuri p+ka h+k+ yeme +, ik+ titatsie m+ti ane.	ya neukara eriwa a hek+,  p+ h+k+ kwinie aix+ m+tiyu maté.	contradiction
+hch	oh, m+k+ yuri p+ka h+k+ yeme +, ik+ titatsie m+ti ane.	wa at+t+ yuri pepu taine ik+tsie kem+ anekai.	neutral
+hch	oh, m+k+ yuri p+ka h+k+ yeme +, ik+ titatsie m+ti ane.	yuri peputaine ik+tsie kename waik+ peka tiku eriwat+.	entailment
+hch	neuti newieka ku muwa.	neutita in+atkeyu ik+ aferraeme wa hek+.	entailment
+hch	neuti newieka ku muwa.	yemek+ neuti yuriene yeme aix+ nentiy+we.	neutral
+hch	neuti newieka ku muwa.	nepita tuani t+ma neukwana kuniere.	contradiction
+hch	hu, ¿ keme aneneme tsinurixi peuware xeiya ?.	¿ a tsinú aix+ p+tiuka iyari ?.	neutral
+hch	hu, ¿ keme aneneme tsinurixi peuware xeiya ?.	¿ keme aneneme mitsuri peuwareta wikwei tsit+a ?	contradiction
+hch	hu, ¿ keme aneneme tsinurixi peuware xeiya ?.	¿ke aneme tsik+ temaik+ pepe xeiya ?.	entailment
+hch	kam+ts+, pepeta y+ kename peware xeiyakai t+r+, ¿ kepa+ witari mepe xeiyat+ ka ?.	¿ key+ pa+meme t+ri peuware xeiya ?.	neutral
+hch	kam+ts+, pepeta y+ kename peware xeiyakai t+r+, ¿ kepa+ witari mepe xeiyat+ ka ?.	neutimaté kename pekawara yexeiya t+rí.	contradiction
+hch	kam+ts+, pepeta y+ kename peware xeiyakai t+r+, ¿ kepa+ witari mepe xeiyat+ ka ?.	pepu taine kename peware xeiya t+ri, ¿ kepa+ witari mepe xeiyat+ka ?.	entailment
+hch	wat+t+ waik+ meukank+ te+teri nie mente mate ik+ kwe kem+ yewa, per+ neuxei, meank+ aix+ metey+ h+awet+, ik+… mepey+ +wiyax+a wa hek+ te+teri ya menta eriwakai menteyuta +kit+ani.	puede kename meka han k+ kwinie mente mate, per+ aix+ meutey+ h+awekai metá ya meuta eriwakai mentey+ +kit+ak+.	entailment
+hch	wat+t+ waik+ meukank+ te+teri nie mente mate ik+ kwe kem+ yewa, per+ neuxei, meank+ aix+ metey+ h+awet+, ik+… mepey+ +wiyax+a wa hek+ te+teri ya menta eriwakai menteyuta +kit+ani.	pe h+k+t+kai nie m+timate, per+ mepei má kepauka hurawa memeti ukai tsie hipat+ menka ware matekai yeme aix+.	neutral
+hch	wat+t+ waik+ meukank+ te+teri nie mente mate ik+ kwe kem+ yewa, per+ neuxei, meank+ aix+ metey+ h+awet+, ik+… mepey+ +wiyax+a wa hek+ te+teri ya menta eriwakai menteyuta +kit+ani.	mepe h+k+t+ kai peti mer+kakai, per+ destestaron tsepa ke ane wa+riyarika meyu pit+a +kit+arika.	contradiction
+hch	heiwa tepan+k+ m+k+ tsie pini, eh, muwa, tepaku nuax+a ik+ evento tepetaiya x+a lucesnaime kemaku yewa memeku heteitsie tsiere pexuawe kai mofeta.	ik+ +pá tatseta kwewiekai temanuax+ani kekai temati hi+ite tsie.	neutral
+hch	heiwa tepan+k+ m+k+ tsie pini, eh, muwa, tepaku nuax+a ik+ evento tepetaiya x+a lucesnaime kemaku yewa memeku heteitsie tsiere pexuawe kai mofeta.	tepeta xei xeime tsipu wana temati hipite tsie arikeke het+x+aku m+xaxa wat+.	contradiction
+hch	heiwa tepan+k+ m+k+ tsie pini, eh, muwa, tepaku nuax+a ik+ evento tepetaiya x+a lucesnaime kemaku yewa memeku heteitsie tsiere pexuawe kai mofeta.	temaku nuax+a tsie ik+ nierika, tepeta xei xeime mofeta.	entailment
+hch	paramaté, yu nai+ ne niwema aix+ meuteu iyari, aix+ me anenet+,  wat+t+ waik+, peureti mamateke wa hek+ t+rí amenyu mate tsiere, per+.	neureti mamaté ik+ hipame t+rí amenyu mate per+ nait+ik+ mentawiya ne hets+a meuyu yuipike.	entailment
+hch	paramaté, yu nai+ ne niwema aix+ meuteu iyari, aix+ me anenet+,  wat+t+ waik+, peureti mamateke wa hek+ t+rí amenyu mate tsiere, per+.	nepeunete mawie niemente matek+ neniwema.	neutral
+hch	paramaté, yu nai+ ne niwema aix+ meuteu iyari, aix+ me anenet+,  wat+t+ waik+, peureti mamateke wa hek+ t+rí amenyu mate tsiere, per+.	ne niwema mep+ h+k+ meuwau iyari.	contradiction
+hch	tsiere peiyuriwe kename te+teri yu nait+ xene+k+ xe+ri wa+kawa xatsi mmm…, tsiere mmm… men+n+ní kepa+me metsie m+kawe wat+t+ pe ane etsiwa hurawa re ane ik+ axam+ti ane kename men n+ní ma heté.	ik+ limitacion kem+pa+me xatsi hurawa p+ti ane axam+ti ane kem+ra heté xatsi y+ xa+ta.	entailment
+hch	tsiere peiyuriwe kename te+teri yu nait+ xene+k+ xe+ri wa+kawa xatsi mmm…, tsiere mmm… men+n+ní kepa+me metsie m+kawe wat+t+ pe ane etsiwa hurawa re ane ik+ axam+ti ane kename men n+ní ma heté.	te+teri meukway+ h+aweni kem+pa+me xatsi kepa+me metsie m+ka in+ari xenewiwi yeme aix+.	contradiction
+hch	tsiere peiyuriwe kename te+teri yu nait+ xene+k+ xe+ri wa+kawa xatsi mmm…, tsiere mmm… men+n+ní kepa+me metsie m+kawe wat+t+ pe ane etsiwa hurawa re ane ik+ axam+ti ane kename men n+ní ma heté.	ik+ te+teri mepeuye h+wá meme yeit+aniwa+kawa kem+ti mie m+ra hetepa+ ik+ xatsi memu wewie.	neutral
+hch	aimieme,hu puxuawe ik+ meuyéwe, p+ h+k+ pemeuye we, wat+t+.	atsi peukara eriwani, x+ka hexuaweni axa mey+, neurepare wieni wa hetsie nem+rateni.	contradiction
+hch	aimieme,hu puxuawe ik+ meuyéwe, p+ h+k+ pemeuye we, wat+t+.	x+ka hexuaweni error ek+ ti a hetsie.	entailment
+hch	aimieme,hu puxuawe ik+ meuyéwe, p+ h+k+ pemeuye we, wat+t+.	hu neure yuri ik+ error,yu pini payeit+ani m+k+ tsie.	neutral
+hch	peramaté, naimek+, m+t+ wewieni m+ti wiparie pinite ipa+ puku pit+ariwa xewit+ ka+y+we kax+aka mayeneni.	ik+ wipame rayuwe wiwa ik+ aix+ anet+.	entailment
+hch	peramaté, naimek+, m+t+ wewieni m+ti wiparie pinite ipa+ puku pit+ariwa xewit+ ka+y+we kax+aka mayeneni.	ik+ wiparika peti wewiwa xeiya aix+ p+ka tiyu xexeiya.	contradiction
+hch	peramaté, naimek+, m+t+ wewieni m+ti wiparie pinite ipa+ puku pit+ariwa xewit+ ka+y+we kax+aka mayeneni.	ameuteute rix+ memeiti n+nik+ wi+arika.	neutral
+hch	hu,hu, nem+rewa uximaya tsie memetsik+ +it+wa huta tsemana pentika tsut+ani tsie arike ketá xei witari anyeyayu memetsi +it+ani extra pexeiyat+ ke nauka tsemana.	atukari p+t+ +rir+me witari manye yeika.	entailment
+hch	hu,hu, nem+rewa uximaya tsie memetsik+ +it+wa huta tsemana pentika tsut+ani tsie arike ketá xei witari anyeyayu memetsi +it+ani extra pexeiyat+ ke nauka tsemana.	atukari p+kati mie ik+ haika tukari.	contradiction
+hch	hu,hu, nem+rewa uximaya tsie memetsik+ +it+wa huta tsemana pentika tsut+ani tsie arike ketá xei witari anyeyayu memetsi +it+ani extra pexeiyat+ ke nauka tsemana.	atukari ik+ manayetuiya  mutimie ik+ uximaya tsika ik+ kiekari tsie.	neutral
+hch	aix+ p+ ane mukaní wa+kawa ena país, atsí peukara eriwani ik+ k+.	pemukaní ena país peutiyer+ni peu mat+ pinitek+ m+k+ hepa+.	contradiction
+hch	aix+ p+ ane mukaní wa+kawa ena país, atsí peukara eriwani ik+ k+.	yeme aix+ mukaní ena país waniu atsi teukata eriwani ik+ pinitek+ ik+ hepa+.	entailment
+hch	aix+ p+ ane mukaní wa+kawa ena país, atsí peukara eriwani ik+ k+.	ik+ aix+ m+ ane kename ena amakuyewa tsie atsi peukara eriwani m+k+k+ pepiyurieni hepa+ kiekari.	neutral
+hch	oh,oh takutsi nakawe, mik+ pek+y+ne ik+ hepa+ yuri peka y+anet+.	m+k+ reyu xexeiya o kwinie tananai y+t+ o wa+kawa aix+ p+kati y+ane.	neutral
+hch	oh,oh takutsi nakawe, mik+ pek+y+ne ik+ hepa+ yuri peka y+anet+.	m+k+ pek+y+ne ipa+ kwinie yuri peka y+anet+.	entailment
+hch	oh,oh takutsi nakawe, mik+ pek+y+ne ik+ hepa+ yuri peka y+anet+.	wa at+ p+h+k+ kepem+y+ axam+ ane.	contradiction
+hch	hik+ nepe xeiya xeime ne kurí wana Alemania.	hik+ yeme nepe xeiya xeime ne iwá kename meka Alemania.	entailment
+hch	hik+ nepe xeiya xeime ne kurí wana Alemania.	nepe xeiya xeime ne kurí hik+ meka wana Cuba.	contradiction
+hch	hik+ nepe xeiya xeime ne kurí wana Alemania.	nepe xeiya xeime ne kurí mutaniuka aleman.	neutral
+hch	nepe xeiya xeime neniwe uká tsinyumaté hik+ta niep+y+ne meiwit+ni muwa, per+ neumie.	wat+t+ p+y+we nemei wit+ni neneiwé muwa.	neutral
+hch	nepe xeiya xeime neniwe uká tsinyumaté hik+ta niep+y+ne meiwit+ni muwa, per+ neumie.	tsiuka +y+ne néhek+ nemeiwi t+ni neniwé muwa.	entailment
+hch	nepe xeiya xeime neniwe uká tsinyumaté hik+ta niep+y+ne meiwit+ni muwa, per+ neumie.	hik+ pem+ reutan+ awe, neniwe y+ xa+tá p+y+we muye aní ena.	contradiction
+hch	hu, aix+ peurei xeiyani witarita.	neura eriwa kepe xeiyani ik+ manaye tuiya witaritsie aix+ ka aneme.	contradiction
+hch	hu, aix+ peurei xeiyani witarita.	yuri wat+ ik+ verano ena puyeikani kwit+wa.	neutral
+hch	hu, aix+ peurei xeiyani witarita.	hu, kam+ ik+ verano aix+ peuraka iyunieni.	entailment
+hch	waik+ teuka h+k+ yeme yuri naturistas ni waik+ per+ eh.	yeme hik+, teukanye xaxatsiwa ikk+ tsie titsi+rawi tem+te kuma+wa tem+ h+k+t+ni.	entailment
+hch	waik+ teuka h+k+ yeme yuri naturistas ni waik+ per+ eh.	¡tep+ h+k+ yuri naturistas axateu teu erie axatente k+ h+awar+wa y+k+p+ta teteku eriwat+ !.	contradiction
+hch	waik+ teuka h+k+ yeme yuri naturistas ni waik+ per+ eh.	tatsi nakekeyu heiwa wa+riyarika tenyu pit+ani temak+nek+ naturalistas, per+ hik+, teuka h+k+.	neutral
+hch	hu, neuwaraye éri ne teukarima memayek+ kakai calle +t+a mekute+ x+t+ putite.	yay+ pa+met+ meuy+k+ xe+rieni naime meutek+ te+x+ xatsite calle +t+a.	neutral
+hch	hu, neuwaraye éri ne teukarima memayek+ kakai calle +t+a mekute+ x+t+ putite.	neuwaruti parewiwakai  ne teukarima temeku te+x+ putité wana turuki uyeya.	entailment
+hch	hu, neuwaraye éri ne teukarima memayek+ kakai calle +t+a mekute+ x+t+ putite.	tepk+ka kai ik+ fiesta ne papa kitá.	contradiction
+hch	ik+ p+ka h+k+ méri kepem+ti y+ ik+ mat+a ts+k+.	wa at+t+, ik+ p+ka h+k+ méri ik+ mat+a ts+k+.	entailment
+hch	ik+ p+ka h+k+ méri kepem+ti y+ ik+ mat+a ts+k+.	neukwai má, neukara maikai kename ik+ hat+a méri kename pexei ts+k+.	contradiction
+hch	ik+ p+ka h+k+ méri kepem+ti y+ ik+ mat+a ts+k+.	ik+ p+ka h+k+ méri penku ma+wa ik+ yautanaka kitá mieme.	neutral
+hch	hurik+, hurik+, kwinie peuka y+aneni.	petiy+we penesta xat+ani wa +t+ake ik+ niuki meripai meme.	neutral
+hch	hurik+, hurik+, kwinie peuka y+aneni.	niepeukati amex+i t+aka naime penti n+nik+.	entailment
+hch	hurik+, hurik+, kwinie peuka y+aneni.	pepeuye h+wa pemeuta tuani ik+ tita m+ra niere.	contradiction
+hch	ay waik+ né nepeka atewa ik+ men+rieta.	né neukeka wana amakuyewa tsie.	entailment
+hch	ay waik+ né nepeka atewa ik+ men+rieta.	nepeka ya hautewa kaku ik+ amkuyewa tsie	neutral
+hch	ay waik+ né nepeka atewa ik+ men+rieta.	nepaka wana amakuyewa tsie.	contradiction
+hch	nep+ x+ni ne hetsie m+rate kiekai kename xewit+ metse y+ +yat+kai asta mem+ kename waniu xeime mat+a mekatekai ukí, ik+ nem+ xata +yayat+ kai, peramate kename teteku xata.	xewit+ ukí pemí y+ +ya pémi  xeime mat+a ukí heka huku arikeketa petatuiya hetaxane tsieku etsiwa.	entailment
+hch	nep+ x+ni ne hetsie m+rate kiekai kename xewit+ metse y+ +yat+kai asta mem+ kename waniu xeime mat+a mekatekai ukí, ik+ nem+ xata +yayat+ kai, peramate kename teteku xata.	xewit+ ukí petatuiya ik+ petit+k+ axam+ ane m+ramaté pet+a meta peimi yu +yat+kai.	neutral
+hch	nep+ x+ni ne hetsie m+rate kiekai kename xewit+ metse y+ +yat+kai asta mem+ kename waniu xeime mat+a mekatekai ukí, ik+ nem+ xata +yayat+ kai, peramate kename teteku xata.	ik+ wikiekame aix+  peyu yuri kename k+naya t+kai haunare kekai yu heyeme tukari.	contradiction
+hch	m+k+ p+ h+k+ tumini utame tsiere kepa+meme meteyu tuani.	tixa+ neukwere xeiya hepa+na nemi yurieni tsiere.	contradiction
+hch	m+k+ p+ h+k+ tumini utame tsiere kepa+meme meteyu tuani.	ya xeik+a p+ ane ik+ tumini utame y+ xa+ta.	entailment
+hch	m+k+ p+ h+k+ tumini utame tsiere kepa+meme meteyu tuani.	ik+ ti utame memika +na ya xeik+a p+ y+ne.	neutral
+hch	pe h+k+t+ kai Wills Point, x+ka pera maika.	yuri neukati maté x+ka peiye eniwaniik+ Will Point.	entailment
+hch	pe h+k+t+ kai Wills Point, x+ka pera maika.	nepei éni ik+ Wills Point.	neutral
+hch	pe h+k+t+ kai Wills Point, x+ka pera maika.	p+kekame ik+ Cambridge.	contradiction
+hch	nepaine kename ne ha +kai ne reloj pekatei naimeta ne xapatuxi ik+tsie arbustos nait+ pat+a tuxat+ huti pa+t+.	xeik+a pekawe kwepa, aimieme ne xapatuxi pe itiyat+ katei.	contradiction
+hch	nepaine kename ne ha +kai ne reloj pekatei naimeta ne xapatuxi ik+tsie arbustos nait+ pat+a tuxat+ huti pa+t+.	peya a kepauka nemeti kueri ne xapatuxi.	neutral
+hch	nepaine kename ne ha +kai ne reloj pekatei naimeta ne xapatuxi ik+tsie arbustos nait+ pat+a tuxat+ huti pa+t+.	ne xapatuxi panka nat+ka tei  ik+k+.	entailment
+hch	pi kuyuruwa uximaya tsika ik+ heiye h+at+, ik+ kentiku eriwa aix+ p+ ane.	aix+ neukwareu erie nem+ h+k+t+n+ diretuxi.	contradiction
+hch	pi kuyuruwa uximaya tsika ik+ heiye h+at+, ik+ kentiku eriwa aix+ p+ ane.	wat+t+ kentiku eriwa ik+ aix+ anet+ yeme aix+ p+ ane.	entailment
+hch	pi kuyuruwa uximaya tsika ik+ heiye h+at+, ik+ kentiku eriwa aix+ p+ ane.	hipat+ te+teri meuteku eriwa kename m+ramaté aix+ p+ ane kenti ku eriwa mutukaiye.	neutral
+hch	aimieme pe xeiyakai xeime kwinie tixa+t+ mutiuta wewieni.	wat+t+ tiyu xexeiya yeme aix+.	neutral
+hch	aimieme pe xeiyakai xeime kwinie tixa+t+ mutiuta wewieni.	atsi p+key+ne retimanik+ m+k+ wa hek+.	entailment
+hch	aimieme pe xeiyakai xeime kwinie tixa+t+ mutiuta wewieni.	meta wewiya axa p+ ane.	contradiction
+hch	tepeti utax+ tapini putite xeimeta ta watsute,xapate x+kari eh+neni tepeiti ikata kaxu tsie pent+ni tek+a.	kwinie p+y+ne muti ikata xapa, tep+ate meta putite xa+tsie tenteka pini uxeik+a.	entailment
+hch	tepeti utax+ tapini putite xeimeta ta watsute,xapate x+kari eh+neni tepeiti ikata kaxu tsie pent+ni tek+a.	ik+ xapa meri p+ta h+ne, ariketá putite tsiere tep+ate.	neutral
+hch	tepeti utax+ tapini putite xeimeta ta watsute,xapate x+kari eh+neni tepeiti ikata kaxu tsie pent+ni tek+a.	táme tixa+t+ xa+tsie teukweteka pí, teute x+ri ti naime uxeik+a.	contradiction
+hch	Locust Hill oh tam+, hu, aix+.	Locust Hill m+k+ pamyeka.	neutral
+hch	Locust Hill oh tam+, hu, aix+.	waik+, waik+ Locust Hill.	contradiction
+hch	Locust Hill oh tam+, hu, aix+.	hu, m+k+ aix+ p+ ane, LocustHill.	entailment
+hch	nepe xaiya xeime césped Bermuda ena peuye +wa wa+kawa há meta waniu tsipa+ meme muwa peuye +nani x+ka pera eriwani m+pa+ tiyu xexeiyani xewit+ green wana campo de golf.	ik+ cesped Bermudan wa+kawa uximaya tsika.	neutral
+hch	nepe xaiya xeime césped Bermuda ena peuye +wa wa+kawa há meta waniu tsipa+ meme muwa peuye +nani x+ka pera eriwani m+pa+ tiyu xexeiyani xewit+ green wana campo de golf.	ik+ cesped ik+ hapa hix+apa muyema Bermudas, p+y+we mi pa+ri t+ani ya xeik+a aneneme m+ti+ tsi+ra+ye tsie ik+ mak+ tsi+ra+ye tsie golf.	entailment
+hch	nepe xaiya xeime césped Bermuda ena peuye +wa wa+kawa há meta waniu tsipa+ meme muwa peuye +nani x+ka pera eriwani m+pa+ tiyu xexeiyani xewit+ green wana campo de golf.	xeik+ xewit+ peuka hatuani ik+ césped ik+ bermuda heiwa meta heiwa waik+.	contradiction
+hch	xewit+ niquel waik+, ya xeik+a m+ h+k+, ik+ treta centavos waik+ tsiere ataxewi puteyute. Yu nait+ mepank+ka wana kwe man axe tsie mente nanai y+ku ik+ bebidas  tsim+raye axé.	xewit+ pack ik+ seis p+raye axé haika tewiyari tsentawu tsixi yeme tsiraye at+ hutapait+ frontera.	entailment
+hch	xewit+ niquel waik+, ya xeik+a m+ h+k+, ik+ treta centavos waik+ tsiere ataxewi puteyute. Yu nait+ mepank+ka wana kwe man axe tsie mente nanai y+ku ik+ bebidas  tsim+raye axé.	y+ wa+kawa te+teri mepank+ka kwe man axe tsie memexeiya m+k+ m+ti iwa tsim+raye axé.	neutral
+hch	xewit+ niquel waik+, ya xeik+a m+ h+k+, ik+ treta centavos waik+ tsiere ataxewi puteyute. Yu nait+ mepank+ka wana kwe man axe tsie mente nanai y+ku ik+ bebidas  tsim+raye axé.	ik+ puteyute nie p+raye at+ka wana la frontera.	contradiction
+hch	hu, nepi enie.	m+k+ p+ h+k+ yemek+ kwinie m+tit+ r+kaiye nemi enienik+ né.	entailment
+hch	hu, nepi enie.	neuka y+we nemi enieni.	contradiction
+hch	hu, nepi enie.	wat+t+ nepi enie.	neutral
+hch	kepauka netiti naneni pinite, yemek+ xewit+ aix+ m+ti ane, p+ti h+k+ penti akutuaya siempre peuranti n+it+wa ik+ impuesto tamamata puru tsientu yari.	tiyutuani tamamata puru tsientu yari p+ wa+kawa.	neutral
+hch	kepauka netiti naneni pinite, yemek+ xewit+ aix+ m+ti ane, p+ti h+k+ penti akutuaya siempre peuranti n+it+wa ik+ impuesto tamamata puru tsientu yari.	peuranti n+it+wani ik+ impuesto tamamata puru tsiento yari tita penti nané kepauka pentiti in+ata kem+raye at+ka .	entailment
+hch	kepauka netiti naneni pinite, yemek+ xewit+ aix+ m+ti ane, p+ti h+k+ penti akutuaya siempre peuranti n+it+wa ik+ impuesto tamamata puru tsientu yari.	hatsua pekwe in+atani ik+  menteyu kutuaya pem+ ran n+nik+ in+ari kem+raye axé.	contradiction
+hch	kename h+k+ etsiwa kay+wet+ per+ p+rayu wewiwa xeime parewiya k+.	waik+ p+ka h+k+ yeme wa+ka m+kara wiya.	entailment
+hch	kename h+k+ etsiwa kay+wet+ per+ p+rayu wewiwa xeime parewiya k+.	waik+ +ka h+k+ tukarik+.	contradiction
+hch	kename h+k+ etsiwa kay+wet+ per+ p+rayu wewiwa xeime parewiya k+.	p+ h+k+ kayuma y+in+at+ kename te+teri menteyu xexeiyani m+pa+.	neutral
+hch	m+pa+ p+tiku eriwa m+pa+ tiu erieni kenti yurieni, aimieme nepaine kename hú.	neura eriwa kename m+pa+ tiyurieni kentiku eriwa.	entailment
+hch	m+pa+ p+tiku eriwa m+pa+ tiu erieni kenti yurieni, aimieme nepaine kename hú.	payani aix+ p+rey+ni m+k+ tsie mieme hu p+ y+we kenti y+we m+tiyu rieni.	neutral
+hch	m+pa+ p+tiku eriwa m+pa+ tiu erieni kenti yurieni, aimieme nepaine kename hú.	m+pa+ kwera eriwa kenti yurieni.	contradiction
+hch	aix+ yemek+, per+ neura eriwa ik+ mu hehekwa leyees hu yemek+ kwinie p+y+ne hik+.	atewa yuri m+tiku niuwa tsie, ik+ leyes meripait+ p+ mieme meta axamente uhú.	contradiction
+hch	aix+ yemek+, per+ neura eriwa ik+ mu hehekwa leyees hu yemek+ kwinie p+y+ne hik+.	yam+ti ane p+ h+k+, per+ waniu ik+ miranta tuayá tsiuka reuteri x+ mayanik+ yuri.	neutral
+hch	aix+ yemek+, per+ neura eriwa ik+ mu hehekwa leyees hu yemek+ kwinie p+y+ne hik+.	hurik+, tsepa ik+ m+ hehekwa m+ranta tuaya, hik+ matsi tsiuka +y+ne.	entailment
+hch	Golly, perameté kename t+ma kanku wei ni xeime m+raka uxa kepenti yurieni né nit+ma nekare maikai axanesti mat+ani, hu rik+, waye ketsinarie xeimieme.	m+k+ peti tsanax+ ik+ +xatsika m+raye hú.	entailment
+hch	Golly, perameté kename t+ma kanku wei ni xeime m+raka uxa kepenti yurieni né nit+ma nekare maikai axanesti mat+ani, hu rik+, waye ketsinarie xeimieme.	m+k+ panku wei naime +xatsika  m+raye hú per+ yaxeik+a panaye h+iya.	contradiction
+hch	Golly, perameté kename t+ma kanku wei ni xeime m+raka uxa kepenti yurieni né nit+ma nekare maikai axanesti mat+ani, hu rik+, waye ketsinarie xeimieme.	m+k+ peiye weiyani kekai  m+k+ m+raka uxa kepa+ penti kamieni.	neutral
+hch	hu, xeik+at+waik+ p+ke y+we ¿ hu wat+?.	yak+ neukau taine kename m+pa´tiy+ni kwit+wa.	contradiction
+hch	hu, xeik+at+waik+ p+ke y+we ¿ hu wat+?.	hu yurí m+pa+ kwatiyu xexeiya kename m+pa+ tiy+ni.	entailment
+hch	hu, xeik+at+waik+ p+ke y+we ¿ hu wat+?.	hu, yaukati y+n+, per+ waniu p+pa+ p+tiuy+we.	neutral
+hch	peutamie wat+t+ ik+ tsie  Washington kename teka iwarie metá Buffalo hekweme Orleans tsiere Chicago titayari Chicago xeik+a xeik+a pa iwarie hutak+a meta tsiere wa hamat+a Buffalo.	Buffalo ware xeiya yeme aix+ mem+ ane yu naime.	neutral
+hch	peutamie wat+t+ ik+ tsie  Washington kename teka iwarie metá Buffalo hekweme Orleans tsiere Chicago titayari Chicago xeik+a xeik+a pa iwarie hutak+a meta tsiere wa hamat+a Buffalo.	xewit+ m+k+ meyu hutat+ equipos mema iwarie Chicago p+ hik+ Buffalo.	entailment
+hch	peutamie wat+t+ ik+ tsie  Washington kename teka iwarie metá Buffalo hekweme Orleans tsiere Chicago titayari Chicago xeik+a xeik+a pa iwarie hutak+a meta tsiere wa hamat+a Buffalo.	Washington pa iwarie nait+ waikari tsie.	contradiction
+hch	hum,hum,hum, hu tepexeiyatika ik+ menteyu tuani kemarite tsie.	ik+ kemarite p+ h+k+ libre ik+ meukate yutua.	contradiction
+hch	hum,hum,hum, hu tepexeiyatika ik+ menteyu tuani kemarite tsie.	ik+ impueto mutuiya h+t+apa+ p+kawe.	neutral
+hch	hum,hum,hum, hu tepexeiyatika ik+ menteyu tuani kemarite tsie.	ik+ tropas pexeiya xeime mente yutua ik+ tsie mutuiya.	entailment
+hch	mana aix+ neuti xeiya, netsi nake kem+ tiu ane ne tsiere.	netsi nake ya m+ tiu ane.	entailment
+hch	mana aix+ neuti xeiya, netsi nake kem+ tiu ane ne tsiere.	kwane tsi nake ik+ energia  m+kat+r+ ka+ye muyu wewie ena.	contradiction
+hch	mana aix+ neuti xeiya, netsi nake kem+ tiu ane ne tsiere.	aix+ nuereu erie ena aimieme kwanetsi nake.	neutral
+hch	mmm nepe xeiya xeime nunutsi ukí tsiere uká mepe xeiyat+ka tamamata heimana atanauka. metseri.	neuware xeiya wa+kawa t+rí.	contradiction
+hch	mmm nepe xeiya xeime nunutsi ukí tsiere uká mepe xeiyat+ka tamamata heimana atanauka. metseri.	nepe xeiya uká, hexeiyame tamamata heimana atanauka metseri.	entailment
+hch	mmm nepe xeiya xeime nunutsi ukí tsiere uká mepe xeiyat+ka tamamata heimana atanauka. metseri.	neura eriwa neuware xeiyani waikawa tirí.	neutral
+hch	ik+ wa +t+a me xeiya p+ h+k+ xewit+ tsinurixi ik+ ya xeik+a p+ ane m+k+ xeik+a ukí peyuri axuareu eriekai tamek+.	m+k+ p+ka hexeiyakai tsinurixi.	contradiction
+hch	ik+ wa +t+a me xeiya p+ h+k+ xewit+ tsinurixi ik+ ya xeik+a p+ ane m+k+ xeik+a ukí peyuri axuareu eriekai tamek+.	ik+ pexeiyakai axaureu erie yu tametsie, meta wa +t+a tsinu mepeyu riekai xatsi tsie.	entailment
+hch	ik+ wa +t+a me xeiya p+ h+k+ xewit+ tsinurixi ik+ ya xeik+a p+ ane m+k+ xeik+a ukí peyuri axuareu eriekai tamek+.	pe xuawekai xewit+ nait+ atanauka ya xeik+a me anenet+, xeik+a ukí pexeiyakai axapaku anekai yu tametsie.	neutral
+hch	oh a muwa raye neika yape mutaine.	¿ mana p+ti ane pema xaxata tsie ?.	entailment
+hch	oh a muwa raye neika yape mutaine.	paniuka atewa pait+.	neutral
+hch	oh a muwa raye neika yape mutaine.	waik+ p+ka niuka muwa.	contradiction
+hch	aix+ yemek+,waik+ neuka ramaté, tsiere akuxi nenkwei t+wé wa+kawa kemarite nemana kat+ni, yuri m+ta y+ni.	neukarana kat+k+ kemarite ena maka mietsie.	entailment
+hch	aix+ yemek+,waik+ neuka ramaté, tsiere akuxi nenkwei t+wé wa+kawa kemarite nemana kat+ni, yuri m+ta y+ni.	nesnake aix+ nentine kemarit+ani.	neutral
+hch	aix+ yemek+,waik+ neuka ramaté, tsiere akuxi nenkwei t+wé wa+kawa kemarite nemana kat+ni, yuri m+ta y+ni.	neurana kat+k+ tsepa kepauka.	contradiction
+hch	¿ perant+a ik+ museo wana europa ?.	¿peku iwatax+ xeime tiwa+kawa yeutari mentewaye uwa europeo ?	entailment
+hch	¿ perant+a ik+ museo wana europa ?.	¿ pereku iwatax+ xeime yeutari mentewaye uwa tsie wana canada ?	contradiction
+hch	¿ perant+a ik+ museo wana europa ?.	neumera h+awe kename metsi nakekai pemeta axekai Europa.	neutral
+hch	mana aix+ peuti mie, ¿ pera maté kentiku eriwa akamixa k+ né tsiere ?.	¿ ak+na pinake akamixa ?.	entailment
+hch	mana aix+ peuti mie, ¿ pera maté kentiku eriwa akamixa k+ né tsiere ?.	¿ ketu eriwa a kurí akémarik+ ?.	contradiction
+hch	mana aix+ peuti mie, ¿ pera maté kentiku eriwa akamixa k+ né tsiere ?.	akamixa aix+ p+ ane.	neutral
+hch	hm, nit+ma kwanye hek+arix+, xeik+a petsinariet+.	pewewiyakia ik+k+ metal tsiraye at+.	entailment
+hch	hm, nit+ma kwanye hek+arix+, xeik+a petsinariet+.	pewewiyakai ik+k+ cobre m+k+ xeik+a.	contradiction
+hch	hm, nit+ma kwanye hek+arix+, xeik+a petsinariet+.	peh+k+t+ kai há mayemarika kwinie meka t+r+kawit+.	neutral
+hch	akux+i netse mariu.	etsiwa nepemakai.	neutral
+hch	akux+i netse mariu.	akux+ nepemakai.	entailment
+hch	akux+i netse mariu.	neukwauti mamawe.	contradiction
+hch	kwit+wa hutarieka pinite hewat+ peixeiya p+ti h+k+ mem+y+we penti atuani.	tsiere neuxeiya m+t+ h+k+ yu axin+a wa hetsie mieme.	entailment
+hch	kwit+wa hutarieka pinite hewat+ peixeiya p+ti h+k+ mem+y+we penti atuani.	tsepá atsi neukara eriwa tita pinik+ m+tiuyu tuani.	contradiction
+hch	kwit+wa hutarieka pinite hewat+ peixeiya p+ti h+k+ mem+y+we penti atuani.	naime tsie, wa+kawa meukwe pit+arie.	neutral
+hch	kam+ts+, neukwa eriwa, nereyu xexei yakai kename hu, er+ta tsiere waik+, kename,kename.	wat+t+ hu, per+ m+pa+ pe ane.	entailment
+hch	kam+ts+, neukwa eriwa, nereyu xexei yakai kename hu, er+ta tsiere waik+, kename,kename.	waik+ neukwa eriwa tinaime eske nie neure í  wa+kawa vino y+wik+ta.	neutral
+hch	kam+ts+, neukwa eriwa, nereyu xexei yakai kename hu, er+ta tsiere waik+, kename,kename.	nemu utsie muyeka aix+ p+ ane ik+tsie kem+rey+ ana y+wik+ta.	contradiction
+hch	apini ik+ aparato ik+ TV ek+te, wat+t+ xeime manta h+iyani aix+ aneme muanwani tsie ik+ televición payeiwe m+ki.	¿ pera eriwa kename m+kí payeiew manta h+iyani kwwinie rayetse it+ payeiwe mutiuna wani tsie.	neutral
+hch	apini ik+ aparato ik+ TV ek+te, wat+t+ xeime manta h+iyani aix+ aneme muanwani tsie ik+ televición payeiwe m+ki.	ek+ pera eriwa kename castigo aix+ m+ ane xeimie tsie mieme kename m+ tiunawani xeime televisor p+ h+k+ m+kí.	entailment
+hch	apini ik+ aparato ik+ TV ek+te, wat+t+ xeime manta h+iyani aix+ aneme muanwani tsie ik+ televición payeiwe m+ki.	pera eriwa kename aix+ m+ ane ik+ muanawani tsie televición + h+k+ xeik+at+ mitatuani.	contradiction
+hch	ik+ playa tsiutiyu xexeiyakai m+k+ peh+k+t+ kai muwa aix+ memaya rekai meuyanik+, aimieme p+ h+k+ yeme wa+ka netsi nake ¿ ke aneta ek+ ?.	yemek+ netsi nake ik+ playa tsiere m+ke xatsiya meta aix+ re +wiyarie.	neutral
+hch	ik+ playa tsiutiyu xexeiyakai m+k+ peh+k+t+ kai muwa aix+ memaya rekai meuyanik+, aimieme p+ h+k+ yeme wa+ka netsi nake ¿ ke aneta ek+ ?.	xewit+ wa+akawa netsi nake neumayani p+ h+k+ xiekarita, eske aix+ p+tiu ane, ¿ ke ane p+ h+k+ lugar yeme metsi nake meuyani ?.   	entailment
+hch	ik+ playa tsiutiyu xexeiyakai m+k+ peh+k+t+ kai muwa aix+ memaya rekai meuyanik+, aimieme p+ h+k+ yeme wa+ka netsi nake ¿ ke aneta ek+ ?.	kenentiku eriwa, aix+ p+ ane muti heni wana yeuta.	contradiction
+hch	neuwera ra ukame de kwaxí muwa upa+t+.	peuka ranti n+ awani nixeime m+raka uxa.	contradiction
+hch	neuwera ra ukame de kwaxí muwa upa+t+.	nati n+ a reku ukame xep+resku	neutral
+hch	neuwera ra ukame de kwaxí muwa upa+t+.	neuwera reuku ukame kuka kura muwa.	entailment
+hch	aix+, neneupit+a nentine keni aimieme petiku eriwa kename heiwat+ yam+ reutere ta ikwewat+ ik+ a+x+wi tukari ik+ tep+a tituaxame waniu m+k+ pinite pak+ni x+awawie leítimas.	¿ kepetiku eriwa, ik+ hipat+ te+teri, kename yeme aix+ ane mi kwewieni yam+ reutere ik+ a+x+wi tukari ?.	neutral
+hch	aix+, neneupit+a nentine keni aimieme petiku eriwa kename heiwat+ yam+ reutere ta ikwewat+ ik+ a+x+wi tukari ik+ tep+a tituaxame waniu m+k+ pinite pak+ni x+awawie leítimas.	tita ti xuawe mexeiyani xeime mepe kunamie tawari ik+ a+x+wi tukari iyá ke ane menku waut+we meta menti naneni tep+a mutiuti tuxa?.	entailment
+hch	aix+, neneupit+a nentine keni aimieme petiku eriwa kename heiwat+ yam+ reutere ta ikwewat+ ik+ a+x+wi tukari ik+ tep+a tituaxame waniu m+k+ pinite pak+ni x+awawie leítimas.	¿ ke xeta eriwa x+ka xeikwe wieni takwa xeik+a a+x+wi minutuyari peripait+ nekaiye tuiriewet+ ik+ meyuta waunik+ ?	contradiction
+hch	¡ kwai ! Kepauka mexeiya kai xeime Cocker Spaniel, peh+k+ t+kai ts+k+ wana eká libre wat+t+ netse nakekai wa+kawa ¡ kwai !.	nepanye xatawe ts+k+ p+ta nietiyu kwaiwet+ meta yuku wiet+ upait+ xewit+ ayenieret+ kename heuyer+ m+k+kai wana eká libre tukarik+.	contradiction
+hch	¡ kwai ! Kepauka mexeiya kai xeime Cocker Spaniel, peh+k+ t+kai ts+k+ wana eká libre wat+t+ netse nakekai wa+kawa ¡ kwai !.	netsi nake wa+kawa nait+ ts+ik+ri eká myuta tua, yu nait+ mep+ h+k+ aix+ menteu iyari.	neutral
+hch	¡ kwai ! Kepauka mexeiya kai xeime Cocker Spaniel, peh+k+ t+kai ts+k+ wana eká libre wat+t+ netse nakekai wa+kawa ¡ kwai !.	wat+t+ neuwa ranye xá ts+ik+ri eka tsie libre ik+ hepa+ Cocker Spaniel kename peme xeiyakai.	entailment
+hch	kenamets+ waniu ik+ siete tukari tsie mepeiti xeiya taminite antecedentes aix+ p+reyuta maix+ani kename peka h+k+ xewit+ pemat+a mem+ka iwariekai o waniu peukai xeiya.	meti xeiya riex+a ik+ manta h+iya p+ka yuwewin+a xeimieme.	neutral
+hch	kenamets+ waniu ik+ siete tukari tsie mepeiti xeiya taminite antecedentes aix+ p+reyuta maix+ani kename peka h+k+ xewit+ pemat+a mem+ka iwariekai o waniu peukai xeiya.	ik+ aix+ me it+arieni ik+ kem+ tiuyuri meripait+ p+reutere xei metseri.	contradiction
+hch	kenamets+ waniu ik+ siete tukari tsie mepeiti xeiya taminite antecedentes aix+ p+reyuta maix+ani kename peka h+k+ xewit+ pemat+a mem+ka iwariekai o waniu peukai xeiya.	kenamets+ waniu mete yurieni aix+ reti yurieni ik+ xanetsika ik+ maka mietsie siete tukari tsie.	entailment
+hch	peramaté nepanye xatawe nemanti yer+ni avion tsie mana neme nuani aix+ nenraka iyunieni.	matsi aix+ pey+ni kekai muwa nemenuani kekai newixi met+.	neutral
+hch	peramaté nepanye xatawe nemanti yer+ni avion tsie mana neme nuani aix+ nenraka iyunieni.	nep+ ane impaciente nemanaka yanik+ mawiwe  tsie aix+ nenraka iyunieni teuye ax+ame.	entailment
+hch	peramaté nepanye xatawe nemanti yer+ni avion tsie mana neme nuani aix+ nenraka iyunieni.	hatsua nekwata wieni.	contradiction
+hch	panyemie yapa+me x+a metseri, pauwere xeiyakai atxewí jurados wa hets+a munua. Neure eri kename xeik+a me hak+ tamamat heimana huta ik+tsi memanti k+,m+t+ta xata tsepa kepa+, fieles.	peuyewe kai reku eriwat+ kename waniuki m+ranye nake kename me meyuti n+n+we kai ik+ tamamata heima huta te+teri.	entailment
+hch	panyemie yapa+me x+a metseri, pauwere xeiyakai atxewí jurados wa hets+a munua. Neure eri kename xeik+a me hak+ tamamat heimana huta ik+tsi memanti k+,m+t+ta xata tsepa kepa+, fieles.	ik+ jurado me+h+k+ siempre tamamta heimana haika te+teri.	contradiction
+hch	panyemie yapa+me x+a metseri, pauwere xeiyakai atxewí jurados wa hets+a munua. Neure eri kename xeik+a me hak+ tamamat heimana huta ik+tsi memanti k+,m+t+ta xata tsepa kepa+, fieles.	meuy+ wawe memanye xata yu naime te+teri ke ane memeuye h+wa wana niukieya m+aranye nake	neutral
+hch	nait+ik+ CEO ik+ muwet+ka tumini metey+ n+it+a ik+ te+teri wa nake m+k+, aimieme m+k+ yeme reumaim+ k+kai meuta hani yam+ra eriwanik+ kem+re y+anekai ik+tsie mukuwet+ka tey+ ni+n+t+wa mete.	m+k+ t+ma atsi kwara eriwa ik+ hawai karawiyat+ ik+ mente tua meyu parewiet+ tumini utame meta tsiere memanaye tuiriyarie.	contradiction
+hch	nait+ik+ CEO ik+ muwet+ka tumini metey+ n+it+a ik+ te+teri wa nake m+k+, aimieme m+k+ yeme reumaim+ k+kai meuta hani yam+ra eriwanik+ kem+re y+anekai ik+tsie mukuwet+ka tey+ ni+n+t+wa mete.	m+k+ ya p+ra eriwakai ik+tsie mente tua meyupare wiet+ ik+ memanaye tuiriyar+wa.	entailment
+hch	nait+ik+ CEO ik+ muwet+ka tumini metey+ n+it+a ik+ te+teri wa nake m+k+, aimieme m+k+ yeme reumaim+ k+kai meuta hani yam+ra eriwanik+ kem+re y+anekai ik+tsie mukuwet+ka tey+ ni+n+t+wa mete.	m+k+ yap+ra eriwakai retimanik+ matsi hurawa kepa+ mete í iwakai tumini ik+ m+rewa tuiya tsie  ti utame metá tumini memaye tuiriyarie.	neutral
+hch	neuramte yu nait+ mepayuye xeiya tsiere meyu iyarit+at+, kename te+teri mexeiya wa+kawa axam+ti ane meukaya xike x+ka wa+kawa meheita h+awe ramait+ kename nait+ aix+ ranaye neni.	neukawa xeiya xeik+a te+teri memaya xike metá memeti niuka xam+ti ane k+.	contradiction
+hch	neuramte yu nait+ mepayuye xeiya tsiere meyu iyarit+at+, kename te+teri mexeiya wa+kawa axam+ti ane meukaya xike x+ka wa+kawa meheita h+awe ramait+ kename nait+ aix+ ranaye neni.	hurik+, xeik+a yay+ pa+met+ te+teri meuteti xata axam+ti ane hik+ mieme.	neutral
+hch	neuramte yu nait+ mepayuye xeiya tsiere meyu iyarit+at+, kename te+teri mexeiya wa+kawa axam+ti ane meukaya xike x+ka wa+kawa meheita h+awe ramait+ kename nait+ aix+ ranaye neni.	te+teri meuka yaxe menteti xata yu axamaku aane metá meny+ h+awet+ka.	entailment
+hch	Brian ik+tsie Plano, Texas, ¿ kwpereu erie hik+ ?.	¿ kepereu erie María ?.	contradiction
+hch	Brian ik+tsie Plano, Texas, ¿ kwpereu erie hik+ ?.	¿ kepa+ timie atukari ?.	entailment
+hch	Brian ik+tsie Plano, Texas, ¿ kwpereu erie hik+ ?.	Plano, Texas p+ h+k+ aix+ m+tiu ane.	neutral
+hch	ik+tsie,mmm…, aix+, tixa+ kwara pine m+k+ xeik+a kautsi	ik+ caos p+ h+k+ nait+ reyepine m+k+ tsie.	entailment
+hch	ik+tsie,mmm…, aix+, tixa+ kwara pine m+k+ xeik+a kautsi	p+ h+k+ axam+ka tiutaine axa kwati tiy+ni.	contradiction
+hch	ik+tsie,mmm…, aix+, tixa+ kwara pine m+k+ xeik+a kautsi	hipat+ te+teri warenake kautsi mita wewiwa.	neutral
+hch	hu, m+k+ p+ h+k+ nentiuta wewi hik+, nepe t+k+ uh Darkman, pepei xexeiyá uh, neukwai xeiyawe, neura eriwa kename neixeiya hik+ y+wik+ta.	ne nepi xexeiya Darkman panyemie naukak+a mex+a.	contradiction
+hch	hu, m+k+ p+ h+k+ nentiuta wewi hik+, nepe t+k+ uh Darkman, pepei xexeiyá uh, neukwai xeiyawe, neura eriwa kename neixeiya hik+ y+wik+ta.	waik+ akuxi neukwai xeiyawe ik+ Darkman, aimieme nepetay+ nemi xeiyamie hik+ y+wik+ta.	entailment
+hch	hu, m+k+ p+ h+k+ nentiuta wewi hik+, nepe t+k+ uh Darkman, pepei xexeiyá uh, neukwai xeiyawe, neura eriwa kename neixeiya hik+ y+wik+ta.	neure enax+ kename Darkman pe h+k+t+kai aix+ m+ ane te+teri memana yeneika.	neutral

@@ -1,0 +1,750 @@
+bzd	Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.	Kèq ye' ùtẽnẽ ie' tã páxlĩ.	contradiction
+bzd	Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.	Sulû ye' ulùnãwã e' wa tã ye' ujtémĩnẽ ie' tã páxlĩ.	entailment
+bzd	Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.	Sa' káxpake tãîx.	neutral
+bzd	Ye' éxn tö irir íyi bua' ése, tã irir ĩã, ye' e'köl èq dör 922 Ex ö tso' ĩa wéx ye' yóqrke e' kéx ã AFFC Fuerza káx shùxã e' ã.	Kèq ye' éxn ã ĩàxnẽ tö irir ye' e'köl èq káx áie e' ã dìwö wa tã.	neutral
+bzd	Ye' éxn tö irir íyi bua' ése, tã irir ĩã, ye' e'köl èq dör 922 Ex ö tso' ĩa wéx ye' yóqrke e' kéx ã AFFC Fuerza káx shùxã e' ã.	Ye' i klòqwẽ tö irir ye' e'köl èq shtâwõ káx áie i' ã AFFC Air Force Career.	entailment
+bzd	Ye' éxn tö irir íyi bua' ése, tã irir ĩã, ye' e'köl èq dör 922 Ex ö tso' ĩa wéx ye' yóqrke e' kéx ã AFFC Fuerza káx shùxã e' ã.	Ulìtãnẽ ã i shtâwõ étkèq yêqsyêqs ãmèxnã, kèq dör tö ì yéq irir tö i ãméxrke se' ã e' wà irir, séxjka irir káxche.	contradiction
+bzd	Ye' ã i yéqdak irir tö... e'köl se' dör ye' ichàkèke batà ie tã ãñìx sãwóx ie.	Kèq yì wã ye' ã i yèqnẽ tö yì sãwèxke sö.	contradiction
+bzd	Ye' ã i yéqdak irir tö... e'köl se' dör ye' ichàkèke batà ie tã ãñìx sãwóx ie.	Ye' ã i yéqdak irir tö e'köl se' dör ichàkèke ye' sãwóx ie.	entailment
+bzd	Ye' ã i yéqdak irir tö... e'köl se' dör ye' ichàkèke batà ie tã ãñìx sãwóx ie.	Pë' e' dé bërërpa tsáxlĩ.	neutral
+bzd	Tãîx íyi tso' e' yéqrmĩ íyi i' kĩ, tö bêqrë tö ye' túxrkeka e' tsáxka.	Ye' éxn ã íyi i' pàkak séxjka be' ã!	contradiction
+bzd	Tãîx íyi tso' e' yéqrmĩ íyi i' kĩ, tö bêqrë tö ye' túxrkeka e' tsáxka.	Aû kèq íyi i' chèkũ yö, erë tã tãîx i kiànã pàbake.	entailment
+bzd	Tãîx íyi tso' e' yéqrmĩ íyi i' kĩ, tö bêqrë tö ye' túxrkeka e' tsáxka.	Aû kèq yö ì chèkũ ciudad káxpake i' kĩ e' wâ dör tö tãîx íyi tso' ĩã yéqnõ.	neutral
+bzd	E' dör i bua' ichóqkle, tsáxtkakak sa' éxn ã, tö kèq wèxs i tã bomba hidrógena úxyanũkmĩ dòqka 30, e't C124.	Aû kèq sa' wã ì balèqnẽ yéqs.	contradiction
+bzd	E' dör i bua' ichóqkle, tsáxtkakak sa' éxn ã, tö kèq wèxs i tã bomba hidrógena úxyanũkmĩ dòqka 30, e't C124.	Sa' kĩ ét íyi kiànã tsáxtke i mãléxpa yòqki bua' ie.	entailment
+bzd	E' dör i bua' ichóqkle, tsáxtkakak sa' éxn ã, tö kèq wèxs i tã bomba hidrógena úxyanũkmĩ dòqka 30, e't C124.	Sa' kĩ bomba kiànã tsáxtke H e' wà dör tö darêqrêq i ñâxkè dör.	neutral
+bzd	E' wa tö kèq ye' éxn ã ĩàxnẽ bua' ie tö ì kũẽkĩ.	Yö i klôwẽ yêqsyêqs tö ì kũẽkĩ irir.	contradiction
+bzd	E' wa tö kèq ye' éxn ã ĩàxnẽ bua' ie tö ì kũẽkĩ.	Aû kèq ye' éxn ã ĩàxnẽ tö ì kũẽkĩ ie' dör escuela méxtsã.	neutral
+bzd	E' wa tö kèq ye' éxn ã ĩàxnẽ bua' ie tö ì kũẽkĩ.	Aû kèq ye' éxn ã ĩàxnẽ tö ì kũẽkĩ i wamblèqnã.	entailment
+bzd	I tso'rö Fannie Floro. I talànã Ag- Augusta, GA, tã i mĩke ujtóqk mĩk ĩàx alátsitsi tã káxpake wéx alê dör.	Fannie Floro káxwöta i ujtè mũkatnẽ tã kèq ie' ã káxpake pàkanũk îxñẽ yéqs.	contradiction
+bzd	I tso'rö Fannie Floro. I talànã Ag- Augusta, GA, tã i mĩke ujtóqk mĩk ĩàx alátsitsi tã káxpake wéx alê dör.	Fannie Floro tso'rö íxẽ tã ie' káxpake pàkerâ se' ã tö wèxs ie' bak alátsitsi tã i talànẽ Augusta GA ã.	entailment
+bzd	I tso'rö Fannie Floro. I talànã Ag- Augusta, GA, tã i mĩke ujtóqk mĩk ĩàx alátsitsi tã káxpake wéx alê dör.	Fannie Floro ujté îxñẽ erë ie' kĩ íyi ujté tso' tãîx súxnõ.	neutral
+bzd	Tã irir skéxl i wé U2 ése yéulur.	Ye' út U2 tã.	entailment
+bzd	Tã irir skéxl i wé U2 ése yéulur.	Aû kèq ye' wòqtkèqnẽ U2 tã yéqska.	contradiction
+bzd	Tã irir skéxl i wé U2 ése yéulur.	I wé tã ye' kãnèxblë' U2 e' ã kéxkkrâë dòqka dawás dabòp tkéql.	neutral
+bzd	Ye' dör e'köl èq e' dör tö mĩk alê tã i mâxwõ kũẽkĩ ri wòqóqknãmẽpa klòqwèxkewã cámara tsîr ése wa káxjkêx tã.	Aû kèq ye' kĩ i ãmèxnẽ tö ye' e'köl èq dör i wòqóqknãmẽpa klòqwẽkewã i mâxwẽ kũẽkĩ.	neutral
+bzd	Ye' dör e'köl èq e' dör tö mĩk alê tã i mâxwõ kũẽkĩ ri wòqóqknãmẽpa klòqwèxkewã cámara tsîr ése wa káxjkêx tã.	I mâxwõ yòqnã cámara tsîr káxjkêx ése kĩ.	entailment
+bzd	Ye' dör e'köl èq e' dör tö mĩk alê tã i mâxwõ kũẽkĩ ri wòqóqknãmẽpa klòqwèxkewã cámara tsîr ése wa káxjkêx tã.	Se' tso' íse alê e' dör i wòqóqknãmẽpa e' wóqstsẽ i mâxwõ.	contradiction
+bzd	Yö, i', sargento i wóqkir i yawóqkbla, jubilado, wèxs Rick dör i yéq e's.	I' tã ye' tso' ĩã kãnèxbalök káxwö i' ã.	contradiction
+bzd	Yö, i', sargento i wóqkir i yawóqkbla, jubilado, wèxs Rick dör i yéq e's.	Ye' ẽ' yéqtsã 2002.	neutral
+bzd	Yö, i', sargento i wóqkir i yawóqkbla, jubilado, wèxs Rick dör i yéq e's.	Rick dör be' ã iche tö ye' yèqnẽtsa bak.	entailment
+bzd	I ujté tso' wèxs alê, caja flujo wa tã, e' dör ñẽ' ët e'köl ët Cutty, cliente ajkà kĩ.	Cliente kie Cutty e' ẽ' alòqke $10000 si' wa.	neutral
+bzd	I ujté tso' wèxs alê, caja flujo wa tã, e' dör ñẽ' ët e'köl ët Cutty, cliente ajkà kĩ.	Cliente tso' e'köl kie Cutty.	entailment
+bzd	I ujté tso' wèxs alê, caja flujo wa tã, e' dör ñẽ' ët e'köl ët Cutty, cliente ajkà kĩ.	Aû kèq sa' wã cliente tso' kie Cutty.	contradiction
+bzd	Bùsi wéx dör ye' kíxmèxmĩ e' tso'rö ciudad batà ã.	Bùsi wéx kiànã ye' kĩ ẽ' kĩmõ e' séxrke káxmîxë.	entailment
+bzd	Bùsi wéx dör ye' kíxmèxmĩ e' tso'rö ciudad batà ã.	Tàyëla wéx dör ye' kĩmèxke e' tso' 5 millas i ulát wa.	neutral
+bzd	Bùsi wéx dör ye' kíxmèxmĩ e' tso'rö ciudad batà ã.	Aû kèq yì kũ ã ye' kíxméxrmĩ.	contradiction
+bzd	Erë tã ie'pa tso' balàtërule tö wéxëltë dör káx áie uléi tã yì dör ù ã alátsitsipa, irir íyi wèxs...	Sulìtãnẽ dör iche bua' irir tö séxjka se' kãnèxblö káx áie ã.	contradiction
+bzd	Erë tã ie'pa tso' balàtërule tö wéxëltë dör káx áie uléi tã yì dör ù ã alátsitsipa, irir íyi wèxs...	Aû kèq ie'pa dòqka ujtè wa ãñíxjkêqë tö yì éqltë ulà dör káx áie tã íxsie éqt dör ù icha.	entailment
+bzd	Erë tã ie'pa tso' balàtërule tö wéxëltë dör káx áie uléi tã yì dör ù ã alátsitsipa, irir íyi wèxs...	Aû kèq ie'pa dòqka ujtè wa tö yì tã i kãnèxblòqmĩ káx sawíyök áie ã tã yì dör káx ajkue bièmĩ.	neutral
+bzd	Îxñẽ se' tã i ujtè chèke irir e' dör Mãñáxltë SS, U2 e' icha Quick ẽnã Blackbird.	Ie' kèq ẽ' yèqnẽ ĩã ujtóqk yéqs.	contradiction
+bzd	Îxñẽ se' tã i ujtè chèke irir e' dör Mãñáxltë SS, U2 e' icha Quick ẽnã Blackbird.	Ie' ujtòqke submarino mãñáxtöm ikũãki.	neutral
+bzd	Îxñẽ se' tã i ujtè chèke irir e' dör Mãñáxltë SS, U2 e' icha Quick ẽnã Blackbird.	Ie' ujtòqke íyi mãñáxt ése.	entailment
+bzd	Ye' éxn ã ichàkũ tö ie'pa wã i tã' e' dör, wèxs íyi e's, alà skéxl, ie'pa e'köl e' du'wã.	Ie' alà séxjka e' bakshka ĩã.	contradiction
+bzd	Ye' éxn ã ichàkũ tö ie'pa wã i tã' e' dör, wèxs íyi e's, alà skéxl, ie'pa e'köl e' du'wã.	Alárlar skéxl e'köl du'wã.	entailment
+bzd	Ye' éxn ã ichàkũ tö ie'pa wã i tã' e' dör, wèxs íyi e's, alà skéxl, ie'pa e'köl e' du'wã.	Alà wéx du'wã e' kùxnẽ wake' dawè ie.	neutral
+bzd	Tã, wake', Androv Gromikov kèq wã ì ĩùxtèqnẽ yéqs, erë tã sa' wã película ujté tso' séxjka yö'tso U2 e' wã.	U2 dör película klòqõ tãîxë.	entailment
+bzd	Tã, wake', Androv Gromikov kèq wã ì ĩùxtèqnẽ yéqs, erë tã sa' wã película ujté tso' séxjka yö'tso U2 e' wã.	U2 dör película klòqõ tonelada ét di' dikîxã.	neutral
+bzd	Tã, wake', Androv Gromikov kèq wã ì ĩùxtèqnẽ yéqs, erë tã sa' wã película ujté tso' séxjka yö'tso U2 e' wã.	Aû kèq sa' wã i ujté kũ archivo ã e' kũẽkĩ tã sa' káxwöta i bikeitsök.	contradiction
+bzd	Iché irir tö ye' wòqbla diòq yéqrlurmĩ, tã ukòqki iche irir tö Joe míxã tkòqrö porche.	Mĩk ĩã iche irir tö be' shkóqka porche kĩ, tã i wòqbla diòq yéqrlunã.	entailment
+bzd	Iché irir tö ye' wòqbla diòq yéqrlurmĩ, tã ukòqki iche irir tö Joe míxã tkòqrö porche.	Ie' wòqbla diòq pàiklelor irir bét ukòqki Joe kéũ irir porche pámĩk.	contradiction
+bzd	Iché irir tö ye' wòqbla diòq yéqrlurmĩ, tã ukòqki iche irir tö Joe míxã tkòqrö porche.	I tsë'nã èxë míxk Joe ĩéxmĩ e' tã.	neutral
+bzd	Wóqsũk aeronave wòqbutsaka bö' wòqrkue ie, ì kũẽkĩ i ñáxrwamĩ tã i diárwãmĩ tã i wã plomo tak tso' àxs e' ã dìba aló tkòqmĩ.	Dìba aló e' ãñìxes e' ã i wòqklörmĩ míxk i wòqbutsaka e' tã.	neutral
+bzd	Wóqsũk aeronave wòqbutsaka bö' wòqrkue ie, ì kũẽkĩ i ñáxrwamĩ tã i diárwãmĩ tã i wã plomo tak tso' àxs e' ã dìba aló tkòqmĩ.	Dìba aló e' tkòqmĩ ĩã wéx bua' ie irir e' ã mĩk ábion ñâxnãwa e' ukòqki.	entailment
+bzd	Wóqsũk aeronave wòqbutsaka bö' wòqrkue ie, ì kũẽkĩ i ñáxrwamĩ tã i diárwãmĩ tã i wã plomo tak tso' àxs e' ã dìba aló tkòqmĩ.	Dìba aló e' kèq tkòqpamĩ mĩk i wòqbutsãka e' tã.	contradiction
+bzd	I' dör sargento i wóqkir i yawóqkbla Clen Francis, jubilado i Diché káxshùxã estadounidenses icha.	Iwóqkir yèqnẽtsa bak i Diché káxshùxã Estados Unidos e' icha.	entailment
+bzd	I' dör sargento i wóqkir i yawóqkbla Clen Francis, jubilado i Diché káxshùxã estadounidenses icha.	I wóqkir yèqnẽtsã ñîxköl kĩka semana ét tso'.	neutral
+bzd	I' dör sargento i wóqkir i yawóqkbla Clen Francis, jubilado i Diché káxshùxã estadounidenses icha.	I wóqkir i Diché Káxshùxã Estados Unidos icha ñîxköl e' dör i wóqulârke e' sãwẽmĩ semana i' wa.	contradiction
+bzd	Éqwe, i déka dòqka mĩk tö ábion tso' dòqka bòqtöm ö mãñáxtöm dòqke semana ét e' ã tã kèq i éxn ã ĩàxnẽ tö wéx èq e' úxrke.	Ábion e'töm tsáxka i dòqke semana bít e' ã.	entailment
+bzd	Éqwe, i déka dòqka mĩk tö ábion tso' dòqka bòqtöm ö mãñáxtöm dòqke semana ét e' ã tã kèq i éxn ã ĩàxnẽ tö wéx èq e' úxrke.	Ábion ètkö e' talár èq darêqrêq ë.	neutral
+bzd	Éqwe, i déka dòqka mĩk tö ábion tso' dòqka bòqtöm ö mãñáxtöm dòqke semana ét e' ã tã kèq i éxn ã ĩàxnẽ tö wéx èq e' úxrke.	Yéqs ábion kèq dë e'töm.	contradiction
+bzd	Ie'pa wã i ujchẽnã tö i wã entrenamiento tã' pàio pàyörule tã ye' ã káxwö yéqtsã irir élke pàio payóqrule ése ióqkka.	Ichòqkewa si' mãñáxt entrenamiento e' ẽ'ũkwa pàio dör se' pà skéwa ése wa.	neutral
+bzd	Ie'pa wã i ujchẽnã tö i wã entrenamiento tã' pàio pàyörule tã ye' ã káxwö yéqtsã irir élke pàio payóqrule ése ióqkka.	Entrenamiento pàio ése ióka e' kĩ tãîx káxwö kiànã.	entailment
+bzd	Ie'pa wã i ujchẽnã tö i wã entrenamiento tã' pàio pàyörule tã ye' ã káxwö yéqtsã irir élke pàio payóqrule ése ióqkka.	Sa' dör wânãmã be' ã entrenamiento yawèmĩ pàio se' pà skéxwã ie ése ióqkka séxjka dìwö batà ã tã.	contradiction
+bzd	Ye' éxn ã ichàkũ tö kèq ì sãwîxar ése tã shkówã bomba wóqs e' wâ dör tö kèq i tsikìrpawã, i wak èqmẽ tã darêqrêq i tèqnã íyök kĩ.	Bomba wòqitwa piloto dör.	neutral
+bzd	Ye' éxn ã ichàkũ tö kèq ì sãwîxar ése tã shkówã bomba wóqs e' wâ dör tö kèq i tsikìrpawã, i wak èqmẽ tã darêqrêq i tèqnã íyök kĩ.	Bomba kèq ã káxwö àxnẽ tsikìnũkwã.	entailment
+bzd	Ye' éxn ã ichàkũ tö kèq ì sãwîxar ése tã shkówã bomba wóqs e' wâ dör tö kèq i tsikìrpawã, i wak èqmẽ tã darêqrêq i tèqnã íyök kĩ.	Sãwîx tãîx tso' tö bomba tsikírwã.	contradiction
+bzd	Tã dòq i dòqtsa yêqsyêqs tö ì kiànã ye' kĩ yawè.	Aû kèq ye' éxn ã ĩàxnã tö wèxs be' wòqã i' wèqnã.	contradiction
+bzd	Tã dòq i dòqtsa yêqsyêqs tö ì kiànã ye' kĩ yawè.	Éwa tã irir, ye' i mâxũk yawèka.	entailment
+bzd	Tã dòq i dòqtsa yêqsyêqs tö ì kiànã ye' kĩ yawè.	Ye' tso' kãnèx mâxũk èxwẽwa semana ièqt wa.	neutral
+bzd	Erë e' sùx, íyiwak chòqwamĩ kéxkkrâë, i bua' ie dör sawèq.	Sawèq tkòqkeyal kéxkkrâë.	neutral
+bzd	Erë e' sùx, íyiwak chòqwamĩ kéxkkrâë, i bua' ie dör sawèq.	Sewèq tkáyal shkòqèqmẽ.	entailment
+bzd	Erë e' sùx, íyiwak chòqwamĩ kéxkkrâë, i bua' ie dör sawèq.	Sawèq tkòqkeyal yêqsyêqs ẽnã séxn wa.	contradiction
+bzd	Mĩka sa' i kúxwã, tã újkö wòqtëtulur.	Újkö séxjka ajkòq tulúr áie.	contradiction
+bzd	Mĩka sa' i kúxwã, tã újkö wòqtëtulur.	Sa' wã yàbë tã sa' wak wã.	neutral
+bzd	Mĩka sa' i kúxwã, tã újkö wòqtëtulur.	Sa' i kũẽ eréq újkö tulúr wòqtërule.	entailment
+bzd	E' wa tã i káxwöta kèka séxjka e' dör tã i mâxũk ẽnã i shúxlóqknẽ e's.	Yö iklòqwẽ tö séxjka kiànã ye' kĩ e' wa yö íyi i' shúxlèmĩ.	neutral
+bzd	E' wa tã i káxwöta kèka séxjka e' dör tã i mâxũk ẽnã i shúxlóqknẽ e's.	Aû kèq ye' éxn ã i wà àxnẽ dâãie tö wèxs yö séxjka wà wèxke.	contradiction
+bzd	E' wa tã i káxwöta kèka séxjka e' dör tã i mâxũk ẽnã i shúxlóqknẽ e's.	Séxjka wa yö i yawèke wòqitẽ e' wa.	entailment
+bzd	Ie' dé, dör újkö pée tã ye' éxn ã ĩàxnã sãwèxne tsíxjkẽn i wébalöknẽ i wòq kĩ, tã i súx yö tö i chkénãwã.	Ye' tsë'nãka bua'ë ẽnã wë'ĩàx ë èx wa e' wa dör wòqshàx tã újkö ajkòq shki e' pé irir.	contradiction
+bzd	Ie' dé, dör újkö pée tã ye' éxn ã ĩàxnã sãwèxne tsíxjkẽn i wébalöknẽ i wòq kĩ, tã i súx yö tö i chkénãwã.	Yö i mâxwẽ tö múx kèq se' klör i wambalökpa ie, erë sa' éxn ã ĩàxnã tö sa' dör i kĩ i wòqtkeka.	neutral
+bzd	Ie' dé, dör újkö pée tã ye' éxn ã ĩàxnã sãwèxne tsíxjkẽn i wébalöknẽ i wòq kĩ, tã i súx yö tö i chkénãwã.	I wéble mĩk i détsa újkö ã e' èq wa tö yö i sãwéxwã tö i tso' chkèie.	entailment
+bzd	E' wa, kèq ye' wã ì tã pàke wòqshàx.	Aû ye' wã dalì wé tã' i ulà wa.	entailment
+bzd	E' wa, kèq ye' wã ì tã pàke wòqshàx.	Ye' wã dalì wé tã' ákchka ie.	contradiction
+bzd	E' wa, kèq ye' wã ì tã pàke wòqshàx.	Tãîx dalì wé tso'.	neutral
+bzd	Tã ie' kèq wã ì yòqnẽ yéqs i wak èq wa.	Ie' ulà ã tãîx kíxmẽ dòqke.	entailment
+bzd	Tã ie' kèq wã ì yòqnẽ yéqs i wak èq wa.	Ie' ulà ã kíxmẽ dòqke i chkòq wa ẽnã i datsi' wa.	neutral
+bzd	Tã ie' kèq wã ì yòqnẽ yéqs i wak èq wa.	Ie' dör i wak èqmẽ.	contradiction
+bzd	E' wa tã yö i bikeits, Sibòq ye' ã, tã Ramona tso'rö ẽ' dör.	Ramona baktër íxski wòqshkinãwã ie wèxs alà yóqrke êskapë.	contradiction
+bzd	E' wa tã yö i bikeits, Sibòq ye' ã, tã Ramona tso'rö ẽ' dör.	Ramona tso' mẽ' ie ye' ajkátök.	neutral
+bzd	E' wa tã yö i bikeits, Sibòq ye' ã, tã Ramona tso'rö ẽ' dör.	Ramona wéqrki dakírkî e' daléwa ye' wéqrke ẽ' dör ajkòq shùx bùkule.	entailment
+bzd	Tã móxki yêqsyêqs irir!	Tãîx chkòq ñéx irir, erë kèq ĩẽ'ts wòqsìnẽkã.	neutral
+bzd	Tã móxki yêqsyêqs irir!	Ie' kèq ẽ'ts dör tãîx.	entailment
+bzd	Tã móxki yêqsyêqs irir!	Ie' bak èxë.	contradiction
+bzd	Aû kèq ye' éxn ã ĩàxnẽ tö ĩàxtẽ Augusta i' ukòqki.	Ie' sèxnẽ ĩã Augusta ichòq sö tö mĩk i yèqnẽka e' ukòqki.	neutral
+bzd	Aû kèq ye' éxn ã ĩàxnẽ tö ĩàxtẽ Augusta i' ukòqki.	Ie' sèxnẽ ĩã Augusta.	entailment
+bzd	Aû kèq ye' éxn ã ĩàxnẽ tö ĩàxtẽ Augusta i' ukòqki.	Ie' mìxnẽã Augusta tã bánẽt bétkanẽ.	contradiction
+bzd	Séxjka ì yö' sö... kèq yì wã se' ã i yèqnẽ tö wéx i mĩ'kerö, ãñìxes mĩk iẽ' yòqkelur i wé ã e' tã shkóqk káx wéx alê ã tã ẽ' ĩáxtke káxwö élke.	Kèq ye' wã yéqs ichàkine tö wéx a' mĩ'kerö.	neutral
+bzd	Séxjka ì yö' sö... kèq yì wã se' ã i yèqnẽ tö wéx i mĩ'kerö, ãñìxes mĩk iẽ' yòqkelur i wé ã e' tã shkóqk káx wéx alê ã tã ẽ' ĩáxtke káxwö élke.	Kéxkkrâ ĩẽ' chòqke tö wéx i tso' ẽnã wéx i mĩ'kerak.	contradiction
+bzd	Séxjka ì yö' sö... kèq yì wã se' ã i yèqnẽ tö wéx i mĩ'kerö, ãñìxes mĩk iẽ' yòqkelur i wé ã e' tã shkóqk káx wéx alê ã tã ẽ' ĩáxtke káxwö élke.	Yéqs kèq irir iche tö wéx i mĩ'kerö.	entailment
+bzd	Ichérak irir: Sa' tso' káx pàtãũk àxs be' ẽ' tsùxãt.	Aû kèq a' dör ì pàtãwãr sa' kũẽkĩ.	contradiction
+bzd	Ichérak irir: Sa' tso' káx pàtãũk àxs be' ẽ' tsùxãt.	I pàtóxrke ù kũẽkĩ ye' ã ẽnã ye' éqlpa kũẽkĩ.	neutral
+bzd	Ichérak irir: Sa' tso' káx pàtãũk àxs be' ẽ' tsùxãt.	I pàtóxrke ù kũẽkĩ.	entailment
+bzd	Éqwe, buléñakkĩ, e' wa tã, presidente Kennedy, mm..., Cuba wòqtkë'ka ẽnã, mmm..., sa' bùke e' dör bàrkö Ruso klòqwẽwa wéx mĩchô Cuba tã banẽt tã irir misiles kúxwã.	Kennedy dör sa' tropa ã iche tö misiles yulóq.	entailment
+bzd	Éqwe, buléñakkĩ, e' wa tã, presidente Kennedy, mm..., Cuba wòqtkë'ka ẽnã, mmm..., sa' bùke e' dör bàrkö Ruso klòqwẽwa wéx mĩchô Cuba tã banẽt tã irir misiles kúxwã.	Aû kèq ie'pa wã bàrkö wòqklòqnẽ yéqs e' wâ dör tö kèq ie'pa kĩ wòqtke kiànẽ.	contradiction
+bzd	Éqwe, buléñakkĩ, e' wa tã, presidente Kennedy, mm..., Cuba wòqtkë'ka ẽnã, mmm..., sa' bùke e' dör bàrkö Ruso klòqwẽwa wéx mĩchô Cuba tã banẽt tã irir misiles kúxwã.	I kũéx irir 20 misiles bàrkö ã.	neutral
+bzd	I alê kũẽkĩ, wéqm tkòqmĩ.	Wéqm tkámĩ tribunal wéx ã,	neutral
+bzd	I alê kũẽkĩ, wéqm tkòqmĩ.	Wéqm tkámĩ ù ã.	entailment
+bzd	I alê kũẽkĩ, wéqm tkòqmĩ.	Wéqm túxnẽmĩ iét ajkẽn.	contradiction
+bzd	Mmm..., ye' wôqkepa wake' bakdë kĩ se' daléqrwã ie, daléqr pôë mĩk alë tã ye' yéqpa tso' ĩã tã sa' dör bêqr i tkòqwẽke bua'ë diàẽ íxskĩ.	Ye' kĩ káxwö tká tãîx i wóqstsũk tkòqrö ye' wôqkepa ù ã.	neutral
+bzd	Mmm..., ye' wôqkepa wake' bakdë kĩ se' daléqrwã ie, daléqr pôë mĩk alë tã ye' yéqpa tso' ĩã tã sa' dör bêqr i tkòqwẽke bua'ë diàẽ íxskĩ.	Ye' wôqkepa e' wòqet dör daléqr èqmẽ.	entailment
+bzd	Mmm..., ye' wôqkepa wake' bakdë kĩ se' daléqrwã ie, daléqr pôë mĩk alë tã ye' yéqpa tso' ĩã tã sa' dör bêqr i tkòqwẽke bua'ë diàẽ íxskĩ.	Ye' wôqkepa wake' bakdë dör sulû tã kèq e' kũẽkĩ ye' wòqbatsẽ ie'pa sãk shkóqk.	contradiction
+bzd	Aû kèq ye' ã káxwö àxnẽ íyi wèxs ì alê kòxs tkòqke e' sãũk.	Ye' dòqwãmĩ ĩèxũkwa wânãmã tã béqrërpa tsáxlĩ.	neutral
+bzd	Aû kèq ye' ã káxwö àxnẽ íyi wèxs ì alê kòxs tkòqke e' sãũk.	Yö iéwã káxwö wa tã éq e' kéxwa ĩã.	contradiction
+bzd	Aû kèq ye' ã káxwö àxnẽ íyi wèxs ì alê kòxs tkòqke e' sãũk.	Ye' àxte kèq ã káxwö kùxnẽ ĩa dóqkwã kéxwe séxjka i tkòqũkmĩ.	entailment
+bzd	Tã, ét ye' kãnèx e' kéxska e' tã ẽ' dör se' yawóqk àxs ie'pa dör paracaídas tulòqwã armas nucleares ése wòqtsakoka ie, wéx dör ĩẽ' bomba atómica bulâùxka.	Bomba atómica kèq wã i wòqtsakoka tã.	contradiction
+bzd	Tã, ét ye' kãnèx e' kéxska e' tã ẽ' dör se' yawóqk àxs ie'pa dör paracaídas tulòqwã armas nucleares ése wòqtsakoka ie, wéx dör ĩẽ' bomba atómica bulâùxka.	I bulâwõka e' dör mĩk bomba tèqnã i mĩk e' tã.	entailment
+bzd	Tã, ét ye' kãnèx e' kéxska e' tã ẽ' dör se' yawóqk àxs ie'pa dör paracaídas tulòqwã armas nucleares ése wòqtsakoka ie, wéx dör ĩẽ' bomba atómica bulâùxka.	Be' kĩ diché kiànã tsîr bomba atómica wòqtsakoka mĩk i tèqnã mĩk e' tã.	neutral
+bzd	Ye' wîxke shkòqke ye' ã káxpakök ikuãki mĩk be' kĩ dawás tso' alátsitsi e' kéxska e' tã, i bua' ie, i shkòqke i yàmĩpa pàkök ẽnã wèxs i bak sèxnũk e' kéxska tã.	Wake' ye' wîxke káxpake e' tsèke yö bua'ë.	neutral
+bzd	Ye' wîxke shkòqke ye' ã káxpakök ikuãki mĩk be' kĩ dawás tso' alátsitsi e' kéxska e' tã, i bua' ie, i shkòqke i yàmĩpa pàkök ẽnã wèxs i bak sèxnũk e' kéxska tã.	Ye' wîxke wake' kèq ẽ' yèqnẽ mĩk ie' bak alátsitsi e' pàkök.	contradiction
+bzd	Ye' wîxke shkòqke ye' ã káxpakök ikuãki mĩk be' kĩ dawás tso' alátsitsi e' kéxska e' tã, i bua' ie, i shkòqke i yàmĩpa pàkök ẽnã wèxs i bak sèxnũk e' kéxska tã.	Ye' wîxke dör tãîx ye' ã ie' wak yàmĩ pàkèke mĩk ie' bak tsîr e' tã.	entailment
+bzd	Sa' wã ẽ' apàio suktkër ése tso' séxjka ábion ã, wèxs astronauta wã i tso' e's, kèq dör wèxs sa' icha dör séxjka dör dalôqlôqë e's, dalôqlôqë, bòta ë séxjka, àxs káx bá dòqwã ĩa, e' wake' kũẽkĩ.	Sa' apàio kèq wë'nẽ wèxs astronauta wã i tso' êskapë yéqska.	contradiction
+bzd	Sa' wã ẽ' apàio suktkër ése tso' séxjka ábion ã, wèxs astronauta wã i tso' e's, kèq dör wèxs sa' icha dör séxjka dör dalôqlôqë e's, dalôqlôqë, bòta ë séxjka, àxs káx bá dòqwã ĩa, e' wake' kũẽkĩ.	Sa' apàio e' dör wèxs astronauta icha e' sùx, káx bá icha èq dör ikũãki, sa' icha dör dalôqlôqë.	entailment
+bzd	Sa' wã ẽ' apàio suktkër ése tso' séxjka ábion ã, wèxs astronauta wã i tso' e's, kèq dör wèxs sa' icha dör séxjka dör dalôqlôqë e's, dalôqlôqë, bòta ë séxjka, àxs káx bá dòqwã ĩa, e' wake' kũẽkĩ.	Be' ã apàio kúxrmĩ wèxs be' kĩ i wòqa kiànã e's.	neutral
+bzd	Tã e's irir, ye' wôqke kèq bak wéqm bua'.	Ye' wôqke bak e'köl se' pulèq ie.	entailment
+bzd	Tã e's irir, ye' wôqke kèq bak wéqm bua'.	Ye' wôqke bak móxki kéxsik ie ẽnã ẽ' wamblö sulûë.	neutral
+bzd	Tã e's irir, ye' wôqke kèq bak wéqm bua'.	Ye' wôqke bak e'köl se' bua'ichóqk e' kũẽwãrâ wéxjkë alê be' dör!	contradiction
+bzd	Irir 30 ö 40 ábionpa U2, tã sa' dör chinos wakpa yawémĩ pilotos ie, ie'pa tã pilotos británicos, wòqshàx káx wâñẽ wéx sa' dör aliados éjkë.	Aû kèq sa' yòqnẽ yì tã.	contradiction
+bzd	Irir 30 ö 40 ábionpa U2, tã sa' dör chinos wakpa yawémĩ pilotos ie, ie'pa tã pilotos británicos, wòqshàx káx wâñẽ wéx sa' dör aliados éjkë.	Sa' ẽ' yawòqke 5 semana británicos wakpa tã.	neutral
+bzd	Irir 30 ö 40 ábionpa U2, tã sa' dör chinos wakpa yawémĩ pilotos ie, ie'pa tã pilotos británicos, wòqshàx káx wâñẽ wéx sa' dör aliados éjkë.	Sa' ẽ' yawòqke tãîx soldados mãléxpa tã.	entailment
+bzd	Éwa ta, iche irir Éqwë i yulóq, íyi i' yulóq empresa i' ã.	Ie' kèq ùtẽ ye' tã.	contradiction
+bzd	Éwa ta, iche irir Éqwë i yulóq, íyi i' yulóq empresa i' ã.	Ye' ã iche irir tö ì alê yulóq.	entailment
+bzd	Éwa ta, iche irir Éqwë i yulóq, íyi i' yulóq empresa i' ã.	Ie' dör ye' ã iche tö be' ẽ' alòqke e' ujté yulóq.	neutral
+bzd	Ie' iche tö i mìxnẽka aìèqka.	Iche irir tö ĩẽ' wòqklö'wẽ wéx alê ñãlàx kĩ.	neutral
+bzd	Ie' iche tö i mìxnẽka aìèqka.	Iche irir tö ĩẽ' àmĩ dià wa.	contradiction
+bzd	Ie' iche tö i mìxnẽka aìèqka.	Iche irir tö i míxyal aìèqka.	entailment
+bzd	Hum, aû, ẽ' chòqka móxki, kèq ye' wã uyèqjkuö àxritsẽ yéqs wéx wânãmã káxwöta àxritsẽ ye' dör e' ët.	Aû kèq ye' wã yéqs uyèqjkuö àxritsẽ dòqka 100 páginas ése.	neutral
+bzd	Hum, aû, ẽ' chòqka móxki, kèq ye' wã uyèqjkuö àxritsẽ yéqs wéx wânãmã káxwöta àxritsẽ ye' dör e' ët.	Aû kèq ye' wã uyèqjkuö àxritsẽ tãîx.	entailment
+bzd	Hum, aû, ẽ' chòqka móxki, kèq ye' wã uyèqjkuö àxritsẽ yéqs wéx wânãmã káxwöta àxritsẽ ye' dör e' ët.	Yö uyèqjkuö àxritsẽ kéxkkrâë.	contradiction
+bzd	Yö i shkòqwéx tã yö dalì shtéka wóqs ye' mìxnẽã wéx ye' káxwöta shkóqk ẽ' èqka.	Yö dalì ãmèxãt tã yö i bikeitse tö kèq ye' mĩk ì sulûrpa.	contradiction
+bzd	Yö i shkòqwéx tã yö dalì shtéka wóqs ye' mìxnẽã wéx ye' káxwöta shkóqk ẽ' èqka.	Dalì míxtsẽn ye' wã wéx dör i wé e' ã.	neutral
+bzd	Yö i shkòqwéx tã yö dalì shtéka wóqs ye' mìxnẽã wéx ye' káxwöta shkóqk ẽ' èqka.	Dalì míxtsẽn ye' wã wéx irir ẽ' dör.	entailment
+bzd	E' tã i mãnèxnãtsã ikũãki ẽ' wa tã kèq klòqnẽ se' wã.	Ie' tsë'nãkã e' tká i tã dòqka élkêë.	contradiction
+bzd	E' tã i mãnèxnãtsã ikũãki ẽ' wa tã kèq klòqnẽ se' wã.	I tkámĩ èxë dòqnẽ sĩàxrë ã.	neutral
+bzd	E' tã i mãnèxnãtsã ikũãki ẽ' wa tã kèq klòqnẽ se' wã.	Ie' tsë'nãka e' mãnèxnãtsã tãîxë.	entailment
+bzd	Ye' ãmèxãt... ye' yawé irir se' 15 e' shùxã skóie escuela ã, tã aû kèq ye' mìxnẽ, aû kèq ye' mìxnẽ.	Aû kèq ye' klòqnẽ skóqk escuela ã.	contradiction
+bzd	Ye' ãmèxãt... ye' yawé irir se' 15 e' shùxã skóie escuela ã, tã aû kèq ye' mìxnẽ, aû kèq ye' mìxnẽ.	Ye' klòqnã shkó ie escuela ã.	entailment
+bzd	Ye' ãmèxãt... ye' yawé irir se' 15 e' shùxã skóie escuela ã, tã aû kèq ye' mìxnẽ, aû kèq ye' mìxnẽ.	Yö i yóqrke e' ët ujté klóqrke kibí ie.	neutral
+bzd	Káxwöta tkóqkmĩ érlulê cámara tóqmĩk káxjkẽ tã, eh, káxkök úxnẽ e' yòqki U2 e' kĩ ö úxnũk apàio suktkër ése kĩ.	Se' kibíie e' àxtã tën examén ã tã kèq i dë'ka úxnũk U2 kĩ.	neutral
+bzd	Káxwöta tkóqkmĩ érlulê cámara tóqmĩk káxjkẽ tã, eh, káxkök úxnẽ e' yòqki U2 e' kĩ ö úxnũk apàio suktkër ése kĩ.	Káxwöta tkóqkmĩ kéxwe ẽ' yawè tãîxë e' ã U2 ã úxnẽ ã e' yòqki.	entailment
+bzd	Káxwöta tkóqkmĩ érlulê cámara tóqmĩk káxjkẽ tã, eh, káxkök úxnẽ e' yòqki U2 e' kĩ ö úxnũk apàio suktkër ése kĩ.	Be' ã káxwöta méxrke e'tökicha èq úxnũk U2 e' ã káx ét ã.	contradiction
+bzd	Ye' ẽ' chòqke e' èq wa.	Yö i pàieketkö séxjka íyi páxlĩ éxjkë.	contradiction
+bzd	Ye' ẽ' chòqke e' èq wa.	Yö i pàieketkö séxjka íyi wéxs uyèqjkuö mãléxpa êskapë.	neutral
+bzd	Ye' ẽ' chòqke e' èq wa.	Ye' tso' ie'pa íyi ujtè étkèq chóqk wèxs ie'pa icha e's.	entailment
+bzd	I' dör èrpa tö, e' wamblèqnẽ e' kĩ dawás tso' 75 éjkë, Texas legislatura e' dör bòto yö' militar ã shùxshàx tã irirdak Embajador Texas ã, e' kũẽkĩ, i kíxka embajadores Texas e' kiármĩ.	Militares tabèchka ajkà àxritsã tö kèq yòqrpa embajador TX ie.	contradiction
+bzd	I' dör èrpa tö, e' wamblèqnẽ e' kĩ dawás tso' 75 éjkë, Texas legislatura e' dör bòto yö' militar ã shùxshàx tã irirdak Embajador Texas ã, e' kũẽkĩ, i kíxka embajadores Texas e' kiármĩ.	Militar tabèchka e' ajkà àxritse Texas Embajador ie Congreso Estados Unidos.	neutral
+bzd	I' dör èrpa tö, e' wamblèqnẽ e' kĩ dawás tso' 75 éjkë, Texas legislatura e' dör bòto yö' militar ã shùxshàx tã irirdak Embajador Texas ã, e' kũẽkĩ, i kíxka embajadores Texas e' kiármĩ.	Militar tabèchka e' kìnẽ Embajadores TX.	entailment
+bzd	Múx ye' ã ì alê yòqnã.	Ye' ã ì alê yóqrmĩ.	entailment
+bzd	Múx ye' ã ì alê yòqnã.	Be' éxn ĩàxnã tö aû kèq ì tã yéqs e' yóqrmĩ ye' ã.	contradiction
+bzd	Múx ye' ã ì alê yòqnã.	I klòqwẽ yö tö ì alê yawèmĩ yö ẽ' tsáxtko ie.	neutral
+bzd	Sulû ĩéxn ã e' áxn, tã i shkòqke i kutà ã i pàkök, kéxkkrâë, e' che irir, tö i tso' i yawóqk sulû.	Ie' wake' dör i kutà pàblë.	contradiction
+bzd	Sulû ĩéxn ã e' áxn, tã i shkòqke i kutà ã i pàkök, kéxkkrâë, e' che irir, tö i tso' i yawóqk sulû.	I ãméxãt idr yêqsyêqs ë tö i kutà aû kèq wóqulâr ì yawóqk bua'.	neutral
+bzd	Sulû ĩéxn ã e' áxn, tã i shkòqke i kutà ã i pàkök, kéxkkrâë, e' che irir, tö i tso' i yawóqk sulû.	Ie' bak i kutà chóqk kéqsik wa.	entailment
+bzd	Éwa tã ye'dë' be' ù ã ukòqki yö istâwõ i' ichàki' wéx wânãmã tã ichàkèke yö e' éql mĩk ye' démĩ ẽ' dör e' tã.	Be' teléfono kekã yö peitule wà ichàko.	neutral
+bzd	Éwa tã ye'dë' be' ù ã ukòqki yö istâwõ i' ichàki' wéx wânãmã tã ichàkèke yö e' éql mĩk ye' démĩ ẽ' dör e' tã.	I shtâwõ ichàke yö mĩk ye' dé be' ù ã e' tã.	entailment
+bzd	Éwa tã ye'dë' be' ù ã ukòqki yö istâwõ i' ichàki' wéx wânãmã tã ichàkèke yö e' éql mĩk ye' démĩ ẽ' dör e' tã.	Wânãmã tã yö ichàkèmĩ, erë tã kèq ye' wã i yòqnẽ.	contradiction
+bzd	Éqwe, e' wa tã i débitũ i' bulâmẽ ẽ' dör tã, eh, chówa wèxs... I klóqwẽ yö tö ét yö ichàke, ö ie' tkàmĩ, ö wéx kèq ujchẽn ye' wã.	Îxñẽ káxm ye' dö, e' wa tã káxm se' i sãũ.	contradiction
+bzd	Éqwe, e' wa tã i débitũ i' bulâmẽ ẽ' dör tã, eh, chówa wèxs... I klóqwẽ yö tö ét yö ichàke, ö ie' tkàmĩ, ö wéx kèq ujchẽn ye' wã.	Ye' ẽ' ajkáche gimnacio ã îxñẽ tã ie' débitũ élkë bêqrërpa tã ye' shkèxwéx irir.	neutral
+bzd	Éqwe, e' wa tã i débitũ i' bulâmẽ ẽ' dör tã, eh, chówa wèxs... I klóqwẽ yö tö ét yö ichàke, ö ie' tkàmĩ, ö wéx kèq ujchẽn ye' wã.	Ye' ẽ' ajkáche îxñẽ bulâmẽ tã ie' ãñìxes dé iñã.	entailment
+bzd	Aû kèq sa' éxn ã ĩàxnẽ tö wéx ĩmĩrak.	Aû sa' wã i ujchẽn tö wéx ie'pa dapànã e' dâmĩ interestatal.	neutral
+bzd	Aû kèq sa' éxn ã ĩàxnẽ tö wéx ĩmĩrak.	Aû kèq sa' éxn ã ĩàxnẽ tö wéx pë' dâmĩ.	entailment
+bzd	Aû kèq sa' éxn ã ĩàxnẽ tö wéx ĩmĩrak.	Sa' éxn ã ĩàxnã tö wèxkëka ie' míxke.	contradiction
+bzd	Erë tã ye' tso' wèxs, wèìnã, yö chkòq ñèxmĩ. Ye' dawé balí wã.	Aû kèq ye' éxn ã ì ñâxk yéqs.	contradiction
+bzd	Erë tã ye' tso' wèxs, wèìnã, yö chkòq ñèxmĩ. Ye' dawé balí wã.	Balí tã' ye' wã, e' kũẽkĩ yö ét ye' chkòq ñéxwa.	entailment
+bzd	Erë tã ye' tso' wèxs, wèìnã, yö chkòq ñèxmĩ. Ye' dawé balí wã.	Ye' dawòqkewã balí wa, e' kũẽkĩ ye' míxã kápi wé ã.	neutral
+bzd	E' kũẽkĩ tö, súx yö be' ã ichèke tö îxñẽ ye' déka wéx iéjkë tã ye' kâblë' ẽ' yóqktsã.	Iéjkë tã ye' kâblë' ẽ' yóqktsã.	entailment
+bzd	E' kũẽkĩ tö, súx yö be' ã ichèke tö îxñẽ ye' déka wéx iéjkë tã ye' kâblë' ẽ' yóqktsã.	Tãîx ye' ã i daléqtkënãwã tã iéjkë tã kèq ye' ã i wòqklòqnẽ kibí ie.	neutral
+bzd	E' kũẽkĩ tö, súx yö be' ã ichèke tö îxñẽ ye' déka wéx iéjkë tã ye' kâblë' ẽ' yóqktsã.	Yéqs kèq ye' wòqki ã i bakmĩ tö ye' ẽ' yòqtsã.	contradiction
+bzd	I kùxnẽ dabòm pàryök kĩ dabòp pàköl ẽnã i kíxtã, wânãmã tã irir 1888 ö 1889.	I kùxnẽ 1900 e' yòqki.	entailment
+bzd	I kùxnẽ dabòm pàryök kĩ dabòp pàköl ẽnã i kíxtã, wânãmã tã irir 1888 ö 1889.	I kùxnẽ diciembre 1880	neutral
+bzd	I kùxnẽ dabòm pàryök kĩ dabòp pàköl ẽnã i kíxtã, wânãmã tã irir 1888 ö 1889.	Ie' kèq kùxnẽ dòqka 1884.	contradiction
+bzd	Bua' irir tö be' wòqtko tsîr e' wòqóqwa e' wâ dör tö e' wa be' dör e'köl se' sĩwã'wö tíxwèxwãmĩ tôtôë.	I wòqtko e' dör ísie alê sĩwã'wö sulûwẽwãmĩ.	entailment
+bzd	Bua' irir tö be' wòqtko tsîr e' wòqóqwa e' wâ dör tö e' wa be' dör e'köl se' sĩwã'wö tíxwèxwãmĩ tôtôë.	I wòqtko e' kèq ã sãwîxâxr tã, e' kũẽkĩ tã i tawóqwã darêqrêq kòxs be' kĩ ikiànã e's.	contradiction
+bzd	Bua' irir tö be' wòqtko tsîr e' wòqóqwa e' wâ dör tö e' wa be' dör e'köl se' sĩwã'wö tíxwèxwãmĩ tôtôë.	I wòqtko tkòqkemĩ i biro' ã tã irir sĩwã'wö sulûwẽwãmĩ.	neutral
+bzd	Ye' kĩ ujtè dé shkóqk Di'jka, TX, éwa tã mĩk ye' dé ẽ' dör, éqwë, ye' wã i ujchẽnẽ tö ye' káxwöta shkóqk i wé Laughlin Air Force.	Ye' pátkënã Di' Icha ã, Texas kãnèxbalök.	entailment
+bzd	Ye' kĩ ujtè dé shkóqk Di'jka, TX, éwa tã mĩk ye' dé ẽ' dör, éqwë, ye' wã i ujchẽnẽ tö ye' káxwöta shkóqk i wé Laughlin Air Force.	Yéqs kèq ye' déqrule Texas.	contradiction
+bzd	Ye' kĩ ujtè dé shkóqk Di'jka, TX, éwa tã mĩk ye' dé ẽ' dör, éqwë, ye' wã i ujchẽnẽ tö ye' káxwöta shkóqk i wé Laughlin Air Force.	I diché káxshùxã dör ye' pátke Di' Icha ã, TX 2001 éjkë.	neutral
+bzd	Káx wâñẽ ẽ' ã champán mùxke, erë tã kèq séxjka wéx wà déqrke e' éxrkũwa; ì áxtke tkã' ã e' yèqke alátsitsipa dör, éwa tã ẽ' sa' bak tulur, wòqshkítkòqke ẽnã séxjka champán yóqk.	Alátsitsipa dör 3 kakö' champán yéwa.	neutral
+bzd	Káx wâñẽ ẽ' ã champán mùxke, erë tã kèq séxjka wéx wà déqrke e' éxrkũwa; ì áxtke tkã' ã e' yèqke alátsitsipa dör, éwa tã ẽ' sa' bak tulur, wòqshkítkòqke ẽnã séxjka champán yóqk.	Alátsitsipa dör élkë champán yé.	entailment
+bzd	Káx wâñẽ ẽ' ã champán mùxke, erë tã kèq séxjka wéx wà déqrke e' éxrkũwa; ì áxtke tkã' ã e' yèqke alátsitsipa dör, éwa tã ẽ' sa' bak tulur, wòqshkítkòqke ẽnã séxjka champán yóqk.	Kalòqte wé ã tká po'pôë kèq balo' wà dèqnẽ.	contradiction
+bzd	Tãîx káxpake tso' ciudad ã sumẽ.	Aû kèq ye' wã káxpake tséqrule.	contradiction
+bzd	Tãîx káxpake tso' ciudad ã sumẽ.	Tãîx káxpake tso' militares kĩ.	neutral
+bzd	Tãîx káxpake tso' ciudad ã sumẽ.	Tãîx káxpake tso' e' pàkarta.	entailment
+bzd	I tséqnã ẽnã swóqulârmĩ, i tsóq bö, mĩk bö i mâxwèxke, eh, ábion.	Aû kèq ye' éxn ã ábion mâxwẽ àxnẽ yéqs.	contradiction
+bzd	I tséqnã ẽnã swóqulârmĩ, i tsóq bö, mĩk bö i mâxwèxke, eh, ábion.	Ábion mâxwẽ e' be' ã tãîx íyi ajkáche.	entailment
+bzd	I tséqnã ẽnã swóqulârmĩ, i tsóq bö, mĩk bö i mâxwèxke, eh, ábion.	Mâxwẽ yawóqk ábion kĩ e' be' ã i ajkáchèmĩ se' péq e' i tòqtkök.	neutral
+bzd	Ye' kĩ ikànã che tö e' dör wòqshàx wa tã séxjka.	Aû kèq ye' éxn ã wòqshàx e' àxnẽ.	contradiction
+bzd	Ye' kĩ ikànã che tö e' dör wòqshàx wa tã séxjka.	I klòqwẽ yö tö wẽ sö wòqshàx wa che e' ã sãwîxâr bakdë.	neutral
+bzd	Ye' kĩ ikànã che tö e' dör wòqshàx wa tã séxjka.	I wòqshàx àxnã ye' éxn ã.	entailment
+bzd	E' dör wéx i wé káxshùxã tkòqke Cuba tsáxka, tã e' wa tã irir i tèqamĩ e' dör Rudolph Anderson.	Ábionpa séxjka kĩ i bak kèq tèqnẽrak i wã.	contradiction
+bzd	E' dör wéx i wé káxshùxã tkòqke Cuba tsáxka, tã e' wa tã irir i tèqamĩ e' dör Rudolph Anderson.	Ì alê tèqnãnẽmĩ Cuba.	entailment
+bzd	E' dör wéx i wé káxshùxã tkòqke Cuba tsáxka, tã e' wa tã irir i tèqamĩ e' dör Rudolph Anderson.	Ábion bêqrie tèqnãnẽmĩ Cuba tsáxka mayo wa.	neutral
+bzd	Ì sùxmã tã e' dör íyi èrpa wéx áxrkeĩã ye' éxn ã mĩk ye' bak alà tsîr e' tã, i bua' ie dör mĩk yö ì alê wamble sulû e' tã.	Móxki kèq ye' éxn ã ĩàxnẽ yéqs mĩk ye' bak tsîr e' tã.	contradiction
+bzd	Ì sùxmã tã e' dör íyi èrpa wéx áxrkeĩã ye' éxn ã mĩk ye' bak alà tsîr e' tã, i bua' ie dör mĩk yö ì alê wamble sulû e' tã.	I' tã ĩã ye' tsë'nã ĩã sulû dìwö îxñẽ ã.	neutral
+bzd	Ì sùxmã tã e' dör íyi èrpa wéx áxrkeĩã ye' éxn ã mĩk ye' bak alà tsîr e' tã, i bua' ie dör mĩk yö ì alê wamble sulû e' tã.	E' dör ye' ã tã íyi tsáx ujté biké tã ése.	entailment
+bzd	Éq àxnãs tö kèq ie' wòqbatsẽ i wa tö i wak dör dalôlô e' dìwö wa tã, tã e's i tká, be' éxn ã ĩàxnã, yö iklòqwẽ tö, e's sö ichòq i wà dör, be' éxn ã ĩàxnã, década 1930 mĩ'keshka e' wa, mĩk i yóqrak irir e' tã.	Darêqrêq irir yòqnũk dalôlô diàèqka.	neutral
+bzd	Éq àxnãs tö kèq ie' wòqbatsẽ i wa tö i wak dör dalôlô e' dìwö wa tã, tã e's i tká, be' éxn ã ĩàxnã, yö iklòqwẽ tö, e's sö ichòq i wà dör, be' éxn ã ĩàxnã, década 1930 mĩ'keshka e' wa, mĩk i yóqrak irir e' tã.	Irir tôtô wak dalôlô!	contradiction
+bzd	Éq àxnãs tö kèq ie' wòqbatsẽ i wa tö i wak dör dalôlô e' dìwö wa tã, tã e's i tká, be' éxn ã ĩàxnã, yö iklòqwẽ tö, e's sö ichòq i wà dör, be' éxn ã ĩàxnã, década 1930 mĩ'keshka e' wa, mĩk i yóqrak irir e' tã.	Darêqrêq irir wak dalôlô e' kéxska tã.	entailment
+bzd	Kèq yì éxn ã ĩàxnẽ tö wéx i mĩchôrak.	Séxjka wã i ujchèxnã yêqsyêqs tö wéx i mĩrak.	contradiction
+bzd	Kèq yì éxn ã ĩàxnẽ tö wéx i mĩchôrak.	Kèq yì éxn ã ĩàxnẽ tö ù wéx ã i mĩrak.	neutral
+bzd	Kèq yì éxn ã ĩàxnẽ tö wéx i mĩchôrak.	I shkè dör baléqrule.	entailment
+bzd	Tã aû kèq ie'pa ẽ' tsùxpaãt káxshùxã Augusta e' wâ dör pë' wã i ujchèxnã tö ie'pa kâblë' ì alê yawóqk e' dör yéqsyêqs wèxs tabú êskapë tã ẽ' óqktkö wak sarûrû e' wa.	Pë' kèq éxn ã bikeitse àxnẽ tö aû kèq ie'pa dör sarûrû.	contradiction
+bzd	Tã aû kèq ie'pa ẽ' tsùxpaãt káxshùxã Augusta e' wâ dör pë' wã i ujchèxnã tö ie'pa kâblë' ì alê yawóqk e' dör yéqsyêqs wèxs tabú êskapë tã ẽ' óqktkö wak sarûrû e' wa.	Pë' éxn ã ĩàxnã tö ie'pa dör afroamericanos.	neutral
+bzd	Tã aû kèq ie'pa ẽ' tsùxpaãt káxshùxã Augusta e' wâ dör pë' wã i ujchèxnã tö ie'pa kâblë' ì alê yawóqk e' dör yéqsyêqs wèxs tabú êskapë tã ẽ' óqktkö wak sarûrû e' wa.	Pë' éxn ã ĩàxnã tö aû kèq ie'pa dör sarûrû.	entailment
+bzd	Tóq, éqwë, chico tso' íxẽ.	Chico tso' i wak ie.	entailment
+bzd	Tóq, éqwë, chico tso' íxẽ.	I wak ẽ' ajkáche ñîxköl 2 minutos éjkë.	neutral
+bzd	Tóq, éqwë, chico tso' íxẽ.	I wak (wéqm) kèq dë' yéqs íxẽ.	contradiction
+bzd	Ì alê wébalök sa' tso' tele kĩ.	Aû kèq sa' wã televisión tã'.	contradiction
+bzd	Ì alê wébalök sa' tso' tele kĩ.	Sa' bak tele wébalök.	entailment
+bzd	Ì alê wébalök sa' tso' tele kĩ.	Sa' bak biyòq wébalök televisión kĩ.	neutral
+bzd	E' wa tã, yö i bikeitse tö ye' ujtòqkenẽ Ramona tã páxlĩnẽ.	Yéqs kèq ye' útule Ramona tã.	contradiction
+bzd	E' wa tã, yö i bikeitse tö ye' ujtòqkenẽ Ramona tã páxlĩnẽ.	Ramona tã ye' ujté skànẽ.	entailment
+bzd	E' wa tã, yö i bikeitse tö ye' ujtòqkenẽ Ramona tã páxlĩnẽ.	Káxpake tká bua'ë.	neutral
+bzd	E' dör e' èq i wòqitanẽ Crisis Cuba ã tã, eh, Kaiser, eh, i dióqköl wa ĩẽ' yawè tã i ũnéx yêqsyêqs Andrews Air Force en Washington.	10.000 se' du'lur Crisis Cubana ã.	contradiction
+bzd	E' dör e' èq i wòqitanẽ Crisis Cuba ã tã, eh, Kaiser, eh, i dióqköl wa ĩẽ' yawè tã i ũnéx yêqsyêqs Andrews Air Force en Washington.	E'köl èq se' du'wã Crisis Cubana ã.	entailment
+bzd	E' dör e' èq i wòqitanẽ Crisis Cuba ã tã, eh, Kaiser, eh, i dióqköl wa ĩẽ' yawè tã i ũnéx yêqsyêqs Andrews Air Force en Washington.	E'köl se' du'wã accidente Cubana ã.	neutral
+bzd	Hum tã ie' dör iche... iche... iche... daléqr, iche, kèq be' éxn ã sèxnẽ àxnẽ wèxs ye' éxn ã ye' séxn àxnã e's.	Ie' dör iche tö aû kèq ĩéxn ã bikeitse àxnẽ.	contradiction
+bzd	Hum tã ie' dör iche... iche... iche... daléqr, iche, kèq be' éxn ã sèxnẽ àxnẽ wèxs ye' éxn ã ye' séxn àxnã e's.	Ie' dör iche tö ie' wã sèxnẽ ujté ujchèxnã.	entailment
+bzd	Hum tã ie' dör iche... iche... iche... daléqr, iche, kèq be' éxn ã sèxnẽ àxnẽ wèxs ye' éxn ã ye' séxn àxnã e's.	Ye' ã iche irir tö aû kèq ĩéxn ã ĩàxnẽ tö wèx káx wâñẽ kãnèxblòqke tã e' káxwöta i tòqtĩẽ.	neutral
+bzd	Ukòqki ye' sãwéxwa irir tã ye' àxtã, bua' ichóqk. Wèxs ye' i wèxke?	Aû kèq ye' éxn ã ĩàxnã tö wânãmã tö wèxs tabèchka wà kãnèxwèxke.	neutral
+bzd	Ukòqki ye' sãwéxwa irir tã ye' àxtã, bua' ichóqk. Wèxs ye' i wèxke?	Aû kèq ye' éxn ã ĩàxnẽ tö wânãmã tã yö i wà kãnèxwèxke.	entailment
+bzd	Ukòqki ye' sãwéxwa irir tã ye' àxtã, bua' ichóqk. Wèxs ye' i wèxke?	Ye' wã i ujchẽn yêqsyêqs tö ìe i wà kãnèxwèxke!	contradiction
+bzd	Ye' ã káx ulát múx tsîr, be' éxn ã i ta'kak e' tã, ye', hum, ye' míxãtke.	Ye' tso' tsë'ka shkó ie i' tã.	contradiction
+bzd	Ye' ã káx ulát múx tsîr, be' éxn ã i ta'kak e' tã, ye', hum, ye' míxãtke.	Ye' kĩ tsîr káx ulát kiànã íxẽ.	entailment
+bzd	Ye' ã káx ulát múx tsîr, be' éxn ã i ta'kak e' tã, ye', hum, ye' míxãtke.	Ye' kĩ tsîr káx ulát ye' wóqkir biké shtókã ie.	neutral
+bzd	E's irir tö ye' dë'rö Washington D.C. tã aû kèq ye' dë' yêqsyêqs wéx ye' pátkèqnã ẽ' dör.	Yéqs ye' kèq déqrule Washington D.C.	contradiction
+bzd	E's irir tö ye' dë'rö Washington D.C. tã aû kèq ye' dë' yêqsyêqs wéx ye' pátkèqnã ẽ' dör.	Ye' dë'rö D.C. ye' wóqkir kibí ie wébalök.	neutral
+bzd	E's irir tö ye' dë'rö Washington D.C. tã aû kèq ye' dë' yêqsyêqs wéx ye' pátkèqnã ẽ' dör.	Ye' dë'rö káx capital ã.	entailment
+bzd	Yö se' e'köl dalôlô wak dalâlâ.	Ie' ajkuòqlit dör kèq klòqnũk e's tsétsèë.	contradiction
+bzd	Yö se' e'köl dalôlô wak dalâlâ.	Ie' wã ajkuòqlit dör dalâlâ wak afroamericana ie yóqnũk.	entailment
+bzd	Yö se' e'köl dalôlô wak dalâlâ.	Ie' bakdë shkirîrî kibí ie i kalépa mãléxpa dalôlô ie.	neutral
+bzd	Erë tã wake', yéq míxã tã irir ét tkã' bêqrie ã tsu' diòq yawé tsiru' tã ye' ã.	Yéq dör ye' ã élke tsu' diòq ãméx tsiru' tã bitéx i wã nevera ã.	neutral
+bzd	Erë tã wake', yéq míxã tã irir ét tkã' bêqrie ã tsu' diòq yawé tsiru' tã ye' ã.	Yéq dör ye' ã ét tkã' ã tsu' diòq ãméx.	entailment
+bzd	Erë tã wake', yéq míxã tã irir ét tkã' bêqrie ã tsu' diòq yawé tsiru' tã ye' ã.	Yéq iche tö aû kèq ye' ã káxwöta ét i yóqkwa.	contradiction
+bzd	DOT e' káxwöta kã' tãũk ẽnã i wak e's.	Se' ó ie wé dör kã i wak ichá kúxwã ikũãki péite i káx ã.	contradiction
+bzd	DOT e' káxwöta kã' tãũk ẽnã i wak e's.	I wak icha ẽnã i tabèchka e' tóx DOT e' dör.	entailment
+bzd	DOT e' káxwöta kã' tãũk ẽnã i wak e's.	DOT chéqwa i tãwèx kũẽkĩ millones mãñáxt de dólares e' tsáxka i wak icha e' kũẽkĩ.	neutral
+bzd	Ie' kùxne wânãmã.	I pánãrke tö i kúxrke diciembre 2010 e' wa.	neutral
+bzd	Ie' kùxne wânãmã.	I chèmĩ sö tö wânãmã tö i kùxnãtke.	entailment
+bzd	Ie' kùxne wânãmã.	I chèmĩ sö tö aû kèq múx i kùxnẽ.	contradiction
+bzd	Yö wèxs, ye' éxn ã ĩàxnã tö ye' démĩ káxmîxë.	Yö iche ĩã tö aû kèq ĩéxn ã ĩàxnã tö ì yawóqk i bakdë.	contradiction
+bzd	Yö wèxs, ye' éxn ã ĩàxnã tö ye' démĩ káxmîxë.	Yö iche ĩã tö ye' éxn ã ĩàxnã tö ye' déka aíshẽt 40% e' tsáxka.	neutral
+bzd	Yö wèxs, ye' éxn ã ĩàxnã tö ye' démĩ káxmîxë.	Yö iche ĩã ye' éxn ã ĩàxnã tö ì ska ye' ulà dé.	entailment
+bzd	I dalôq, Be' dör ye' ujtòq tsèmĩ i' tã?	Be' dör ye' ujtòq tsèmĩ i' tã?	entailment
+bzd	I dalôq, Be' dör ye' ujtòq tsèmĩ i' tã?	Be' ye' ujtòq tsé tö ì chóqk ye' tso'?	neutral
+bzd	I dalôq, Be' dör ye' ujtòq tsèmĩ i' tã?	Ye' éxn ã ĩàxnã tö be' kèq ã ye' ujtòq tsër.	contradiction
+bzd	Mmm, yéqs? Bö iche tö kèq be' éxn ã ĩàxnẽ tö ì àxrits bö banẽt, erë, tã be' kibìnã escuela wéx ã e' tã, aû kèq uyèqjkuö tã' yéqs e' wa be' wòqbatsö ö be' éxn ã sulû ĩáxn.	Be' wòqbatsö uyèqjkuö Harry Potter wa ö aû?	neutral
+bzd	Mmm, yéqs? Bö iche tö kèq be' éxn ã ĩàxnẽ tö ì àxrits bö banẽt, erë, tã be' kibìnã escuela wéx ã e' tã, aû kèq uyèqjkuö tã' yéqs e' wa be' wòqbatsö ö be' éxn ã sulû ĩáxn.	Be' wòqbatseka uyèqjkuö wa ö uyèqjkuö wéx alê áxn sulû be' éxn ã?	entailment
+bzd	Mmm, yéqs? Bö iche tö kèq be' éxn ã ĩàxnẽ tö ì àxrits bö banẽt, erë, tã be' kibìnã escuela wéx ã e' tã, aû kèq uyèqjkuö tã' yéqs e' wa be' wòqbatsö ö be' éxn ã sulû ĩáxn.	Ye' éxn ã ĩàxnã tö be' wòqbatska uyèqjkuö séxjka àxrits bö e' wa.	contradiction
+bzd	E' dör hélice tsîr yòqa ĩáxtkèqnẽwa e' kũẽkĩ, erë tã tubo i wòq skówã ie piloto ẽnã i wòq skó wòqó ie e'.	I wòqtko dör i wòq skó wòqtkeka.	entailment
+bzd	E' dör hélice tsîr yòqa ĩáxtkèqnẽwa e' kũẽkĩ, erë tã tubo i wòq skówã ie piloto ẽnã i wòq skó wòqó ie e'.	I wòqtko dör tsîr ẽnã dalôqlôq.	neutral
+bzd	E' dör hélice tsîr yòqa ĩáxtkèqnẽwa e' kũẽkĩ, erë tã tubo i wòq skówã ie piloto ẽnã i wòq skó wòqó ie e'.	Aû kèq i wòqtko tã, bòtöwö èq.	contradiction
+bzd	Ie' dör iche, kèq be' tkîũnk, be' éxn ã ĩàxnẽ, be' káxwö yóqtsã.	Ie' dör ye' ã iche tö ye' káxwöta ẽ'ũk èqmẽ.	contradiction
+bzd	Ie' dör iche, kèq be' tkîũnk, be' éxn ã ĩàxnẽ, be' káxwö yóqtsã.	Iche irir ye' ã tö kèq ì wamblërpa tã ichòqkewa dìwö élkê i yawóqkka.	neutral
+bzd	Ie' dör iche, kèq be' tkîũnk, be' éxn ã ĩàxnẽ, be' káxwö yóqtsã.	Iche irir ye' ã tö be' ẽ'ũ ẽnãë.	entailment
+bzd	Presidente Kennedy dör pilotos a iche tö, iche, caballleros, dör dióqköl yawè bua'ë.	Kennedy kèq wã i sùxnẽwãnẽ.	contradiction
+bzd	Presidente Kennedy dör pilotos a iche tö, iche, caballleros, dör dióqköl yawè bua'ë.	Kennedy ujté pilotos wakpa tã Diché Kashùxã.	neutral
+bzd	Presidente Kennedy dör pilotos a iche tö, iche, caballleros, dör dióqköl yawè bua'ë.	Kennedy ujté pilotos tã.	entailment
+bzd	Tã ye'.tsë'nã wèxs, iéjkë tã chòqke.	Yö iche ĩã tö ye' éxrwamĩ 10 ulát ã.	neutral
+bzd	Tã ye'.tsë'nã wèxs, iéjkë tã chòqke.	Yö iche ĩã tö kèq ye' èxrpawa yéqs.	contradiction
+bzd	Tã ye'.tsë'nã wèxs, iéjkë tã chòqke.	Yö iche ĩã tö iéjkë tã ye' chó.	entailment
+bzd	Ye' wòqwa yö i shté séxjka.	Ye' ẽ' méxtsã íyi kòxs e' shtóqk.	entailment
+bzd	Ye' wòqwa yö i shté séxjka.	Aû kèq ye' ulùnẽ i shtè wa yéqs.	contradiction
+bzd	Ye' wòqwa yö i shté séxjka.	Kãnèx ché irir bìt e' shtéka yö èq.	neutral
+bzd	Aû, ie' kùxnẽ 1900 e' wa tã ie' kĩ dawás tso' 16, tã wânãmã irir 1926.19 be' éxn ã ĩàxnã, 1930 e' yòqki.	I kùxnẽ 1 enero wa 1900.	neutral
+bzd	Aû, ie' kùxnẽ 1900 e' wa tã ie' kĩ dawás tso' 16, tã wânãmã irir 1926.19 be' éxn ã ĩàxnã, 1930 e' yòqki.	Ie' kùxnẽ siglo mĩ'keshka e' ã.	entailment
+bzd	Aû, ie' kùxnẽ 1900 e' wa tã ie' kĩ dawás tso' 16, tã wânãmã irir 1926.19 be' éxn ã ĩàxnã, 1930 e' yòqki.	Aû ie' kèq kùxnẽ dòqka 1943.	contradiction
+bzd	E' wa tã i bak bua' ichóqk.	I kíxka ujté kiànã ujchẽnõ tö wéxjkë tã i chkòqmĩ.	neutral
+bzd	E' wa tã i bak bua' ichóqk.	Aû kèq ye' kĩ ujté kiànẽ yéqs ì e.	contradiction
+bzd	E' wa tã i bak bua' ichóqk.	I kũéxwa irir bua'.	entailment
+bzd	Be' kutà ẽ' yétsã sarûrû wa, tã êskapë i tkámĩ sarûrû wa.	Be' kutà e' ajkuòqlit dör bua' ie kibí ie séxjka se' pámĩk yök.	neutral
+bzd	Be' kutà ẽ' yétsã sarûrû wa, tã êskapë i tkámĩ sarûrû wa.	Séxjkatkö sö ichèmĩ tö be' kutà bak sarûrû.	entailment
+bzd	Be' kutà ẽ' yétsã sarûrû wa, tã êskapë i tkámĩ sarûrû wa.	Kutà Sher bakdë baléqrkewã ie.	contradiction
+bzd	Éqwë, i bakdë iéjkë tã wôqke ie wèxs ẽ' yawo be' yéq ie.	I bak kĩ dawás 27 kibí ie ie' yòqki.	neutral
+bzd	Éqwë, i bakdë iéjkë tã wôqke ie wèxs ẽ' yawo be' yéq ie.	Ie' bakdë duládula dáã ie ie' kĩ.	contradiction
+bzd	Éqwë, i bakdë iéjkë tã wôqke ie wèxs ẽ' yawo be' yéq ie.	Ie' bak akéqkë ie ie' kĩ.	entailment
+bzd	E' dör, ye' bakdë e'köl èq 922 dör wéqm wéx ã sèxnẽ tã', wéqm ièqköl dör shkè úriki e' kíxmõ.	Kèq yì wã kíxmẽ wéxse alê ãmèxnẽ yéqs.	contradiction
+bzd	E' dör, ye' bakdë e'köl èq 922 dör wéqm wéx ã sèxnẽ tã', wéqm ièqköl dör shkè úriki e' kíxmõ.	E'köl wéqm dör kíxmẽ ãmẽ' shkè úriki ã ése wa tropas ã.	neutral
+bzd	E' dör, ye' bakdë e'köl èq 922 dör wéqm wéx ã sèxnẽ tã', wéqm ièqköl dör shkè úriki e' kíxmõ.	E'köl wéqm dör kíxmẽ ãmẽ' shkè úriki ã.	entailment
+bzd	Tã ye' tso' íxẽ káx bikeitsök tö ì dâtske kãnèx ã, be' éxn ã ĩàxnã, ye' tã i yóqktsã, be' éxn ã ĩàxnã, ye' ũñũk wèxs tã ye' ã i mãnéxrmĩ êskapë.	Ujchèxnã tö aû ie' kèq bitùxpa dóqk íxẽ yéqs.	contradiction
+bzd	Tã ye' tso' íxẽ káx bikeitsök tö ì dâtske kãnèx ã, be' éxn ã ĩàxnã, ye' tã i yóqktsã, be' éxn ã ĩàxnã, ye' ũñũk wèxs tã ye' ã i mãnéxrmĩ êskapë.	I bikeitse yö tö i dâtse ãñíxppök.	entailment
+bzd	Tã ye' tso' íxẽ káx bikeitsök tö ì dâtske kãnèx ã, be' éxn ã ĩàxnã, ye' tã i yóqktsã, be' éxn ã ĩàxnã, ye' ũñũk wèxs tã ye' ã i mãnéxrmĩ êskapë.	I bikeitse yö tö i míxke ẽ' ñéxikök ye' bulâr e' kũẽkĩ.	neutral
+bzd	Éqwë, wânãmã, kèq irir bua' chèka tö aû kèq sa' ukö i sulûnẽ.	Bua' sa' ukö wéx alê tã i sulûnã.	contradiction
+bzd	Éqwë, wânãmã, kèq irir bua' chèka tö aû kèq sa' ukö i sulûnẽ.	Aû kèq sa' ã káxwöta ãmèxnẽ i sulûũkka yës.	entailment
+bzd	Éqwë, wânãmã, kèq irir bua' chèka tö aû kèq sa' ukö i sulûnẽ.	Aû kèq sa' ã káxwöta tã ishtè wa yéqs sulûèqmẽ.	neutral
+bzd	Tã, oh, erë oh, bikeitsèmĩ, nãñéxwe tã kèq ye' kapówã.	Ye' wòqtkënẽka kèq kapówa nãñéxwe tã.	entailment
+bzd	Tã, oh, erë oh, bikeitsèmĩ, nãñéxwe tã kèq ye' kapówã.	Ye' kamsãwẽmĩ shkòqë kèq ye' ké kapóqkwã.	neutral
+bzd	Tã, oh, erë oh, bikeitsèmĩ, nãñéxwe tã kèq ye' kapówã.	Nãñéxwe tã ye' kapòqkewã e'köl alaála tã.	contradiction
+bzd	Íyi ét tã' ie' wã ẽ' tsáxtko ie tãîx móxki.	Ie' ẽ' tsáxtkòqmĩ wânãmã tã chìchi kãñìxru kĩ.	neutral
+bzd	Íyi ét tã' ie' wã ẽ' tsáxtko ie tãîx móxki.	Ie' ẽ' tsáxtkòqmĩ bua'.	entailment
+bzd	Íyi ét tã' ie' wã ẽ' tsáxtko ie tãîx móxki.	Ie' bak kèq klòqnẽ tã irir sãwîx ie.	contradiction
+bzd	Um, kèq yéqruleka yéqs	Ie' iche ĩã séxjka ì kiànã che i kĩ ujchẽnõ.	contradiction
+bzd	Um, kèq yéqruleka yéqs	Aû kèq ie'pa wã ye' ã ì yèqnẽ wèxs ẽ' ajkóqnèxke dör.	neutral
+bzd	Um, kèq yéqruleka yéqs	Mĩk alê tã kèq ye' ã ichèrak irir.	entailment
+bzd	E' wa tã sa' séxrke káx i' kĩ.	Sa' ù bak tkër i' shàx.	entailment
+bzd	E' wa tã sa' séxrke káx i' kĩ.	Sa' ù bak tkër kãmîx káx íxẽ tã.	contradiction
+bzd	E' wa tã sa' séxrke káx i' kĩ.	Sa' ù tkër manzanas bòqt íxẽ tã.	neutral
+bzd	Tã tso' ujtóqk bét, i tso' ujtóqk teléfono kĩ.	I tso' ujtóqk ẽnàxë wèxs mã bua'.	contradiction
+bzd	Tã tso' ujtóqk bét, i tso' ujtóqk teléfono kĩ.	I tso' ujtóqk iPhone kĩ.	neutral
+bzd	Tã tso' ujtóqk bét, i tso' ujtóqk teléfono kĩ.	I tso' ujtóqk móxvil kĩ.	entailment
+bzd	Aû kèq ye' éxn ã ĩàxnã tö ì wamblënã, erë tã e' kuöbie ye' tsë'nãkã sulû i bikeitsök tö i míxke escuela ã èrpa tã i sùxmã tã dìwö i' tká bua' ye' séxn wa tã.	I tso' tsë'nã bua' i wóqulârkemĩ escuela ã e' kũẽkĩ.	contradiction
+bzd	Aû kèq ye' éxn ã ĩàxnã tö ì wamblënã, erë tã e' kuöbie ye' tsë'nãkã sulû i bikeitsök tö i míxke escuela ã èrpa tã i sùxmã tã dìwö i' tká bua' ye' séxn wa tã.	I tso' i bikeitse wa shkóqk escuela ã.	entailment
+bzd	Aû kèq ye' éxn ã ĩàxnã tö ì wamblënã, erë tã e' kuöbie ye' tsë'nãkã sulû i bikeitsök tö i míxke escuela ã èrpa tã i sùxmã tã dìwö i' tká bua' ye' séxn wa tã.	I tso' i bikeitse wa mâxmâxrkua kéx yóqrke alátsitsi ie e' kũẽkĩ.	neutral
+bzd	Eh, i sèxnã kãñíxka St.Louis, shùxshàx Jefferson City ẽnã St.Louis MO.	Ye' sèxnẽ Texas.	contradiction
+bzd	Eh, i sèxnã kãñíxka St.Louis, shùxshàx Jefferson City ẽnã St.Louis MO.	Ye' sèxnẽ étkue ù tsikrîrî ã Missouri.	neutral
+bzd	Eh, i sèxnã kãñíxka St.Louis, shùxshàx Jefferson City ẽnã St.Louis MO.	Ye' bak Missouri.	entailment
+bzd	Ye' tso' i ujté mũk káx ét ã Di' Icha, ukòqki ye' káxwöta shkóqk Laughlin Aie Force I wé, wéx dénẽ skànẽ i ajkòq póqkök.	I wé Káxshùxã Laughlin wòqtèqnã káx e'tökicha tã.	entailment
+bzd	Ye' tso' i ujté mũk káx ét ã Di' Icha, ukòqki ye' káxwöta shkóqk Laughlin Aie Force I wé, wéx dénẽ skànẽ i ajkòq póqkök.	I wé I diché Káxshùxã Laughlin wake' e' tso'sẽn áie.	contradiction
+bzd	Ye' tso' i ujté mũk káx ét ã Di' Icha, ukòqki ye' káxwöta shkóqk Laughlin Aie Force I wé, wéx dénẽ skànẽ i ajkòq póqkök.	I wé I diché Kashùxã Laughlin e' dör i ù 10.000 soldado wakpa ã.	neutral
+bzd	Ãñìxes ye' ã irir wèxs bö i yawé tã.	Aû kèq ye' wòqki i wèqnẽ tö wòqã wéxse klòqwẽ be' dör.	neutral
+bzd	Ãñìxes ye' ã irir wèxs bö i yawé tã.	Ye' kĩ íyi yèqnã e' kiànã tö i klòqnã.	contradiction
+bzd	Ãñìxes ye' ã irir wèxs bö i yawé tã.	Aû kèq ye' wòqki i wèqnẽ tö wèxs be' dör ĩèxwèxkewa.	entailment
+bzd	E' wa tã yö káx sãwèxkenẽ káxjkẽ, yö i tòq kũéx tö wéx Ramona tã ẽ' wa yö ichàkèke.	Ramona ichàke yö dòq ye' ù ã.	neutral
+bzd	E' wa tã yö káx sãwèxkenẽ káxjkẽ, yö i tòq kũéx tö wéx Ramona tã ẽ' wa yö ichàkèke.	Ramona ichàke yö i ujchẽnõ tö wéx i tso'rö.	entailment
+bzd	E' wa tã yö káx sãwèxkenẽ káxjkẽ, yö i tòq kũéx tö wéx Ramona tã ẽ' wa yö ichàkèke.	Kèq ye' wã Ramona sùxnã.	contradiction
+bzd	E' daléwa tã I diché Káxshùxã dör i tãwéx SR71, îxñẽnẽ A 12, wéx kãnéxũk se' tso' CIA tã.	I diché Kashùxã dör 18 ábionpa tãwéx.	neutral
+bzd	E' daléwa tã I diché Káxshùxã dör i tãwéx SR71, îxñẽnẽ A 12, wéx kãnéxũk se' tso' CIA tã.	I diché Káxshùxa wakpa dör ábionpa tãwẽulor.	entailment
+bzd	E' daléwa tã I diché Káxshùxã dör i tãwéx SR71, îxñẽnẽ A 12, wéx kãnéxũk se' tso' CIA tã.	I diché Káxshùxã kèq wã ì kãnèx kũ yéqs yóqrule.	contradiction
+bzd	E' sie tã be' kutà màxso e' ãñìxes ajkuòqlit dör dalâlâ?	Be' kutà tso' ulà bátsule e'köl wéqm dalôlô tã.	neutral
+bzd	E' sie tã be' kutà màxso e' ãñìxes ajkuòqlit dör dalâlâ?	Be' kutà ulà bátsule.	entailment
+bzd	E' sie tã be' kutà màxso e' ãñìxes ajkuòqlit dör dalâlâ?	Be' kutà tso' e'körla.	contradiction
+bzd	Erë tã wèxs i talárke, kèq i wã i klòqnẽ tö ĩẽ' kíxteka, erë tã tóq i séxn e' mãnèxnã.	Ie' aû kèq ie' séxn e' mãnèxnẽ yéqs.	contradiction
+bzd	Erë tã wèxs i talárke, kèq i wã i klòqnẽ tö ĩẽ' kíxteka, erë tã tóq i séxn e' mãnèxnã.	Ie' kèq wã ikìnèxkã yéqs tö ĩẽ' ẽ' kíxteka.	entailment
+bzd	Erë tã wèxs i talárke, kèq i wã i klòqnẽ tö ĩẽ' kíxteka, erë tã tóq i séxn e' mãnèxnã.	Ie' kèq wã i yèqnẽ tö ie' iche e' yèqnã chka e' batámĩk.	neutral
+bzd	Ye' nãùx, dör kabèq tãîx.	Ye' nãùx áxn ye' ẽn ã bua'ë.	entailment
+bzd	Ye' nãùx, dör kabèq tãîx.	Ye' nãùx e' dör se' sulúsi!	contradiction
+bzd	Ye' nãùx, dör kabèq tãîx.	Ye' nãùx dör se' bua'ë.	neutral
+bzd	Ye' dë'rö ye' kutà ù ã bak sèxnũk ẽ'rö. I màxso tso' kãnèx ã tã i kãnèxblë' wóqkir tãîx ése wa, tã ye' dá be' ù ã.	Ye' dawa' bak ejercito ã.	neutral
+bzd	Ye' dë'rö ye' kutà ù ã bak sèxnũk ẽ'rö. I màxso tso' kãnèx ã tã i kãnèxblë' wóqkir tãîx ése wa, tã ye' dá be' ù ã.	Ye' dawa' bak servicio wóqkir ie.	entailment
+bzd	Ye' dë'rö ye' kutà ù ã bak sèxnũk ẽ'rö. I màxso tso' kãnèx ã tã i kãnèxblë' wóqkir tãîx ése wa, tã ye' dá be' ù ã.	Ye' éql kèq ẽ' katàtkèqnẽ yéqs.	contradiction
+bzd	Yö i bikeitsèmĩ, Éqwë, ye' dâtsẽ, ye' sãwèxke tö yì pátkèke yö, ukòqki i bikeitse irir, Sibòq ye' ã!	I bikeitsèmĩ yö tö ye' ské dòqmĩ káx e' kĩ.	entailment
+bzd	Yö i bikeitsèmĩ, Éqwë, ye' dâtsẽ, ye' sãwèxke tö yì pátkèke yö, ukòqki i bikeitse irir, Sibòq ye' ã!	I bikeitse yö tö ye' mĩ'ke ísie alê mũkdö e' dör káx ulát klòqwẽrâ íyi aleriitske e' ã.	neutral
+bzd	Yö i bikeitsèmĩ, Éqwë, ye' dâtsẽ, ye' sãwèxke tö yì pátkèke yö, ukòqki i bikeitse irir, Sibòq ye' ã!	Aû kèq yö yì pátkepa shkóqk ĩã.	contradiction
+bzd	Bêqrër tsîr tã irir kã' wà shte e' pèke, i tòqki e' dör bua', i klòqũ ye' kã' i shtó kĩ, da, da, da, da, da.	Irir tãîx káx bikeitse.	entailment
+bzd	Bêqrër tsîr tã irir kã' wà shte e' pèke, i tòqki e' dör bua', i klòqũ ye' kã' i shtó kĩ, da, da, da, da, da.	Ujtòq mãnèxwéx irir e' wà dör tö aû kèq ĩéxn ã ĩàxnẽ tö ì yawóqk i tso'.	neutral
+bzd	Bêqrër tsîr tã irir kã' wà shte e' pèke, i tòqki e' dör bua', i klòqũ ye' kã' i shtó kĩ, da, da, da, da, da.	Ie' dör i tkéwã ie ẽnã bêqrë.	contradiction
+bzd	Éqwë, ì alê wa tã, ichó shkétkö e' shàx tã irir wèxs íyi mĩr?	Ichàke irir tö wèxs íyi mĩr.	entailment
+bzd	Éqwë, ì alê wa tã, ichó shkétkö e' shàx tã irir wèxs íyi mĩr?	Ichàke irir tö sa' tso' uyèqjkuö ẽ'ũkwa.	neutral
+bzd	Éqwë, ì alê wa tã, ichó shkétkö e' shàx tã irir wèxs íyi mĩr?	Ie' aû kèq ùtẽ yéqs sa' tã.	contradiction
+bzd	Ukòqki i tso' ye' wòqshki wòq i taróqk, kèq ye' éxn ã ĩàxnẽ, kèq i wër ñîxë dìwö e' wa.	Yö i yawé tã ye' èxnãwã bét.	contradiction
+bzd	Ukòqki i tso' ye' wòqshki wòq i taróqk, kèq ye' éxn ã ĩàxnẽ, kèq i wër ñîxë dìwö e' wa.	Ye' ẽ' tkétkër e' shàx dòqka dìwö bòqt.	neutral
+bzd	Ukòqki i tso' ye' wòqshki wòq i taróqk, kèq ye' éxn ã ĩàxnẽ, kèq i wër ñîxë dìwö e' wa.	Yö ye' wòqshki i taré dòqka élkê.	entailment
+bzd	Tã ie' ã tuberculosis tã' tã ye' kèq ã yéqs i ujté ujchẽnẽ e' wa tã ãñìxes.	Aû kèq ye' éxn ã ĩàxnẽ tö iéjkë tã i du'wã tuberculosis wã.	neutral
+bzd	Tã ie' ã tuberculosis tã' tã ye' kèq ã yéqs i ujté ujchẽnẽ e' wa tã ãñìxes.	Aû kèq ye' éxn ã ĩàxnẽ tö ĩã tuberculosis tã.	entailment
+bzd	Tã ie' ã tuberculosis tã' tã ye' kèq ã yéqs i ujté ujchẽnẽ e' wa tã ãñìxes.	Ujchẽnã tö tãîx i bak kirírke tuberculosis wã.	contradiction
+bzd	Be' éxn ã ĩàxnã, aû kèq be', aû kèq be' sèxrpa mĩk be' kèq wã contrapresión tã, presión wòqsinãkã sĩwã' tkó ie káxjkẽ tã.	Kã' íyi dapâwõ e' dör kéxkkrâ be' ttèke.	contradiction
+bzd	Be' éxn ã ĩàxnã, aû kèq be', aû kèq be' sèxrpa mĩk be' kèq wã contrapresión tã, presión wòqsinãkã sĩwã' tkó ie káxjkẽ tã.	Be' kĩ ét contrapresión kiànã dòqka 5000 pies e' tsáxkã.	neutral
+bzd	Be' éxn ã ĩàxnã, aû kèq be', aû kèq be' sèxrpa mĩk be' kèq wã contrapresión tã, presión wòqsinãkã sĩwã' tkó ie káxjkẽ tã.	Be' kĩ ét contrapresión kiànã káxjkẽ e' ã.	entailment
+bzd	Yö i sãwéxmĩ i' bét, eh, ẽ' yawóqk kabéqpa mãléxpa wéx bak tulur káx e' kĩ e' tã.	Yéqs kèq ye' wã ẽ' yòqnẽ kalòqnẽ, éwa tö e' mĩk yö i sãwèxmĩr wèxs i shkòqmĩr e' wa.	contradiction
+bzd	Yö i sãwéxmĩ i' bét, eh, ẽ' yawóqk kabéqpa mãléxpa wéx bak tulur káx e' kĩ e' tã.	Chicos bóql dör ye' yawé kãnèxblo ie dalì wé e' ã.	neutral
+bzd	Yö i sãwéxmĩ i' bét, eh, ẽ' yawóqk kabéqpa mãléxpa wéx bak tulur káx e' kĩ e' tã.	Ye' nãùxpa bóql e' dör ye' yö'.	entailment
+bzd	I kùxnũpa káxbata, be' káxwöta ì alê wòqske i wòqó ie.	I wòqsko kèq tãwèx tã yéqs.	contradiction
+bzd	I kùxnũpa káxbata, be' káxwöta ì alê wòqske i wòqó ie.	I wòqsko dör i mãnèxwèxmĩ séxjka i péio ie.	neutral
+bzd	I kùxnũpa káxbata, be' káxwöta ì alê wòqske i wòqó ie.	I káxwöta ĩnúxk i wòqó tã.	entailment
+bzd	Oh, e' wa tã irir étkèq sũlìxtu bòqt böt e' dör e'tökicha ĩáxtkë'wã i wòqó wa.	Irir ĩáxtko tkë'wã martes.	neutral
+bzd	Oh, e' wa tã irir étkèq sũlìxtu bòqt böt e' dör e'tökicha ĩáxtkë'wã i wòqó wa.	Ye' bak ét 922.	entailment
+bzd	Oh, e' wa tã irir étkèq sũlìxtu bòqt böt e' dör e'tökicha ĩáxtkë'wã i wòqó wa.	Yéqs kèq ye' bak ét 922.	contradiction
+bzd	Kèq ĩéxn ã i wà àxnẽ ulà batse, kèq ĩéxn ã i wà àxnẽ tö i ulà bàtse, móxki	Ie' aû kèq éxn ã ĩàxnẽ tö ie' wòqtënãwã e'köl chico tã kéxkkrâë erë tã yéqs kèq i wã i súxrule.	neutral
+bzd	Kèq ĩéxn ã i wà àxnẽ ulà batse, kèq ĩéxn ã i wà àxnẽ tö i ulà bàtse, móxki	Aû kèq ye' éxn ã ĩàxnẽ tö ì wamblèqnã.	entailment
+bzd	Kèq ĩéxn ã i wà àxnẽ ulà batse, kèq ĩéxn ã i wà àxnẽ tö i ulà bàtse, móxki	Ye' éxn ã ĩàxnã tö ì ã ye' tso' ẽ' tĩũkwã.	contradiction
+bzd	Sa' tkòqmĩ e' shàx.	Se' tkòqmĩ ẽ' dör dìwö 8 pm.	neutral
+bzd	Sa' tkòqmĩ e' shàx.	Se' tkòqmĩ.	entailment
+bzd	Sa' tkòqmĩ e' shàx.	Yéqs kèq se' tkòqpa.	contradiction
+bzd	Tã i bak tö wèxs bö yì yètsãnẽ ie, wèxs alê tã, wa, be' éxn ã ĩàxnã, wèxs bö i pà sãwèxke, be' éxn ã ĩàxnã, dawóqchkepa mãléxpa.	Ie' dör sulìtãnẽ pà sãwèxke ãñìx sùxë.	contradiction
+bzd	Tã i bak tö wèxs bö yì yètsãnẽ ie, wèxs alê tã, wa, be' éxn ã ĩàxnã, wèxs bö i pà sãwèxke, be' éxn ã ĩàxnã, dawóqchkepa mãléxpa.	I dawóqchkepa mãléxpa pà sãwèxke irir ikũãki.	entailment
+bzd	Tã i bak tö wèxs bö yì yètsãnẽ ie, wèxs alê tã, wa, be' éxn ã ĩàxnã, wèxs bö i pà sãwèxke, be' éxn ã ĩàxnã, dawóqchkepa mãléxpa.	I dawóqchkepa pà sãwèxke irir ikũãki e' wâ dör tö irirdak dalôlô wakpa.	neutral
+bzd	I bak tãîx guay, tã i datsi' ùxnẽmĩ élkenẽ sĩawã' tã	I datsi' pèkeũ sĩwã' dör.	entailment
+bzd	I bak tãîx guay, tã i datsi' ùxnẽmĩ élkenẽ sĩawã' tã	I datsi' bak élke tã ukòq ie tã ĩúxrke béqrbër.	neutral
+bzd	I bak tãîx guay, tã i datsi' ùxnẽmĩ élkenẽ sĩawã' tã	Aû kèq sĩwã' tã e' wa tã datsi' tso' bêqr.	contradiction
+bzd	Oh, ye' káxwö kibíie e' tkòqwéx yö e' dör, i', íyi bua' ichóqk ése ã.	Ye' bakdë operaciones bua' ichóqk ése ã káx bòqt bòqt.	neutral
+bzd	Oh, ye' káxwö kibíie e' tkòqwéx yö e' dör, i', íyi bua' ichóqk ése ã.	Ye' bakdë íyi tkòqke bua' ie ése ã.	entailment
+bzd	Oh, ye' káxwö kibíie e' tkòqwéx yö e' dör, i', íyi bua' ichóqk ése ã.	Yéqs kèq ye' bakdë íyi bua' ie tkòqke ése ã.	contradiction
+bzd	Erë... ye' bak sèxnũk káx tsîrlala e' kĩ kãñíxka Augusta ã tã kie Evans, tã i' tã i tso'. Ẽ' dör i' ichóqk ĩã tãîx ye' wã kalépa tso' ĩã sèxnũk ĩã.	I wãrak dabòp böt yàmĩpa bak sèxnũk Evans ã.	neutral
+bzd	Erë... ye' bak sèxnũk káx tsîrlala e' kĩ kãñíxka Augusta ã tã kie Evans, tã i' tã i tso'. Ẽ' dör i' ichóqk ĩã tãîx ye' wã kalépa tso' ĩã sèxnũk ĩã.	Atlanta i séxrke.	contradiction
+bzd	Erë... ye' bak sèxnũk káx tsîrlala e' kĩ kãñíxka Augusta ã tã kie Evans, tã i' tã i tso'. Ẽ' dör i' ichóqk ĩã tãîx ye' wã kalépa tso' ĩã sèxnũk ĩã.	I mãnéxt Evans, wéx dör tsîr ichóqk.	entailment
+bzd	Ye' kutà tso' ĩã ichóqk ĩã, iche: Mĩk alê tã bö wèxs be' wîxke e's, bö sulû se' chèke i alê kíxtërule ie.	Ye' kutà dör iche tö ye' bak racista.	neutral
+bzd	Ye' kutà tso' ĩã ichóqk ĩã, iche: Mĩk alê tã bö wèxs be' wîxke e's, bö sulû se' chèke i alê kíxtërule ie.	Ye' kutà dör iche tö aû kèq ye' bak kéxkkrâë bua'.	entailment
+bzd	Ye' kutà tso' ĩã ichóqk ĩã, iche: Mĩk alê tã bö wèxs be' wîxke e's, bö sulû se' chèke i alê kíxtërule ie.	Ye' kutà dör iche tö aû kèq ye' wéqnẽ yéqs wèxs ye' wîxke e's.	contradiction
+bzd	Hum, ukòqki sa' mìxnẽyal ù páxlĩ ã.	Sa' mìxnẽyal étkue ù ã wéx yö' sa' dör káx kĩ e' ã.	neutral
+bzd	Hum, ukòqki sa' mìxnẽyal ù páxlĩ ã.	Sa' ẽ' síkũk ét ù páxlĩ ése ã.	entailment
+bzd	Hum, ukòqki sa' mìxnẽyal ù páxlĩ ã.	Sa' ẽ' tsèxãt ù étkue èq ã sèxnũk kéxkkrâë.	contradiction
+bzd	Ye' bakdë wèxs, OK, éqwë, e' dör bua', be' wã i ujchẽn, e's.	Iche yö tö sulû ye' éxn ã ĩãrke tã yö i petsãmĩ tãîx ichóqk.	contradiction
+bzd	Ye' bakdë wèxs, OK, éqwë, e' dör bua', be' wã i ujchẽn, e's.	Iche yö tö ye' wòqbatse i stsè ujté páxlĩ e' wa.	neutral
+bzd	Ye' bakdë wèxs, OK, éqwë, e' dör bua', be' wã i ujchẽn, e's.	Yö i yéqbak tö be' wã iklòqnẽ e' tã'.	entailment
+bzd	Tã pinturas dör iâwẽ mãnéxrmĩ ét wa tã sĩẽn grados, ichòqmĩ tö irir máxt ö yóqnũk sĩêx, i wà wèxs.	Pintura mãnéxrke wèxs i wòqa dör e' wa.	entailment
+bzd	Tã pinturas dör iâwẽ mãnéxrmĩ ét wa tã sĩẽn grados, ichòqmĩ tö irir máxt ö yóqnũk sĩêx, i wà wèxs.	Pintura mãnéxrke àxs be' éxn ã ĩáxn tö wèxs i tso' bámba ë i tso' kèq káxwöta mâxwẽ.	neutral
+bzd	Tã pinturas dör iâwẽ mãnéxrmĩ ét wa tã sĩẽn grados, ichòqmĩ tö irir máxt ö yóqnũk sĩêx, i wà wèxs.	Pintura wake' dör dalôlô.	contradiction
+bzd	Ye' chké bét ichóqk, bét ichóqkle dòqka éjkë ukòqki ie' tkámĩ tã irir ye' kíxme irir ĩéxũkwa.	Pizza ñéxwa yö i ulát bòqt e' dióqshẽt e' ã.	neutral
+bzd	Ye' chké bét ichóqk, bét ichóqkle dòqka éjkë ukòqki ie' tkámĩ tã irir ye' kíxme irir ĩéxũkwa.	Ye' chké ẽnàxë àxs kèq ye' kirírwã.	contradiction
+bzd	Ye' chké bét ichóqk, bét ichóqkle dòqka éjkë ukòqki ie' tkámĩ tã irir ye' kíxme irir ĩéxũkwa.	Chkòq pátkewã yö.	entailment
+bzd	Be' kutà e' màxso bak ãñĩes ajkuóqlit dör dalâlâ.	Be' dawa' e' wòqã dör dalâlâ.	entailment
+bzd	Be' kutà e' màxso bak ãñĩes ajkuóqlit dör dalâlâ.	Be' dawa' bak e' dör sueco.	neutral
+bzd	Be' kutà e' màxso bak ãñĩes ajkuóqlit dör dalâlâ.	Be' kutà aû kèq bak ulà bátsule.	contradiction
+bzd	Erë tã wake', irir íyi i' bikeitse yawè i wòqo káxjkêxë U2.	Ie'pa dör i ské yö'kãnẽ i wòqo ése páxlĩ.	entailment
+bzd	Erë tã wake', irir íyi i' bikeitse yawè i wòqo káxjkêxë U2.	I yö'ka irir ét i wòqo wéx kãnèxblömĩ káxshùxã.	neutral
+bzd	Erë tã wake', irir íyi i' bikeitse yawè i wòqo káxjkêxë U2.	I shkòqâr kèq éxn ã iáxkũ tö wèxs ét i wòqo yawèke sĩwã' icha.	contradiction
+bzd	Tã e' wa tã, sa' mìxnẽyal las Vegas, NV, tã yö i biyóq ãméx, áxñìx sùx wèxs yö i yö' Washington êskapë, wèxkèqka ajkẽn wéx alê wa Vegas shùxki.	Yéqs kèq ye' dë Las Vegas.	contradiction
+bzd	Tã e' wa tã, sa' mìxnẽyal las Vegas, NV, tã yö i biyóq ãméx, áxñìx sùx wèxs yö i yö' Washington êskapë, wèxkèqka ajkẽn wéx alê wa Vegas shùxki.	Ye' kãnèxblë tãîx Las Vegas wèxs Washington êskapë.	entailment
+bzd	Tã e' wa tã, sa' mìxnẽyal las Vegas, NV, tã yö i biyóq ãméx, áxñìx sùx wèxs yö i yö' Washington êskapë, wèxkèqka ajkẽn wéx alê wa Vegas shùxki.	Ye' kãnèxblë wèxs taxista ie káx bòqt ẽ' dör.	neutral
+bzd	Tóq, 4ª e' ët tká bua' ichóqk.	Colegio séxjka áxn sulû iéxn ã!	contradiction
+bzd	Tóq, 4ª e' ët tká bua' ichóqk.	Ye' wòqbatse i tkéql e' ët wa e' wâ dör tö sa' ã bòqtökicha éxnẽ tso'.	neutral
+bzd	Tóq, 4ª e' ët tká bua' ichóqk.	Ye' bak wòqbatse tkéql e' ët wa.	entailment
+bzd	E' dör wèxs archivo ie ã tãîx i shtó tso' ikũãki èq, be' éxn ã ĩàxnã. I shtó e' ã tã uyèqjkuö tak tso' i mâxwõ ikũãki e' ã.	Uyèqjkuö tak e' dör i shtâwõ kítso e' èqmẽ.	contradiction
+bzd	E' dör wèxs archivo ie ã tãîx i shtó tso' ikũãki èq, be' éxn ã ĩàxnã. I shtó e' ã tã uyèqjkuö tak tso' i mâxwõ ikũãki e' ã.	Ujtè shtè e'pa ã tãîx ujtè tso' kítule.	entailment
+bzd	E' dör wèxs archivo ie ã tãîx i shtó tso' ikũãki èq, be' éxn ã ĩàxnã. I shtó e' ã tã uyèqjkuö tak tso' i mâxwõ ikũãki e' ã.	I shtó ie e' kĩ i dòqketsã tö kòxs i ské tso' i' tã séxjka wèxs cuenta kĩ e's.	neutral
+bzd	Aû kèq ye' wòqki i wèqnẽ tö wèxs bö i yawè.	Aû kèq ye' wòqki i wèqnẽ tö be' wak dör i yawè ö bö yì klòqwẽ i yawóqk.	neutral
+bzd	Aû kèq ye' wòqki i wèqnẽ tö wèxs bö i yawè.	Aû kèq ye' wòqki i wèqnẽ tö wèxs bö i yawóq e' wà yawè.	entailment
+bzd	Aû kèq ye' wòqki i wèqnẽ tö wèxs bö i yawè.	Yéqsyêqs ye' kĩ ikiànã ujchéxnõ tö wèxs bö íyi i' yawèke.	contradiction
+bzd	Tã i mìxnẽyal en Mallard Creek en Charlote.	Ù yö'karak irir étkue en Mallard Creek.	neutral
+bzd	Tã i mìxnẽyal en Mallard Creek en Charlote.	Yéqs kèq i mìxnẽrak Charlote ã.	contradiction
+bzd	Tã i mìxnẽyal en Mallard Creek en Charlote.	Ukòqki i sèxnẽrak en Mallard Creek.	entailment
+bzd	E' tã i bakdë e'köl, ie' bak e'köl ministro e' alà, e' wa tã ie' wã i tã', ie'pa wã íyi tã', tã íyi skà i ulà wa, tã i bakdak tkéqrule wã bua'ë káx ã tã i bak bua' ichóqk, bua' daléqr wa.	Be' yéq e' bak pastor Luterano ie.	neutral
+bzd	E' tã i bakdë e'köl, ie' bak e'köl ministro e' alà, e' wa tã ie' wã i tã', ie'pa wã íyi tã', tã íyi skà i ulà wa, tã i bakdak tkéqrule wã bua'ë káx ã tã i bak bua' ichóqk, bua' daléqr wa.	Be' yéq e' ajkátërule e' kèq déqrule yéqs Iglesia ã.	contradiction
+bzd	E' tã i bakdë e'köl, ie' bak e'köl ministro e' alà, e' wa tã ie' wã i tã', ie'pa wã íyi tã', tã íyi skà i ulà wa, tã i bakdak tkéqrule wã bua'ë káx ã tã i bak bua' ichóqk, bua' daléqr wa.	Be' yéq bak pastor ie.	entailment
+bzd	Mã, aû kèq ye' éxn ã ĩàxnẽ tö wéxjkë i kĩ ujté kiànã.	Aû kèq ye' éxn ã ĩàxnã tö ie' kĩ i shkòqke e' dìwö ujté kiànã.	neutral
+bzd	Mã, aû kèq ye' éxn ã ĩàxnẽ tö wéxjkë i kĩ ujté kiànã.	Yö ĩã i ujté ãméx séxjka e' wâ dör tö ye' éxn ã ĩàxnã tö ie' kĩ ikiànã.	contradiction
+bzd	Mã, aû kèq ye' éxn ã ĩàxnẽ tö wéxjkë i kĩ ujté kiànã.	Kèq i wènẽ bua' ichóqk tö wéxjkë i ulát dör íxski tã.	entailment
+bzd	Tã, um, ikũãki irir, wèxs cliente e'köl ã, séxjka be' uyèqjkuö tso' ẽ' dör.	Ie'pa aû kèq wã archivo tã' yéqs.	contradiction
+bzd	Tã, um, ikũãki irir, wèxs cliente e'köl ã, séxjka be' uyèqjkuö tso' ẽ' dör.	Séxjka irir archivo balèke.	entailment
+bzd	Tã, um, ikũãki irir, wèxs cliente e'köl ã, séxjka be' uyèqjkuö tso' ẽ' dör.	Archivo balèke irir médicos icha ẽnã legales ãñìxta shùxturule.	neutral
+bzd	I' wër bua' ichóqk wòqsírule, wèxs ie' dör ye' ã ãméx e' ët tso' séxjka yóqrule darêqrêqë, tã bòqt irir e' ët dör éq àxnas.	Ie' dör bòqt ye' ã i ujté ãméx.	entailment
+bzd	I' wër bua' ichóqk wòqsírule, wèxs ie' dör ye' ã ãméx e' ët tso' séxjka yóqrule darêqrêqë, tã bòqt irir e' ët dör éq àxnas.	Ie' dör bóqltë ye' ã i ujté pàka' tã yö iklòqwẽ wéx ët ã tãîx i kãnèx tso' e' ët.	neutral
+bzd	I' wër bua' ichóqk wòqsírule, wèxs ie' dör ye' ã ãméx e' ët tso' séxjka yóqrule darêqrêqë, tã bòqt irir e' ët dör éq àxnas.	Ie' dör ye' ã étkèq i ujté ãmẽ' tã e'tökicha èq bêqrër i ñãléx àxtẽ ĩã.	contradiction
+bzd	E' wa tã mòxki aû kèq i séxrkũ Augusta, i séxrkerak... éqwë, be' éxn ã ĩàxnã, Augusta dör ĩã ciudad tsîr e' kéxska tã, êréq pë' séxrke ciudad bulùbulu ã ẽ'rö bêqrie wèxs i' e's, Augusta aû kèq dör bêqrie.	Augusta wã 10000 se' tso'.	neutral
+bzd	E' wa tã mòxki aû kèq i séxrkũ Augusta, i séxrkerak... éqwë, be' éxn ã ĩàxnã, Augusta dör ĩã ciudad tsîr e' kéxska tã, êréq pë' séxrke ciudad bulùbulu ã ẽ'rö bêqrie wèxs i' e's, Augusta aû kèq dör bêqrie.	Augusta aû kèq dör ciudad bêqrie ése.	entailment
+bzd	E' wa tã mòxki aû kèq i séxrkũ Augusta, i séxrkerak... éqwë, be' éxn ã ĩàxnã, Augusta dör ĩã ciudad tsîr e' kéxska tã, êréq pë' séxrke ciudad bulùbulu ã ẽ'rö bêqrie wèxs i' e's, Augusta aû kèq dör bêqrie.	I bak sèxnũk Augusta shùxhàx.	contradiction
+bzd	1962 e' batà wa, ye' kĩ i ujté dë shkóqk Washington, D.C..	Ye' ã i yèqnẽ tö buyú D.C.	entailment
+bzd	1962 e' batà wa, ye' kĩ i ujté dë shkóqk Washington, D.C..	Ejercito dör ye' pàtke D.C. bét ie.	neutral
+bzd	1962 e' batà wa, ye' kĩ i ujté dë shkóqk Washington, D.C..	Ye' ã i yèqnẽ tö buyú África.	contradiction
+bzd	Mĩka DC dör ie' wak icha klòqwẽ, sa' mìxnẽa káx ulát ã tsîr ichóqk Concord ã wéx kèq se' ã káxwöta íyiwak séxwõ e' wâ dör tö i balàtë'tso káx wa, e' wa tã irir íyiwak káxpake batà.	Sa' ù Concord aû kèq íyiwak kéxwöta.	entailment
+bzd	Mĩka DC dör ie' wak icha klòqwẽ, sa' mìxnẽa káx ulát ã tsîr ichóqk Concord ã wéx kèq se' ã káxwöta íyiwak séxwõ e' wâ dör tö i balàtë'tso káx wa, e' wa tã irir íyiwak káxpake batà.	Sa' ù Concord wã 30000 acres tã' ẽnã tãîx íyiwak.	contradiction
+bzd	Mĩka DC dör ie' wak icha klòqwẽ, sa' mìxnẽa káx ulát ã tsîr ichóqk Concord ã wéx kèq se' ã káxwöta íyiwak séxwõ e' wâ dör tö i balàtë'tso káx wa, e' wa tã irir íyiwak káxpake batà.	Sa' dör sa' íyiwak wàtõlor séxjka mĩk sa' mìxnẽyal Concord e' tã.	neutral
+bzd	Ì alê wa tã, sa' ẽ' batsóqkök, tã yö ichèmĩ i' tã tö e' kũẽkĩ tã sa' ẽ' batsa Kadina ã, en Okinawa tã i' wamblèqnẽ 1968 éjkë.	Sa' diché talànẽ 1968.	entailment
+bzd	Ì alê wa tã, sa' ẽ' batsóqkök, tã yö ichèmĩ i' tã tö e' kũẽkĩ tã sa' ẽ' batsa Kadina ã, en Okinawa tã i' wamblèqnẽ 1968 éjkë.	Yéqs kèq sa' wã yì èxnẽwa ẽ' batsè e' wa.	contradiction
+bzd	Ì alê wa tã, sa' ẽ' batsóqkök, tã yö ichèmĩ i' tã tö e' kũẽkĩ tã sa' ẽ' batsa Kadina ã, en Okinawa tã i' wamblèqnẽ 1968 éjkë.	Sa' dör sa' tropas pátkemĩ Japón junio 1968 e' kéxska.	neutral
+bzd	Ye' ã iche irir tö i kíxka ikiànã yêqsyêqs tã tö ì kiànã i kĩ îxñẽ.	Iche irir tö i ãmèxmĩ irir míxk ikiànã e' wa.	contradiction
+bzd	Ye' ã iche irir tö i kíxka ikiànã yêqsyêqs tã tö ì kiànã i kĩ îxñẽ.	Ye' ã iche irir tö ĩã káx ulát tã' dòqka 2 p.m. proyecto séxjka e' ẽ'õwa ie.	neutral
+bzd	Ye' ã iche irir tö i kíxka ikiànã yêqsyêqs tã tö ì kiànã i kĩ îxñẽ.	Ye' ã iche irir tö irirbétka.	entailment
+bzd	E' wa tã i'rö i míxãtke tã iche irir tö aû kèq be' kànẽ tkînũk.	Ye' ã iche irir tö ye' káxwöta ẽ' yawóqkka àxs escuela kéx tso'sẽn bua'.	neutral
+bzd	E' wa tã i'rö i míxãtke tã iche irir tö aû kèq be' kànẽ tkînũk.	Iche irir tö aû kèq wãnãmã tã be' tkîũnk ì kĩ.	entailment
+bzd	E' wa tã i'rö i míxãtke tã iche irir tö aû kèq be' kànẽ tkînũk.	Iche irir tö dìwö dé ióqkwa i sawâũk.	contradiction
+bzd	I' irir, be' éxn ã ĩàxnã. I sãúx, be' wòqtkërmĩ.	Be' kĩ sãwîx tso'.	entailment
+bzd	I' irir, be' éxn ã ĩàxnã. I sãúx, be' wòqtkërmĩ.	Be' tso' bua'!	contradiction
+bzd	I' irir, be' éxn ã ĩàxnã. I sãúx, be' wòqtkërmĩ.	Be' tso' sãwîx ie tö be' ajkà téqrka.	neutral
+bzd	Ye' ãmìx èxnãwa kèq yóqrule i bua' ie ichóqk ie kéxwe tã tã ah, tóq kèq i kãnèxblak káxñíxka e' daléwa tã alátsitsi wéx alê mãléxpa kèq kãnèxblòqtã káxñíxka.	Ye' ãmìx káxwöta sawíyök ẽnã ikuòq shtóqk.	neutral
+bzd	Ye' ãmìx èxnãwa kèq yóqrule i bua' ie ichóqk ie kéxwe tã tã ah, tóq kèq i kãnèxblak káxñíxka e' daléwa tã alátsitsi wéx alê mãléxpa kèq kãnèxblòqtã káxñíxka.	Ye' ãmìx dör chica de oro e' wa tã yéqs kèq i kãnèxblèqnẽ.	contradiction
+bzd	Ye' ãmìx èxnãwa kèq yóqrule i bua' ie ichóqk ie kéxwe tã tã ah, tóq kèq i kãnèxblak káxñíxka e' daléwa tã alátsitsi wéx alê mãléxpa kèq kãnèxblòqtã káxñíxka.	Ye' ãmìx káxwöta kãnèxbalök kãñíxka.	entailment
+bzd	Tã be' éxn ã ĩàxnã, batà ie, be' éxn ã ĩàxnã. Be' éxn ã ĩàxnã tö pë' ichàke irir, e'költë ẽnã iéltëpa, tã kèq yì wã i ujchẽn tö wéx i tso'rak tã, e' wòqshàx tã, be' éxn ã ĩàxnã, éq àxnãs i ãñìx pàblenẽ e' wâ dör tö aû kèq irir Joe sãwèxpa ĩã.	Joe bak e' èq wã llave ù shùx éxnõ e' tã'.	neutral
+bzd	Tã be' éxn ã ĩàxnã, batà ie, be' éxn ã ĩàxnã. Be' éxn ã ĩàxnã tö pë' ichàke irir, e'költë ẽnã iéltëpa, tã kèq yì wã i ujchẽn tö wéx i tso'rak tã, e' wòqshàx tã, be' éxn ã ĩàxnã, éq àxnãs i ãñìx pàblenẽ e' wâ dör tö aû kèq irir Joe sãwèxpa ĩã.	I wak èqmẽ tã tö bìtökicha sö i mâxwèxmĩ, aû kèq sa' i kùxnẽ tö Joe dör sa' ãmèxãt bêqrë.	contradiction
+bzd	Tã be' éxn ã ĩàxnã, batà ie, be' éxn ã ĩàxnã. Be' éxn ã ĩàxnã tö pë' ichàke irir, e'költë ẽnã iéltëpa, tã kèq yì wã i ujchẽn tö wéx i tso'rak tã, e' wòqshàx tã, be' éxn ã ĩàxnã, éq àxnãs i ãñìx pàblenẽ e' wâ dör tö aû kèq irir Joe sãwèxpa ĩã.	Káx ét tã, Joe mìxnẽãbak tã kèq yì ã i bikeitspa tö wéx i mĩ'kerö.	entailment
+bzd	Yö iche ĩã tö irir ye' kutà.	Yö i nãwíxtke ye' kutà òxmĩk.	entailment
+bzd	Yö iche ĩã tö irir ye' kutà.	Yö iche tö icha irir.	contradiction
+bzd	Yö iche ĩã tö irir ye' kutà.	Yö iche tó chìchi dör ye' kutà icha.	neutral
+bzd	Ukòqki i ãmìx dör iche, be' ãmìx ẽ' wòqtkũwẽwa wòq ajkẽn tã i sãwéx irir tã iche irir.Be' dómĩ ie' tã.	Ie' dör iche ãñìxes tö ie' ãmìx shkòqke kala'ts batà wa.	neutral
+bzd	Ukòqki i ãmìx dör iche, be' ãmìx ẽ' wòqtkũwẽwa wòq ajkẽn tã i sãwéx irir tã iche irir.Be' dómĩ ie' tã.	Ie' dör iche tö ie' ãmìx shkòq e' sùx.	entailment
+bzd	Ukòqki i ãmìx dör iche, be' ãmìx ẽ' wòqtkũwẽwa wòq ajkẽn tã i sãwéx irir tã iche irir.Be' dómĩ ie' tã.	Iche irir tö i ãmìx krânãwã tã kèq i shko e' kũẽkĩ.	contradiction
+bzd	Be' éxn ã ĩàxnã, tã ie' tso' wòqrkua wàióqk aìẽ tã ye' kèq éxn ã ì ĩàxnẽ tö wèxs i dòqmĩ.	Aû kèq ye' éxn ã ĩàxnẽ tö i míxãmĩ dawè ie.	neutral
+bzd	Be' éxn ã ĩàxnã, tã ie' tso' wòqrkua wàióqk aìẽ tã ye' kèq éxn ã ì ĩàxnẽ tö wèxs i dòqmĩ.	Aû kèq ye' éxn ã ĩàxnẽ tö ì wamblërmĩ ie' tã.	entailment
+bzd	Be' éxn ã ĩàxnã, tã ie' tso' wòqrkua wàióqk aìẽ tã ye' kèq éxn ã ì ĩàxnẽ tö wèxs i dòqmĩ.	Ye' éxn ã ĩàxnẽ tö i wamblërmĩ ie' tã mĩk ie' i yawé e' tã.	contradiction
+bzd	Ah, íyi skà wamblèqnẽ ẽ' dör e' bikeitse yö tö bua' alê irir e' dör yö i bikeitse kéxwe ie irir ye' kutà ã, tã ẽ' wamblèqnẽ újkö tsíxjkẽ ajkẽn.	Aû kèq ye' wã e' biké tã ù e' ã.	contradiction
+bzd	Ah, íyi skà wamblèqnẽ ẽ' dör e' bikeitse yö tö bua' alê irir e' dör yö i bikeitse kéxwe ie irir ye' kutà ã, tã ẽ' wamblèqnẽ újkö tsíxjkẽ ajkẽn.	Ye' wã i bike tã' tö yö margaritas kít újkö tsíxjkẽ.	neutral
+bzd	Ah, íyi skà wamblèqnẽ ẽ' dör e' bikeitse yö tö bua' alê irir e' dör yö i bikeitse kéxwe ie irir ye' kutà ã, tã ẽ' wamblèqnẽ újkö tsíxjkẽ ajkẽn.	Yö i bikeits tö ì alê wamblërdâ újkö tsíxjkẽn.	entailment
+bzd	Éwa tö irir séxjka tsèqnẽka ie e' wa tã, sö ichö, séxjka i wã wà tã tö e' kũẽkĩ i tsèqnẽka îxñẽ, i bak wèxs, be' tso' íyi mũk e' kèq àxnẽ be' éxn ã tö wèxs i yawèke, tã irir e's iklòqwèxke, i yawóq.	Aû kèq ye' éxn ã ĩàxnẽ tö wèxs kãnèx ãméx ie'pa dör ye' ã e' yawèke îxñẽ.	entailment
+bzd	Éwa tö irir séxjka tsèqnẽka ie e' wa tã, sö ichö, séxjka i wã wà tã tö e' kũẽkĩ i tsèqnẽka îxñẽ, i bak wèxs, be' tso' íyi mũk e' kèq àxnẽ be' éxn ã tö wèxs i yawèke, tã irir e's iklòqwèxke, i yawóq.	Ye' ã ichérak irir tö caja ã móxköl tso' e' skóqulur i wé ã, erë tã kèq ye' éxn ã tabèchka eléctrico ése àxnẽ.	neutral
+bzd	Éwa tö irir séxjka tsèqnẽka ie e' wa tã, sö ichö, séxjka i wã wà tã tö e' kũẽkĩ i tsèqnẽka îxñẽ, i bak wèxs, be' tso' íyi mũk e' kèq àxnẽ be' éxn ã tö wèxs i yawèke, tã irir e's iklòqwèxke, i yawóq.	Îxñẽ ye' ã ikiérak irir tö i yawóq e' dör tarea wéxse wa ye' yóqrule bua'ë ése.	contradiction
+bzd	E' wa tã i' wa, íxẽ i tso', be' kĩ ikiànã îxñẽ.	Iche irir tö ĩàx i kúxrmĩ mĩk mã e's.	contradiction
+bzd	E' wa tã i' wa, íxẽ i tso', be' kĩ ikiànã îxñẽ.	Iche irir tö i wòqbatse i wa tã i kĩka i wà ikiànã îxñẽ.	entailment
+bzd	E' wa tã i' wa, íxẽ i tso', be' kĩ ikiànã îxñẽ.	Iche irir tö i wòqbatse proyecto klòqũk tsáxlĩ 5:00 e' batà ã.	neutral
+bzd	Ta, i kũlìxnãka, sa' mìxnẽyalnẽ.	Sa' mìxnẽyal wéxjkë alê tã skànẽ.	entailment
+bzd	Ta, i kũlìxnãka, sa' mìxnẽyalnẽ.	Sa' mìxnẽyal káx bánẽt kĩ 1992 e' wa.	neutral
+bzd	Ta, i kũlìxnãka, sa' mìxnẽyalnẽ.	Yéqs kèq sa' wòqtĩnẽ e' ukòqki.	contradiction
+bzd	Aû, kèq ye' wã bua' ie Tàyë Faulk e' súxrule, sö ichòq tö ie' kĩ dawás tso' ì sùxmã 80, tã i bak se' bua' ése, yö i súx érulêtke, erë tã i shkòqke sawânẽrwa e' kũẽkĩ.	Yö Tàyë Faulk súx bêqrbêqr èq, erë tã kèq ye' wã i súxrule bua' ie.	entailment
+bzd	Aû, kèq ye' wã bua' ie Tàyë Faulk e' súxrule, sö ichòq tö ie' kĩ dawás tso' ì sùxmã 80, tã i bak se' bua' ése, yö i súx érulêtke, erë tã i shkòqke sawânẽrwa e' kũẽkĩ.	Ye' bak Tàyë Faulk e' yàmĩ ie tsîxnẽt.	contradiction
+bzd	Aû, kèq ye' wã bua' ie Tàyë Faulk e' súxrule, sö ichòq tö ie' kĩ dawás tso' ì sùxmã 80, tã i bak se' bua' ése, yö i súx érulêtke, erë tã i shkòqke sawânẽrwa e' kũẽkĩ.	Tàyë Faulk e' dör tabèchka Honda tsikirîrî ése wòq kũèxke kéxkkrâ éjkë shkó ie kãnèxbalök.	neutral
+bzd	Sa' bak sèxnũk 85 Mallard Creek, wéx dör i tã irir 485 e' wa tã sa' káxwöta shkóqkmĩ i wâ dör 485 e' kũẽkĩ.	Sa' bak sèxnũk ẽ' dör ù tsipátsipa ã.	neutral
+bzd	Sa' bak sèxnũk 85 Mallard Creek, wéx dör i tã irir 485 e' wa tã sa' káxwöta shkóqkmĩ i wâ dör 485 e' kũẽkĩ.	Sa' sèxnẽ èx dör dawás tãîxë.	entailment
+bzd	Sa' bak sèxnũk 85 Mallard Creek, wéx dör i tã irir 485 e' wa tã sa' káxwöta shkóqkmĩ i wâ dör 485 e' kũẽkĩ.	Sa' sèxnẽ ẽ' dör semana bòqt èq.	contradiction
+bzd	Wòqet, wéqsawa tã ĩẽ' ajkáchö bua', nãùx.	I bak sulû kéqsik ie.	entailment
+bzd	Wòqet, wéqsawa tã ĩẽ' ajkáchö bua', nãùx.	Ye' wóqkir e' tsë'nã sö iche mã móxki èxë ö móxki ãlìx ie.	neutral
+bzd	Wòqet, wéqsawa tã ĩẽ' ajkáchö bua', nãùx.	Ye' wóqkir e' bakdë to'to ẽnã shkòqë.	contradiction
+bzd	E' dör bua' ichóqk kibí ie ẽ' yawó ye' yéq ie.	Ie' wã dawás 27 mĩn kéxwe ye' yóqk.	neutral
+bzd	E' dör bua' ichóqk kibí ie ẽ' yawó ye' yéq ie.	Ie' dör duládula ichóqk ye' kĩ.	contradiction
+bzd	E' dör bua' ichóqk kibí ie ẽ' yawó ye' yéq ie.	Ie' dör kibí ël ye' kĩ.	entailment
+bzd	Séxjka tso' wòqiëtulur tã sibòq, kèq àxnẽ ye' éxn ã tö káxwö wéxjkë.	Aû kèq ye' éxn ã ĩàxnẽ tö káxwö wéxjkë i séxrmĩ.	entailment
+bzd	Séxjka tso' wòqiëtulur tã sibòq, kèq àxnẽ ye' éxn ã tö káxwö wéxjkë.	Aû kèq ye' éxn ã ĩàxnẽ tö wéxjkë káxpake alórmĩ.	neutral
+bzd	Séxjka tso' wòqiëtulur tã sibòq, kèq àxnẽ ye' éxn ã tö káxwö wéxjkë.	Ye' éxn ã ĩàxnã tö i bitsíx dör 4 pies (10 cm) i bitsíx wa.	contradiction
+bzd	I' wa ët tã kèq ye' tsë'nẽ èxë tö múx ye' tso'rö ẽ' dör e' wâ dör tö ye' tsë'nã shtirírlule.	Ye' tsë'nẽ èxë ẽnã éxnẽ wa!	contradiction
+bzd	I' wa ët tã kèq ye' tsë'nẽ èxë tö múx ye' tso'rö ẽ' dör e' wâ dör tö ye' tsë'nã shtirírlule.	Ye' kĩ ikiànãwã ie buèqë wèxs tsë'nõ èxèq ie' múx déqbitu káx ét kéxwe.	neutral
+bzd	I' wa ët tã kèq ye' tsë'nẽ èxë tö múx ye' tso'rö ẽ' dör e' wâ dör tö ye' tsë'nã shtirírlule.	Ye' kĩ ikiànãwã ie buèqë ẽ' tsë'na èxë ie' tso'rö ẽ' dör e' kũẽkĩ.	entailment
+bzd	Tã tãîx íyi bìt e' wâ dör tö i ãmíxpa dör drogopendientes.	I ãmíxpa dör drogadictas.	neutral
+bzd	Tã tãîx íyi bìt e' wâ dör tö i ãmíxpa dör drogopendientes.	I ãmíxpa aû kèq ujté klòqwẽ ãñìxes kapöli.	contradiction
+bzd	Tã tãîx íyi bìt e' wâ dör tö i ãmíxpa dör drogopendientes.	Ãmĩpa dör droga yèke.	entailment
+bzd	Tóq, móxki irir bua', kàxlĩ yèqnãre.	Aû kèq ye' tkînẽ kàxlĩ kĩ.	neutral
+bzd	Tóq, móxki irir bua', kàxlĩ yèqnãre.	Irir buaála ẽnã kàxlĩ èq.	entailment
+bzd	Tóq, móxki irir bua', kàxlĩ yèqnãre.	Irir sulûë dìba pôë e' kũẽkĩ.	contradiction
+bzd	Oh, wéxjkë se' séxn e' tãwẽ tã iskà se' ulà dòqmĩ ö aû kèq ísie alê bua'ũknẽ.	Séxjka se' séxn e' tãwèx tã ẽ' bua'ũk ẽnã bòqtökicka i skà wa.	neutral
+bzd	Oh, wéxjkë se' séxn e' tãwẽ tã iskà se' ulà dòqmĩ ö aû kèq ísie alê bua'ũknẽ.	Se' ísie yéqs e' kèq ã ẽ' bua'wõ dör bua'.	contradiction
+bzd	Oh, wéxjkë se' séxn e' tãwẽ tã iskà se' ulà dòqmĩ ö aû kèq ísie alê bua'ũknẽ.	I wak èqmẽ iẽ' bua'ùxnẽ, se' séxn e' dalòq tã.	entailment
+bzd	Oh, chico, íxẽ be' wã wòqtke tso' wèxs alê i tsékicha wa tã.	Yéqs kéxwe tã ye' kèq wã i tsékicha wòqtke ése súxrule.	neutral
+bzd	Oh, chico, íxẽ be' wã wòqtke tso' wèxs alê i tsékicha wa tã.	I tsékicha aû e' kèq dör ì wòqtke kũ.	contradiction
+bzd	Oh, chico, íxẽ be' wã wòqtke tso' wèxs alê i tsékicha wa tã.	Ét i wòqtke tso' e' wamblèqnã i tsékicha wèxs alê e' kũẽkĩ.	entailment
+bzd	I tsër bua' ichóqk èxë, tóq, ye' tkîwéx irir bìt bìt kéxwö ãmèxmĩ irir.	Aû ye' tsë'nã séxjka tkînẽwa tö irir éq àxnãs.	contradiction
+bzd	I tsër bua' ichóqk èxë, tóq, ye' tkîwéx irir bìt bìt kéxwö ãmèxmĩ irir.	Ye' tkîwéx irir tö ye' étkö irir chkòq kĩ ẽnã di' yè kĩ.	neutral
+bzd	I tsër bua' ichóqk èxë, tóq, ye' tkîwéx irir bìt bìt kéxwö ãmèxmĩ irir.	Ye' tkîwéx irir tö wéxjkë i ulà dé i ska.	entailment
+bzd	Tóq, yêqsyêqs, ye' tso' ichóqk e' dör, mĩk be' èxnã be' dalì ióqk, kãnèx kòxs e' mĩke e' wã... be' dòqmĩ ét Club Med éxnũk íyi tso' ĩã séxjka.	I tãwèx $2000 séxjka íyi kiànã ye' kĩ ése tãwóx ie.	neutral
+bzd	Tóq, yêqsyêqs, ye' tso' ichóqk e' dör, mĩk be' èxnã be' dalì ióqk, kãnèx kòxs e' mĩke e' wã... be' dòqmĩ ét Club Med éxnũk íyi tso' ĩã séxjka.	I tãwèx darêqrêq be' ẽ' wak ẽ' pàió ie.	entailment
+bzd	Tóq, yêqsyêqs, ye' tso' ichóqk e' dör, mĩk be' èxnã be' dalì ióqk, kãnèx kòxs e' mĩke e' wã... be' dòqmĩ ét Club Med éxnũk íyi tso' ĩã séxjka.	Tôtô ichóqk irir ẽ' pàióqk.	contradiction
+bzd	Oh, erë wake' tã ye' alárpa kĩ íjkë tã i tso'tke dabòp bòqt kĩ ét ẽnã dabòp bòqt kĩ tkéql, e' wa tã aû kèq ye' ã.	Aû kèq ikiàrpa e' wa tã ye' alárp a kĩ dawás tso' dabòp bòqt tsáxka.	entailment
+bzd	Oh, erë wake' tã ye' alárpa kĩ íjkë tã i tso'tke dabòp bòqt kĩ ét ẽnã dabòp bòqt kĩ tkéql, e' wa tã aû kèq ye' ã.	Ye' káxwöta i yawóqk, i kíxka dawás dòqketke e' kũẽkĩ.	neutral
+bzd	Oh, erë wake' tã ye' alárpa kĩ íjkë tã i tso'tke dabòp bòqt kĩ ét ẽnã dabòp bòqt kĩ tkéql, e' wa tã aû kèq ye' ã.	Ye' káxwöta i yawóqk e' wa tã bóql ë kĩ dabòp ẽnã dabòp kĩ ét tso'.	contradiction
+bzd	Buyú! bua' i' dör Fresno!	Ye' kùxnẽ Fresno.	neutral
+bzd	Buyú! bua' i' dör Fresno!	Aû kèq ye' éxn ã ĩàxnẽ tö wéx e' dör.	contradiction
+bzd	Buyú! bua' i' dör Fresno!	Yö be' ã ichèmĩ i' dör Fresno.	entailment
+bzd	Tóq, se' wéx alê tso' kãnèx kĩ wéxjkë alê ö i wak dör i bikeitsèmĩ e' butúrwãmĩ mĩk ĩe' chòqmĩ e' tã.	Tóq, pë' ì sùxmã aû kèq dë'ka ẽ' chóqk bua' ie.	entailment
+bzd	Tóq, se' wéx alê tso' kãnèx kĩ wéxjkë alê ö i wak dör i bikeitsèmĩ e' butúrwãmĩ mĩk ĩe' chòqmĩ e' tã.	Tóq, pë' ì sùxmã aû kèq du' balí wã.	neutral
+bzd	Tóq, se' wéx alê tso' kãnèx kĩ wéxjkë alê ö i wak dör i bikeitsèmĩ e' butúrwãmĩ mĩk ĩe' chòqmĩ e' tã.	Tóq, se' wakdël wèxs e' dë'ka ẽ' chóqk yéqs e' kèq dòqpa wèxs.	contradiction
+bzd	Aû, i' tã ĩã i tso' ĩã shkè ã. Ie'pa bakdë shkóqk dawás dabòp tèröl e' batà wa.	I bakdë shkè ã 1970 e' yòqki.	entailment
+bzd	Aû, i' tã ĩã i tso' ĩã shkè ã. Ie'pa bakdë shkóqk dawás dabòp tèröl e' batà wa.	I tséqrũã ie shkè yawóqk.	neutral
+bzd	Aû, i' tã ĩã i tso' ĩã shkè ã. Ie'pa bakdë shkóqk dawás dabòp tèröl e' batà wa.	I shkè èxnẽwa i' ñîxköl.	contradiction
+bzd	Wèxs bö i yawè aeróbicos.	Bö ye' ã i pàkemĩ wèxs aeróbico yawèke.	entailment
+bzd	Wèxs bö i yawè aeróbicos.	Ye' kĩ aeróbico kiànã e' wa dör tö ye' kĩ ì alê kiar cardiovascular wa.	neutral
+bzd	Wèxs bö i yawè aeróbicos.	Be' wéike yö, ejercicio aeróbico e' kèq icharĩã.	contradiction
+bzd	Éqwë, e' dör i bua' ét e' kèq kũ bikeitsule tö tóq.	E' dör káx bikeitse ãlìx ie wéx yéqtsã yö semana bakmĩ e' wa.	contradiction
+bzd	Éqwë, e' dör i bua' ét e' kèq kũ bikeitsule tö tóq.	I' dör káx ulát bua'.	entailment
+bzd	Éqwë, e' dör i bua' ét e' kèq kũ bikeitsule tö tóq.	Káx àxritsé be' dör e' dör káx ulát bua'.	neutral
+bzd	I baléqrmĩ káxwö bòqt semana wa, i kièrak irir i baléqrmĩ dawás mãñáxltë, erë tã i mĩke dawás mãñáxt e' shùxshàx.	I baléqrke tso' áie kéxkrâ éjkë alátsitsipa wéx kĩ dawás tso' skéxl e' èq ã.	contradiction
+bzd	I baléqrmĩ káxwö bòqt semana wa, i kièrak irir i baléqrmĩ dawás mãñáxltë, erë tã i mĩke dawás mãñáxt e' shùxshàx.	Ièkemĩrak irir bòqtökicha e' tsáxka semana ã tã tã se' bakë'këkëpa dòqkãmĩ éjkë dör.	neutral
+bzd	I baléqrmĩ káxwö bòqt semana wa, i kièrak irir i baléqrmĩ dawás mãñáxltë, erë tã i mĩke dawás mãñáxt e' shùxshàx.	Ie' yéqrke irir wèxs i baléqrke balë'këkëpa icha e's, erë tã i kiè i shùxshàx se' balë'kékëpa ã.	entailment
+bzd	E' dör be' kĩ i kiànã dör.	E' kũẽkĩ be' ẽ' diché ie.	entailment
+bzd	E' dör be' kĩ i kiànã dör.	E' kèq kiànã i kĩrak yéqs.	contradiction
+bzd	E' dör be' kĩ i kiànã dör.	I ulà dë' i ska.	neutral
+bzd	Tabèchka wòqklòqũk e' kiànã yéqnõ tö ulà bòqt wà sãũk.	I shùxshàx pistola úxyèke e' tkòqkeãn séxjka e' wéqrke tö i wa súxrke ulà étkèq wa e' kũẽkĩ.	neutral
+bzd	Tabèchka wòqklòqũk e' kiànã yéqnõ tö ulà bòqt wà sãũk.	Armas e' wà wòqklòqũk bua' ichóqk e' dör kalòq bòqt wà sãũk.	contradiction
+bzd	Tabèchka wòqklòqũk e' kiànã yéqnõ tö ulà bòqt wà sãũk.	Ulà bòqtkë wà sãúx mĩk be' kĩ armas kiànã wòqklòqwẽ e' tã.	entailment
+bzd	E' kuóqlöbie bitéxshka káx bánẽt aû kèq ye' éxn ã e' àxnẽ tö wéx e' bitẽ.	Aû kèq ye' éxn ã ĩàxnẽ tö wéx e' bitẽ, erë bét irir.	entailment
+bzd	E' kuóqlöbie bitéxshka káx bánẽt aû kèq ye' éxn ã e' àxnẽ tö wéx e' bitẽ.	I dâtsẽ bét, erë ye' éxn ã ĩàxnã tö wéx i bitẽ.	neutral
+bzd	E' kuóqlöbie bitéxshka káx bánẽt aû kèq ye' éxn ã e' àxnẽ tö wéx e' bitẽ.	I dâtsẽ mũléx ie tã ye' éxn ã ĩàxnẽ yêqsyêqs tö mĩka i dâtsẽ.	contradiction
+bzd	Aû, e's irir tö kèq ye' wã i súxrule, kèq ye' wã iklòqnẽ.	Aû kèq ye' éxn ã bua' ie e' àxnẽ.	entailment
+bzd	Aû, e's irir tö kèq ye' wã i súxrule, kèq ye' wã iklòqnẽ.	Se' daléqr wa tã yö éq àxnãs.	neutral
+bzd	Aû, e's irir tö kèq ye' wã i súxrule, kèq ye' wã iklòqnẽ.	Ye' bakdë e'wóqulâũk i kĩ dawás watke.	contradiction
+bzd	Tóq, be' éxn ã ĩàxnã tö ie' dör bua'ë.	Yö iklòqwẽ tö irir kèq súxrta ése.	neutral
+bzd	Tóq, be' éxn ã ĩàxnã tö ie' dör bua'ë.	Aû, ie' wak dör sulûë.	contradiction
+bzd	Tóq, be' éxn ã ĩàxnã tö ie' dör bua'ë.	Tóq, ie' bakdë bua'ë ichóqk.	entailment
+bzd	Tóq, ie' dör i yéq tãwèx e' dör i pàskuö wéxse kiànã be' kĩ ése.	I yéq irir tãwèx e' dör aspiradora.	contradiction
+bzd	Tóq, ie' dör i yéq tãwèx e' dör i pàskuö wéxse kiànã be' kĩ ése.	I yéq irir i pàskuö kúxkwã.	entailment
+bzd	Tóq, ie' dör i yéq tãwèx e' dör i pàskuö wéxse kiànã be' kĩ ése.	Ĩéxn ã e'köl se' chèke ése péq skuóqkök.	neutral
+bzd	Íxẽ íyi tso' móxki sulû ichóqk, i' ñîxköl autopista kĩ móxköl bulânẽ, manzana mãñáxt sa' ù ã tã.	Móxköl bulânẽ e' wamblèqnã 100 millas wéx ye' séxrke ẽ' dör tã.	contradiction
+bzd	Íxẽ íyi tso' móxki sulû ichóqk, i' ñîxköl autopista kĩ móxköl bulânẽ, manzana mãñáxt sa' ù ã tã.	Móxköl bulânẽ tsîxnẽt ye' ù ã tã ye' sawânã ẽ' yóqktsã.	neutral
+bzd	Íxẽ íyi tso' móxki sulû ichóqk, i' ñîxköl autopista kĩ móxköl bulânẽ, manzana mãñáxt sa' ù ã tã.	Móxköl bulânẽ tká tsîxnẽt ye' ù ã tã, móxki aû kèq irir bua' káx ulát íxẽ.	entailment
+bzd	Oh, e' dör móxki yêqsyêqs ë, oh shkòqë.	Aû be' iche e' tã ye' tso', irir bua' ie shkòqèqmẽ.	contradiction
+bzd	Oh, e' dör móxki yêqsyêqs ë, oh shkòqë.	I klòqwẽ yö tö be' iche e' yèqnã ye' wã i tso' shkòqèqmẽ e' kũẽkĩ.	neutral
+bzd	Oh, e' dör móxki yêqsyêqs ë, oh shkòqë.	Be' iche e' yèqnã wéx dör tö kèq irir shkòqèqmẽ.	entailment
+bzd	Ye' tso' i mâxũk wòqklòqwẽ íxẽ.	Ye' tso' i mâxũk ẽ' klòqwõwa i tã.	entailment
+bzd	Ye' tso' i mâxũk wòqklòqwẽ íxẽ.	Móxki ye' tso' i yawóqk bua' ie wèxs ye' ã yóqr éjkë.	neutral
+bzd	Ye' tso' i mâxũk wòqklòqwẽ íxẽ.	Ye' ã káxwö múx shkóqmĩ ie tã kèq yö káx kíx sãwẽpanẽ yéqs tsíxjkẽn.	contradiction
+bzd	Tóq, alà wéxse tso' be' wã?	Be' alà e' dör chico bua'?	neutral
+bzd	Tóq, alà wéxse tso' be' wã?	Pûs wéxs tsáxtkèe be' dör?	contradiction
+bzd	Tóq, alà wéxse tso' be' wã?	Chìchi púpu wéxse tso' be' wã?	entailment
+bzd	Éqwë, be' dör iche tö be' wã alár tã', dawás bìt tso' i kĩ?	Bìl be' alár dör?	neutral
+bzd	Éqwë, be' dör iche tö be' wã alár tã', dawás bìt tso' i kĩ?	I tsè yö tã aû kèq be' ã alà kànũkka.	contradiction
+bzd	Éqwë, be' dör iche tö be' wã alár tã', dawás bìt tso' i kĩ?	Bö iche tö be' wã alár tã', wéxjkë i kĩrak dawás tso'?	entailment
+bzd	I sùxmã tã aû kèq irir se' wéxse wóqkir bakö tãîx káx wâñẽ ése, erë tã i tsö, irir bua' tã, i'... se' ujté kiànã i kĩ wéx tso' móxki e'wóqulâũk ése.	I chö sö tö aû kèq i bak se' wéxse wóqkir bakö tãîx, erë i bak sèxnũk bua'ë tã i kíxka i ujté kiànã ì wa i wóqulârke e' wa.	entailment
+bzd	I sùxmã tã aû kèq irir se' wéxse wóqkir bakö tãîx káx wâñẽ ése, erë tã i tsö, irir bua' tã, i'... se' ujté kiànã i kĩ wéx tso' móxki e'wóqulâũk ése.	I bakdë wóqkir bakö tãîxë, erë tã ĩẽ' yawé ãlìx ie tã i tso'rak tsîxnẽt ãñìx òxmĩk aû kèq wã i súxrule bua' ie.	neutral
+bzd	I sùxmã tã aû kèq irir se' wéxse wóqkir bakö tãîx káx wâñẽ ése, erë tã i tsö, irir bua' tã, i'... se' ujté kiànã i kĩ wéx tso' móxki e'wóqulâũk ése.	Irir bua' ie tã bua' ichóqkle, erë tã kèq i kĩ wéx tso' ẽ' diché tkè wa ẽ'wóqulâũk ése wa.	contradiction
+bzd	E'tökicha sa' dë'rö íyi ése ã, eh, ẽ', sa' dénẽ i tká e' ã tã sa' dör bö'wö wòqtsakéka ù pámĩk tã e'töm awa' wéqrke.	Awa' bakdë i pánũk tö àxs sa' dòqnẽ ù ã.	neutral
+bzd	E'tökicha sa' dë'rö íyi ése ã, eh, ẽ', sa' dénẽ i tká e' ã tã sa' dör bö'wö wòqtsakéka ù pámĩk tã e'töm awa' wéqrke.	Sa' dör sawèq kúxwã ù ã bö'wö wòqìtulùnã e' ukòqki.	contradiction
+bzd	E'tökicha sa' dë'rö íyi ése ã, eh, ẽ', sa' dénẽ i tká e' ã tã sa' dör bö'wö wòqtsakéka ù pámĩk tã e'töm awa' wéqrke.	Mĩk sa' dénẽ ì tká e' ukòqki e' tã, sa' dör awa' kúxwã.	entailment
+bzd	Be' éxn ã ĩàxnã, be' alárpa bíl e' dör bua'ë, bua' ichóqk, tã yö iklòqwẽ tö aû, i wòqulâwèxke alátsitsipa tãíxkpa dör ãñìxes, erë.	I wóqulânã alátsitsipa mãléxpa tãíxkpa tã erë séxjka ye' aléi wòqtkërtã.	entailment
+bzd	Be' éxn ã ĩàxnã, be' alárpa bíl e' dör bua'ë, bua' ichóqk, tã yö iklòqwẽ tö aû, i wòqulâwèxke alátsitsipa tãíxkpa dör ãñìxes, erë.	Ye' tsë'nã bua'ë tö ye' alárpa séxjka wã i ucjchẽn.	neutral
+bzd	Be' éxn ã ĩàxnã, be' alárpa bíl e' dör bua'ë, bua' ichóqk, tã yö iklòqwẽ tö aû, i wòqulâwèxke alátsitsipa tãíxkpa dör ãñìxes, erë.	Ye' chicos wakpa dör móxki tã se' sulúsi.	contradiction
+bzd	Tã ãñìxes e' wa tã pë' tkírwãmĩ kibí ie be' ùsh kũẽkĩ mmm..., tã mmm..., tã i dóqkka e' ì sùxmã e' tso' tsîxnẽt wéx i wòqtkërke móxki ẽ' dör tã ĩẽ'ts dóqkka ẽ' èq.	Ùsh shurú dóqkka e' tso' tsîxnẽt kibí ie wéx i wòqtkërke ẽ' wèxs ùsh ẽ'ts e' wak èq.	entailment
+bzd	Tã ãñìxes e' wa tã pë' tkírwãmĩ kibí ie be' ùsh kũẽkĩ mmm..., tã mmm..., tã i dóqkka e' ì sùxmã e' tso' tsîxnẽt wéx i wòqtkërke móxki ẽ' dör tã ĩẽ'ts dóqkka ẽ' èq.	Pë' kèq káxwöta ùsh shurú kũẽkĩ tkîũnk erë wèxs e' wèirke éxn bua' wa e' tã.	contradiction
+bzd	Tã ãñìxes e' wa tã pë' tkírwãmĩ kibí ie be' ùsh kũẽkĩ mmm..., tã mmm..., tã i dóqkka e' ì sùxmã e' tso' tsîxnẽt wéx i wòqtkërke móxki ẽ' dör tã ĩẽ'ts dóqkka ẽ' èq.	Pë' kíxka ùsh bikeitse kiànã wèxs i shurú wóqsũk ĩẽ'ts tso' yóqnũk.	neutral
+bzd	Éwa ta, ét i ukòq i sulûnã, be' kũẽkĩ i sulûnã, yö ichere.	Kèq be' tkînũk, tóq ét i sulûnã, yö be' kíxmèxke i mĩk i nãwíxtkök.	contradiction
+bzd	Éwa ta, ét i ukòq i sulûnã, be' kũẽkĩ i sulûnã, yö ichere.	Tóq i sulûnã tã be' kĩ i nãwîx dör.	entailment
+bzd	Éwa ta, ét i ukòq i sulûnã, be' kũẽkĩ i sulûnã, yö ichere.	Tóq be' ukòq ét i sulûnã, be' káxwöta e' ujté klòqũk.	neutral
+bzd	Be' éxn ã ĩàxnã... íyi ulìtãnẽ kĩ, i wòqyawóqk e' yawóqk tã íyi ése e' dör ĩàx i ãmèxke bua' ie.	I wòqyóqrke e' yóqrke ulà bét ése wa.	entailment
+bzd	Be' éxn ã ĩàxnã... íyi ulìtãnẽ kĩ, i wòqyawóqk e' yawóqk tã íyi ése e' dör ĩàx i ãmèxke bua' ie.	I wòqyòqnã e' yòqnẽ shkãlâxlâx tã i wër tö kèq i yòqnẽ bua'.	contradiction
+bzd	Be' éxn ã ĩàxnã... íyi ulìtãnẽ kĩ, i wòqyawóqk e' yawóqk tã íyi ése e' dör ĩàx i ãmèxke bua' ie.	Tãîx i kĩ káxwö bakka i wòqyörke e' ẽ'ũkkwa	neutral
+bzd	Tóq, tóq, ye' kãnèx kĩ tã ye' ã káxwö ãméxrke semana bòqt mĩk èrpa e' tã e' ukòqki káx ét i ulát ã dòqka mĩk be' kĩ káxwö détke semana tkéql éjkë.	Káxwö ét e' tãlárke dawás wa tã.	entailment
+bzd	Tóq, tóq, ye' kãnèx kĩ tã ye' ã káxwö ãméxrke semana bòqt mĩk èrpa e' tã e' ukòqki káx ét i ulát ã dòqka mĩk be' kĩ káxwö détke semana tkéql éjkë.	Be' káxwö kèq tkòqpaka káx mãñáxt.	contradiction
+bzd	Tóq, tóq, ye' kãnèx kĩ tã ye' ã káxwö ãméxrke semana bòqt mĩk èrpa e' tã e' ukòqki káx ét i ulát ã dòqka mĩk be' kĩ káxwö détke semana tkéql éjkë.	Be' káxwö éxnõ ie e' talárke kãnèxble ciudad ã tã.	neutral
+bzd	E' ët dör bua' ie kibí ie sèxnõ káx ã, aû kèq be' káxwöta tkînũk yéqs íyi i' kũẽkĩ.	Sèxnẽ káx ã e' dör be' kèmĩ sèxnũk sawânẽ wa shkòqèq wa wèxs íyi i' e's.	contradiction
+bzd	E' ët dör bua' ie kibí ie sèxnõ káx ã, aû kèq be' káxwöta tkînũk yéqs íyi i' kũẽkĩ.	Bua' ie sèxnẽ káx ã e' dör tö aû kèq ì kĩ se' káxwöta tkînũk wèxs íyi i' e's.	entailment
+bzd	E' ët dör bua' ie kibí ie sèxnõ káx ã, aû kèq be' káxwöta tkînũk yéqs íyi i' kũẽkĩ.	I bua' ichóqk e' dör tö káxchka ã tã aû be' kèq káxwöta tkînũk e' kũẽkĩ wèxs bö i yawèrâ ciudad ã e's.	neutral
+bzd	Oh, oh Sibòq, éqwë, e' tsër wèxs shkè ie.	E' sãwèx tã sö wèxs ĩnèx ö élke se' shtiríwẽ éjkë.	neutral
+bzd	Oh, oh Sibòq, éqwë, e' tsër wèxs shkè ie.	E' tsër wèxs shkè tãîx êskapë.	entailment
+bzd	Oh, oh Sibòq, éqwë, e' tsër wèxs shkè ie.	Sö i tsèmĩ tö irir sulû ichóqk.	contradiction
+bzd	I' tã ye' kutà tã' e'köl Alemania.	I' ichóqk tã ye' wã éql tã' e'köl séxrke Alemania.	entailment
+bzd	I' tã ye' kutà tã' e'köl Alemania.	Ye' wã e'köl kutà tã' tso' i' tã Cuba.	contradiction
+bzd	I' tã ye' kutà tã' e'köl Alemania.	Ye' kutà tã' e'köl ujtòqke Alemán.	neutral
+bzd	Ye' wã e'köl alà tã' tsîr ichóqk tã irir darêqrêq tsèxmĩ ẽ' dör tã e' kũẽkĩ, erë tã ye' mĩke ĩã, eh...	E' wa tã ye' alà dòqmĩ ye' wã ẽ' dör.	neutral
+bzd	Ye' wã e'köl alà tã' tsîr ichóqk tã irir darêqrêq tsèxmĩ ẽ' dör tã e' kũẽkĩ, erë tã ye' mĩke ĩã, eh...	E' wa tã irir élke tã daréqsdarës ye' ã ye' alà tsúxkmĩ ẽ' dör.	entailment
+bzd	Ye' wã e'köl alà tã' tsîr ichóqk tã irir darêqrêq tsèxmĩ ẽ' dör tã e' kũẽkĩ, erë tã ye' mĩke ĩã, eh...	I' tã ye' ã i wòqkũrmĩ, ye' alà wã ẽ' tã i tso' shkó ie íxẽ.	contradiction
+bzd	Tóq, be' ã dawás bua'ë.	Ye' kĩ ikiànã tö be' múx éxnẽ dìwö ã sulúsi ë.	contradiction
+bzd	Tóq, be' ã dawás bua'ë.	Móxkitke tã dawás tso'sẽn íxẽ bêqrër tsîr tã.	neutral
+bzd	Tóq, be' ã dawás bua'ë.	Aû, be' kĩ dawás tkö bua'ë.	entailment
+bzd	Aû kèq sö naturalistas e' wa tã kèq eh.	Tã móxki, aû kèq sa' ẽ' chö tö sa' naturalistas.	entailment
+bzd	Aû kèq sö naturalistas e' wa tã kèq eh.	Sö séxjka tã naturalistas tã se' ujtè tséqrke yéqnõ káx bikeitse ikũãki ie!	contradiction
+bzd	Aû kèq sö naturalistas e' wa tã kèq eh.	Se' wòqbatse mĩk alê tã káx ét ã ẽ' dakítkök ẽ' yawo natutaralistas ie, erë tã i' tã aû kèq sö e's.	neutral
+bzd	Tóq, ye' tso' ye' wôqkepa e' bikeitsök wéx ẽ' yòqkelur ñãlàx kĩ latas shtóqk tã eh.	Bóql mãñáxl wakpa dör ẽ' dapâùxmĩ tã irir ùsh iklèmĩ ñãlàx kĩ.	neutral
+bzd	Tóq, ye' tso' ye' wôqkepa e' bikeitsök wéx ẽ' yòqkelur ñãlàx kĩ latas shtóqk tã eh.	Ye' dòqta ye' wôqkepa kíxmũk latas shtóqk ñãlàx kĩ.	entailment
+bzd	Tóq, ye' tso' ye' wôqkepa e' bikeitsök wéx ẽ' yòqkelur ñãlàx kĩ latas shtóqk tã eh.	Sa' dòqta fiesta ã tkòqrö ye' yéq ù ã.	contradiction
+bzd	E' wa tã aû i' kèq dör chìchi kĩ íyi tká ése.	Sö i sãwèx tã, tö aû i' kèq dör be' ã tã èrpa chìchi ie.	entailment
+bzd	E' wa tã aû i' kèq dör chìchi kĩ íyi tká ése.	Yö i tsé, aû kèq ye' éxn ã ĩàxnẽ tö èrpa yö chìchì sãwèxkewã.	contradiction
+bzd	E' wa tã aû i' kèq dör chìchi kĩ íyi tká ése.	Aû kèq i' dör èrpa yö e'töm íyiwak ûru e' wòqkũèxke.	neutral
+bzd	Móxki, móxki, aû kèq ì yulâr daréqwa tã.	Bö ye' ã ichèmĩ káxpake batà ã.	neutral
+bzd	Móxki, móxki, aû kèq ì yulâr daréqwa tã.	Aû kèq be' káxwöta yawóqk séxjka.	entailment
+bzd	Móxki, móxki, aû kèq ì yulâr daréqwa tã.	Be' kĩ i ujté kiànã étkö séxjka.	contradiction
+bzd	Ẽ' aû ẽ' ye' kèq séxrkũ ù e' pámĩk.	Aû kèq ye' séxrkũ campus ẽ.	entailment
+bzd	Ẽ' aû ẽ' ye' kèq séxrkũ ù e' pámĩk.	Ye' séxrke mãnzana ét campus ã tã.	neutral
+bzd	Ẽ' aû ẽ' ye' kèq séxrkũ ù e' pámĩk.	Ye' séxrke campus.	contradiction
+bzd	Yö bêqrë ajkátënã e' kĩ tã e'köl se' dör be' màxso kéqchke tkéqkkul tabéla wa téwã ie ie' kapòqtër wéqm banẽt tã e' kũẽkĩ, ye' éxn ã ichâk tö be' màxso, be' éxn ã ĩàxnã tö ì chóqk se' cho.	E'köl wéqm dör i aláköl téwã e' wâ dör tö ie' kapòqtër wéqm ikũãki tã mĩk iânẽbitũ e' ukòqki i ajkátënẽ kéxwe e' kĩ.	entailment
+bzd	Yö bêqrë ajkátënã e' kĩ tã e'köl se' dör be' màxso kéqchke tkéqkkul tabéla wa téwã ie ie' kapòqtër wéqm banẽt tã e' kũẽkĩ, ye' éxn ã ichâk tö be' màxso, be' éxn ã ĩàxnã tö ì chóqk se' cho.	E'köl wéqm ânẽbitu i kĩ nãwîx méxrka técnico e' kũẽkĩ tã i míxã tã irir i màxso kéqchke kóqtwã.	neutral
+bzd	Yö bêqrë ajkátënã e' kĩ tã e'köl se' dör be' màxso kéqchke tkéqkkul tabéla wa téwã ie ie' kapòqtër wéqm banẽt tã e' kũẽkĩ, ye' éxn ã ichâk tö be' màxso, be' éxn ã ĩàxnã tö ì chóqk se' cho.	I màxsö kéqchke e' dör iklòqõ' tö i wéqm kéqchke e' wòqtöwa kéxkkrâë.	contradiction
+bzd	E' dör wèxs cuenta de ahorros pàtõrke êskapë.	Aû kèq ye' wã ì tã yéqs batsè e' sùx e' wa ãñìxes.	contradiction
+bzd	E' dör wèxs cuenta de ahorros pàtõrke êskapë.	E' dör cuenta de ahorro i wak èq e' sùxë.	entailment
+bzd	E' dör wèxs cuenta de ahorros pàtõrke êskapë.	Ahorros ãmèxnã e' dör êskapë.	neutral
+bzd	Wills Point e' icha irir, kèq ye' éxn ã ĩàxnẽ tö be' wã i ujchẽn.	Aû kèq ye' éxn ã ĩàxnẽ tö yêqsyêqs ë tö be' wã i tséqrule ujtóqk Wills Point e' kĩ.	entailment
+bzd	Wills Point e' icha irir, kèq ye' éxn ã ĩàxnẽ tö be' wã i ujchẽn.	Wills Point ujté tsë' yö.	neutral
+bzd	Wills Point e' icha irir, kèq ye' éxn ã ĩàxnẽ tö be' wã i ujchẽn.	Cambridge e' icha.	contradiction
+bzd	Ye' tso' ichóqk e' dör ye' dìwö sãwõ tã ye' kalòqjkuö tso' séxjka káxkö ã i dénẽ sarûrû dia'ẽ.	Ĩàxnãwã íxski e' èq, e' wa tã ye' kalòqjkuö bak tkë'tẽr mãnêxnêx.	contradiction
+bzd	Ye' tso' ichóqk e' dör ye' dìwö sãwõ tã ye' kalòqjkuö tso' séxjka káxkö ã i dénẽ sarûrû dia'ẽ.	I míxã ulùnẽwa mĩk irir kalòqjkuö pà bakwã e' tã.	neutral
+bzd	Ye' tso' ichóqk e' dör ye' dìwö sãwõ tã ye' kalòqjkuö tso' séxjka káxkö ã i dénẽ sarûrû dia'ẽ.	Ye' kalòqjkuö pàiéqtkër i' wa tã.	entailment
+bzd	I yawè irir wèxs i kãnèx daléqr wa e's, e' wa tã oficial éxn bikö e' dör bua' ie.	Aû kèq ye' wòqbatsẽ ẽ' yawè wa i wóqkir ie.	contradiction
+bzd	I yawè irir wèxs i kãnèx daléqr wa e's, e' wa tã oficial éxn bikö e' dör bua' ie.	Yö iklòqwẽ tö oficial éxn bikö e' dör bua' ichóqk.	entailment
+bzd	I yawè irir wèxs i kãnèx daléqr wa e's, e' wa tã oficial éxn bikö e' dör bua' ie.	Pë' banẽtpa dör i bikeitse tö wèxs oficial éxn bikö e' dör éxn bike bua' ichóqk.	neutral
+bzd	E' wa tã i wër wèxs ingeniosa e's.	Wéqsawa tã i wër bua'ë.	neutral
+bzd	E' wa tã i wër wèxs ingeniosa e's.	Tôtô se' éxn ã íyi i' áxrmĩ.	entailment
+bzd	E' wa tã i wër wèxs ingeniosa e's.	I dióqköl bak sulû ichóqk.	contradiction
+bzd	Yã sa' dör sa' latas bulé ét íyi ã ẽnã tkã' íyi i kũãki ã uyèqjkuö tak íyi ikũãki ã mĩk i wà ièqnãkã tã ièkeka tabèchka ã tã i tsèxmĩ káx ukö kĩ.	Darêqrêq uyèqjkuö tak ië'ka, vidrio ẽnã latas mĩk i sìrlûnã i ulà wa e' tã wéx i tabèchka e' ã.	entailment
+bzd	Yã sa' dör sa' latas bulé ét íyi ã ẽnã tkã' íyi i kũãki ã uyèqjkuö tak íyi ikũãki ã mĩk i wà ièqnãkã tã ièkeka tabèchka ã tã i tsèxmĩ káx ukö kĩ.	I wàiéqrka kéxwe e' dör uyèqjkuö icha, ukòqki latas ukòqki vidrio.	neutral
+bzd	Yã sa' dör sa' latas bulé ét íyi ã ẽnã tkã' íyi i kũãki ã uyèqjkuö tak íyi ikũãki ã mĩk i wà ièqnãkã tã ièkeka tabèchka ã tã i tsèxmĩ káx ukö kĩ.	Sa' kèq dör ì skèkũ yéqs, sa' dör ièkeka séxjka i sku' ã.	contradiction
+bzd	Locust Hill, oh émã, tóq, bua'.	Locuts Hill dör i bua' ie.	neutral
+bzd	Locust Hill, oh émã, tóq, bua'.	Aû, aû Locust Hill.	contradiction
+bzd	Locust Hill, oh émã, tóq, bua'.	Tóq, e' dör yêqsyêqs, Locuts Hill.	entailment
+bzd	Ye' wã be' césped Bermuda e' tã' íxẽ tã i kíxka tãîx di' kiànã tã i tsúxkãt tsîxnẽt be' kĩ ikiànã tö i wër ét Green campo de golf e's sùx.	Césped de Bermuda e' ã tãîx kãnèx tso'.	neutral
+bzd	Ye' wã be' césped Bermuda e' tã' íxẽ tã i kíxka tãîx di' kiànã tã i tsúxkãt tsîxnẽt be' kĩ ikiànã tö i wër ét Green campo de golf e's sùx.	Césped Isla de Bermuda, e' ã i dòqkãmĩ i ajkáchök wèxs campos de golf tsipátsipa e' sùx.	entailment
+bzd	Ye' wã be' césped Bermuda e' tã' íxẽ tã i kíxka tãîx di' kiànã tã i tsúxkãt tsîxnẽt be' kĩ ikiànã tö i wër ét Green campo de golf e's sùx.	Césped de Bermuda e' káxwöta kuóqwẽ wéxjkë alê e' èq.	contradiction
+bzd	Ét níquel dikîxã, ö sö ichö mã ãñìx sùx, centavos dabòp mãñáxt dikîxã botella tèröl kĩ. Sulìtãnẽ tkòqkemĩ káx ajkö ã ãwíxshẽt di' yè tãwèx tôtô ése tãúxk.	Pack ét tèröl dòqka iéjkë tã centavos dabòp mãñáxt e' dikîxã tôtô káx ãwíxshẽt káx ajkòq ã.	entailment
+bzd	Ét níquel dikîxã, ö sö ichö mã ãñìx sùx, centavos dabòp mãñáxt dikîxã botella tèröl kĩ. Sulìtãnẽ tkòqkemĩ káx ajkö ã ãwíxshẽt di' yè tãwèx tôtô ése tãúxk.	Se' kibí ie tkòqkemĩ káx ajkòq ã ãwíxshẽt di' yè tôtô e' klòqũk.	neutral
+bzd	Ét níquel dikîxã, ö sö ichö mã ãñìx sùx, centavos dabòp mãñáxt dikîxã botella tèröl kĩ. Sulìtãnẽ tkòqkemĩ káx ajkö ã ãwíxshẽt di' yè tãwèx tôtô ése tãúxk.	Botellas tãwèx darêqrêq aíshẽt ãwíxshẽt káx ajkòq ã tã.	contradiction
+bzd	Tóq, yö i tsé.	Ie' dör bua' ichóqk diché wa ujtòq tsè yö.	entailment
+bzd	Tóq, yö i tsé.	Aû kèq ã i ujtòq tséqnũk.	contradiction
+bzd	Tóq, yö i tsé.	Yö iklòqwẽ tö i tsé.	neutral
+bzd	Ét bö ì alê tawé, i bua' ie tã ì alê tòxnã, e' pàtãwèx bö kĩ impuesto tã' dòqka por ciento dabòp.	I pàtãũk impuesto por ciento dabòp e' dör tãîx ichóqk.	neutral
+bzd	Ét bö ì alê tawé, i bua' ie tã ì alê tòxnã, e' pàtãwèx bö kĩ impuesto tã' dòqka por ciento dabòp.	Wake' be' káxwöta impuesto kĩ múxkka por ciento dabòp ì tãúxk be' tso' e' kĩ tã mik be' tso' i tãwèx séxjka e' yóqktsã.	entailment
+bzd	Ét bö ì alê tawé, i bua' ie tã ì alê tòxnã, e' pàtãwèx bö kĩ impuesto tã' dòqka por ciento dabòp.	Yéqs be' kèq káxwöta impuesto e' yóqktsã i tãwèx e' yótsã ie.	contradiction
+bzd	E' kèq dör kéxkkrâ erë tã i yawèke auspicio kũẽkĩ.	Aû kèq irir kéxkkrâ.	entailment
+bzd	E' kèq dör kéxkkrâ erë tã i yawèke auspicio kũẽkĩ.	E' dör kéxkkrâ.	contradiction
+bzd	E' kèq dör kéxkkrâ erë tã i yawèke auspicio kũẽkĩ.	E's kèq pë' wër i wa e' sùx.	neutral
+bzd	I' tso' i wã yóqrule yawè, e' wa tã tóq yö i pánẽ êskapë.	Yö i pánẽ tö àxs ie' dör i yawè ì kiànã i kí e' yawö.	entailment
+bzd	I' tso' i wã yóqrule yawè, e' wa tã tóq yö i pánẽ êskapë.	I dòqrâ tãîx ie' ã tö i yawé irir e' wà yòqnã.	neutral
+bzd	I' tso' i wã yóqrule yawè, e' wa tã tóq yö i pánẽ êskapë.	Aû kèq i wã ì tã íyi e' yawó.	contradiction
+bzd	Yêqsyêqs, erë tã ye' tso' ichóqk e' dör íyi ujté tso' páxlĩ móxki e' dör darêqrêq i' tã.	Móxki i yèqnã e' ã tã, i ujté dör ĩâxchiki ẽnã wèinẽbak.	contradiction
+bzd	Yêqsyêqs, erë tã ye' tso' ichóqk e' dör íyi ujté tso' páxlĩ móxki e' dör darêqrêq i' tã.	Émã tã e's irir, erë tã i wòqo déqbitũ káxwö taîx ã yòqnũtsa móxki.	neutral
+bzd	Yêqsyêqs, erë tã ye' tso' ichóqk e' dör íyi ujté tso' páxlĩ móxki e' dör darêqrêq i' tã.	E' wa tã, i pálĩ i ujté i wòqo, îxñẽ tã e' dör darêqrêq ichóqk.	entailment
+bzd	Golly, be' éxn ã ĩàxnã tö ie' kèq wã yéqs i ujté shkòqôxnẽ tã ye' kèq ã i wë'nã tö i wã ye' tsirínẽ, e' wa tã, i yétsãrak irir kalòqñãk wa bét.	Ie' dör séxjka i ujté e' batseulor.	entailment
+bzd	Golly, be' éxn ã ĩàxnã tö ie' kèq wã yéqs i ujté shkòqôxnẽ tã ye' kèq ã i wë'nã tö i wã ye' tsirínẽ, e' wa tã, i yétsãrak irir kalòqñãk wa bét.	Ie' dör séxjka i ujté kòxs e' klòqõ tã erë tã wake' i yèqnẽtsã.	contradiction
+bzd	Golly, be' éxn ã ĩàxnã tö ie' kèq wã yéqs i ujté shkòqôxnẽ tã ye' kèq ã i wë'nã tö i wã ye' tsirínẽ, e' wa tã, i yétsãrak irir kalòqñãk wa bét.	Wâmãmã tãie' káxwöta i ujté e' ñãléx shkòqúxk.	neutral
+bzd	Tóq, kèq i wër se' ulà dòqmĩ i ska, i yèqnã?	Aû kë ye' yö i biké chè tö e' kèq wamblërdâ kukùn tã.	contradiction
+bzd	Tóq, kèq i wër se' ulà dòqmĩ i ska, i yèqnã?	Móxki tö aû kèq i wër tö e' wamblërmĩ.	entailment
+bzd	Tóq, kèq i wër se' ulà dòqmĩ i ska, i yèqnã?	Tóq, kèq ye' wã iklòqnẽ tö e' wamblërmĩ, erë tã wake' i ujté tso' tö wamblërmĩ.	neutral
+bzd	I wër tö bua' ie ö bêqrbër irir e' dör Washington tso' kèq bûr tã Búffalo ẽnã Chicago e' wa tã Chicago e' chéq mãñáxtökicha èq ét e' dör Búffalo tã.	Búffalo wã equipo bua' ie tã séxjka.	neutral
+bzd	I wër tö bua' ie ö bêqrbër irir e' dör Washington tso' kèq bûr tã Búffalo ẽnã Chicago e' wa tã Chicago e' chéq mãñáxtökicha èq ét e' dör Búffalo tã.	E'költë equipo bòqt tã Chicago chéq e'dör Búffalo.	entailment
+bzd	I wër tö bua' ie ö bêqrbër irir e' dör Washington tso' kèq bûr tã Búffalo ẽnã Chicago e' wa tã Chicago e' chéq mãñáxtökicha èq ét e' dör Búffalo tã.	Washington chéq partido séxjka ã.	contradiction
+bzd	Hum, hum, hum, se' wã impuesto tã' datsi' ã.	Datsi' dör bêqr kèq ã impuesto ã tã.	contradiction
+bzd	Hum, hum, hum, se' wã impuesto tã' datsi' ã.	Íyi wàtãwẽ e' impuesto dör káxjkèxë ichóqk.	neutral
+bzd	Hum, hum, hum, se' wã impuesto tã' datsi' ã.	Tropas wakpa wã impuesto tã' i wà tóxrke e' kĩ.	entailment
+bzd	E' shàx ye' wa i wër bua', ye' wòqbatse e' i tkòqke e' wa ãñìxes.	Ye' wòqbatse i tkòqke e' wa.	entailment
+bzd	E' shàx ye' wa i wër bua', ye' wòqbatse e' i tkòqke e' wa ãñìxes.	Aû kèq ye' wòqbatsẽ i diché sulú ie tsóqrke tso' íxẽ e' wa.	contradiction
+bzd	E' shàx ye' wa i wër bua', ye' wòqbatse e' i tkòqke e' wa ãñìxes.	Ye' tsër élkë tã bua' ie íxẽ e' kũẽkĩ ye' wòqbatse i wa.	neutral
+bzd	Mmm, ye' wã alà tã' e'köl wéqm e'köl aláköl ie'pa kĩ dawás tso' dabòp kĩ pàköl.	Ye' wã tãîx alátsitsipa tso'.	contradiction
+bzd	Mmm, ye' wã alà tã' e'köl wéqm e'köl aláköl ie'pa kĩ dawás tso' dabòp kĩ pàköl.	Ye' wã alà tã' aláköl, tàyëla e'köl e' kĩ si' dabòp kĩ pàköl tso'.	entailment
+bzd	Mmm, ye' wã alà tã' e'köl wéqm e'köl aláköl ie'pa kĩ dawás tso' dabòp kĩ pàköl.	Ye' wòqbatse alátsitsi kĩ tã kibí ie ĩã.	neutral
+bzd	Bóqltë wéx tã' be' wã e' dör cachorros i pànẽ e' tã e'töm e' èq dör wë'ñẽ wà kãnéxõ bö tã ĩã i wòqtke tkër e' dör i akà ã.	Ie' aû kèq wã cachorros tã.	contradiction
+bzd	Bóqltë wéx tã' be' wã e' dör cachorros i pànẽ e' tã e'töm e' èq dör wë'ñẽ wà kãnéxõ bö tã ĩã i wòqtke tkër e' dör i akà ã.	I wë'ñe wòqtkër tã' e' dör i akà ã, tã cahorro bóqltë e' bitùxke ùsh ã.	entailment
+bzd	Bóqltë wéx tã' be' wã e' dör cachorros i pànẽ e' tã e'töm e' èq dör wë'ñẽ wà kãnéxõ bö tã ĩã i wòqtke tkër e' dör i akà ã.	I bak i pànẽ ã séxjka dòqka pàköl, i wë'ñe è èq wã wòqtke tã' i akà ã.	neutral
+bzd	Oh èmã e' ì che bö e' dâtsẽ.	Ẽ' dör wéx bö ichàke?	entailment
+bzd	Oh èmã e' ì che bö e' dâtsẽ.	Be' tso' ichàhök ulát káxmîxë.	neutral
+bzd	Oh èmã e' ì che bö e' dâtsẽ.	Aû kèq be' kũ ẽ' dör ichàkök.	contradiction
+bzd	Éxn bua' wa, aû kèq ye' éxn ã ĩàxnẽ, e' wâ dör tö kèq ye' ã káxwö àxnẽ datsi' tsúxkmĩ tãîx ẽ' pàio, iche yêqsyêqs émã.	Aû kèq yö datsi' mãnèxwẽ shkòqèqmẽ.	entailment
+bzd	Éxn bua' wa, aû kèq ye' éxn ã ĩàxnẽ, e' wâ dör tö kèq ye' ã káxwö àxnẽ datsi' tsúxkmĩ tãîx ẽ' pàio, iche yêqsyêqs émã.	Aû kèq ye' wòqbatsö ẽ' pàiök bua'.	neutral
+bzd	Éxn bua' wa, aû kèq ye' éxn ã ĩàxnẽ, e' wâ dör tö kèq ye' ã káxwö àxnẽ datsi' tsúxkmĩ tãîx ẽ' pàio, iche yêqsyêqs émã.	Datsi' ièke yö shkó ie bìt káxwö éjkë.	contradiction
+bzd	Be' dë' museo ã España?	Bö museo europeo wéx alê pàka'?	entailment
+bzd	Be' dë' museo ã España?	Be' dâre museo Canadá wéx alê e' pàkök?	contradiction
+bzd	Be' dë' museo ã España?	Yö ichèmĩ tö be' wòqbatsòqwã ie Europa pàkök.	neutral
+bzd	Ẽ' be' mĩr bua', ì bikeitse bö be' pàio ẽnã ye'?	Be' màxso wòqbatsö be' pàio wa?	entailment
+bzd	Ẽ' be' mĩr bua', ì bikeitse bö be' pàio ẽnã ye'?	Íxmã be' kutà dör be' datsi' bikeitse?	contradiction
+bzd	Ẽ' be' mĩr bua', ì bikeitse bö be' pàio ẽnã ye'?	Be' pàio dör buaála.	neutral
+bzd	Hum, kèq ĩã aluminio yö'tso, aluminio mãlíxtsule e's èq.	I yö'tso tabèchka tãwèx tôtô ése wa.	entailment
+bzd	Hum, kèq ĩã aluminio yö'tso, aluminio mãlíxtsule e's èq.	I yö'tso cobre wòqchka wa.	contradiction
+bzd	Hum, kèq ĩã aluminio yö'tso, aluminio mãlíxtsule e's èq.	I bák i ñãléx skũèx ie.	neutral
+bzd	Tã irir ye' tkîwẽ ĩã.	Ye' bak tsë'nũk élke sawânẽ wa.	neutral
+bzd	Tã irir ye' tkîwẽ ĩã.	Ye' shkòqãr ĩã sawânẽ wa.	entailment
+bzd	Tã irir ye' tkîwẽ ĩã.	Aû kèq i wã ye' tkînẽ.	contradiction
+bzd	Tã íyi bóqltë i sùxmã tã e' wéqrmĩ tö ì pàtãwèxmĩ.	Ãñìxes yö i sãwèxmĩ tö wéx dòqmĩ bua' ĩã.	entailment
+bzd	Tã íyi bóqltë i sùxmã tã e' wéqrmĩ tö ì pàtãwèxmĩ.	Aû kèq ye' wòqki i wèqnẽ tö ì pàtóxrmĩ.	contradiction
+bzd	Tã íyi bóqltë i sùxmã tã e' wéqrmĩ tö ì pàtãwèxmĩ.	Séxjka tã, aû kèq ĩã káxwöta tãîx ichóqk.	neutral
+bzd	Éqwë, ye' éxn ã ĩàxnã, sö i sãwèx tã tóq, erë tã i wéqrmĩ tö aû, yö iche, yö iche.	Aû kèq ye' wã i klòqnẽ yêqsyêqs, erë tã ì sùxmã tã e's irir.	entailment
+bzd	Éqwë, ye' éxn ã ĩàxnã, sö i sãwèx tã tóq, erë tã i wéqrmĩ tö aû, yö iche, yö iche.	Aû kèq ye' éxn ã ĩàxnẽ séxjka e' wa tã yö balo' yéka élke ñãwéxwe.	neutral
+bzd	Éqwë, ye' éxn ã ĩàxnã, sö i sãwèx tã tóq, erë tã i wéqrmĩ tö aû, yö iche, yö iche.	Ye' wóqkir tso' tsë'ka ì wamblèqnã nãñéxwe e' ã.	contradiction
+bzd	Be' aparato TV ẽnã be', yö iklòqwẽ i wéirmĩ bua' ichóqk televisión balèwa kũẽkĩ irir dawòqwã e's.	Bö iklòqwẽ tö tèwã e' dör se' wéike élke darêqrêq àkble kũẽkĩ?	neutral
+bzd	Be' aparato TV ẽnã be', yö iklòqwẽ i wéirmĩ bua' ichóqk televisión balèwa kũẽkĩ irir dawòqwã e's.	Be' i bikeitse tö televisión balèwã kũẽkĩ se' wèirke e' batámĩk dör yêqsyêqs e' dör se' tèwã ie.	entailment
+bzd	Be' aparato TV ẽnã be', yö iklòqwẽ i wéirmĩ bua' ichóqk televisión balèwa kũẽkĩ irir dawòqwã e's.	Bö iklòqwẽ tö i bua' ie àk kũẽkĩ televisión balè kũẽkĩ e' dör éqmẽ ióqkmĩ.	contradiction
+bzd	Dayèq ajkö dör bua'ë tã e' dör yêqsyêqs tö káx e' dör bua' pàke, éwa tã ì sùxmã tã e' dör i káx bua' ie, tã be' icha?	Móxki ye' tséqrũã ie dayèq ajkö mĩk e' wà dör tö irir mãnêxnêx ẽnã bua' i ajkóqnarke.	neutral
+bzd	Dayèq ajkö dör bua'ë tã e' dör yêqsyêqs tö káx e' dör bua' pàke, éwa tã ì sùxmã tã e' dör i káx bua' ie, tã be' icha?	Ét ye' ã káx dör bua' ie pàke e' dör dayèq ajkö, e' dör buaála e' kũẽkĩ, wéx dör be' káx bua' ie pàke?	entailment
+bzd	Dayèq ajkö dör bua'ë tã e' dör yêqsyêqs tö káx e' dör bua' pàke, éwa tã ì sùxmã tã e' dör i káx bua' ie, tã be' icha?	Ye' iche, i bua' ie e' dör ẽ' tsúxkãt káxbata ã.	contradiction
+bzd	Irir i cola ujté pátke i shùxã.	Aû kèq ujté wéxse pátkar yéqs.	contradiction
+bzd	Irir i cola ujté pátke i shùxã.	Bö éxnsir ujté múxka.	neutral
+bzd	Irir i cola ujté pátke i shùxã.	Bö i ujté múxka coca cola ẽ' dör.	entailment
+bzd	Bua', ye' ã káxwö múx tö íxmã be' i bikeitse tö ì sùxmã tã káxwö wéx alê wa tã káx skéxl i páxnãrmĩ pistola ã ö ì wéxse ã káxwöta.	Bö iklòqwẽ tö, se' wéxse alê ã, éxn bua' ie tã irir i pánũk tö káx wòqklòqnẽ káx skéxl?	neutral
+bzd	Bua', ye' ã káxwö múx tö íxmã be' i bikeitse tö ì sùxmã tã káxwö wéx alê wa tã káx skéxl i páxnãrmĩ pistola ã ö ì wéxse ã káxwöta.	Ì kiànã tã múx i wòqklòqnẽ dòqka káx skéxl wéx éqltëpa tso' kíxka armas bö' ie e' tãwèx wa?	entailment
+bzd	Bua', ye' ã káxwö múx tö íxmã be' i bikeitse tö ì sùxmã tã káxwö wéx alê wa tã káx skéxl i páxnãrmĩ pistola ã ö ì wéxse ã káxwöta.	Wèxs be'ã i wèqnã tö be' pánẽrak irir kãñíxka tsîr skéxl ulát éjkë èq i kéxwö ãmèx e' yòqki?	contradiction
+bzd	Buyú! mĩk i wã Cocker Spaniel, i bák chìchi e'töm káxshùxã áie tã yö i bikeitse tö ye' wòqbatse i wa kibí ie, buyú!	Ye' kĩ chìchi kiár bikèqsi i wak òxmĩk kèq dör wéx dör tsë'ka wéx shkâk káxshùxã áie ãñìxë.	contradiction
+bzd	Buyú! mĩk i wã Cocker Spaniel, i bák chìchi e'töm káxshùxã áie tã yö i bikeitse tö ye' wòqbatse i wa kibí ie, buyú!	Ye' wòqbatsö tãîx chìchi ulìtãnẽ wa káxshùxã áie, e' wa tã séxjka irir chicos bua' bua'.	neutral
+bzd	Buyú! mĩk i wã Cocker Spaniel, i bák chìchi e'töm káxshùxã áie tã yö i bikeitse tö ye' wòqbatse i wa kibí ie, buyú!	Yö iklòqwẽ tö ye' kĩ ikiànã chìchi káxshùxã wèxs Cocher Spaniel kĩ ikiándö e's.	entailment
+bzd	Ì sùxmã tã káx kúl tã ie'pa dör se' uyèqjkuö shùx sãwèxke i wéblo bua' ie tö aû kèq bö kèq bûrta ése kalé ö ì kèq tã' be' wã.	I uyèqjkuö i sãwóx ie aû kèq e' yóqnũk bua' ie shkãlâxlâx ë.	neutral
+bzd	Ì sùxmã tã káx kúl tã ie'pa dör se' uyèqjkuö shùx sãwèxke i wéblo bua' ie tö aû kèq bö kèq bûrta ése kalé ö ì kèq tã' be' wã.	I uyèqjkuö i shùx sãwèx e' kĩ si' dòqmĩ ét e' tsáxka.	contradiction
+bzd	Ì sùxmã tã káx kúl tã ie'pa dör se' uyèqjkuö shùx sãwèxke i wéblo bua' ie tö aû kèq bö kèq bûrta ése kalé ö ì kèq tã' be' wã.	Ì sùxmã tã irirdak i shùx sãwèxmĩ dòqka dìwö kúl dâtskenẽ e' wa.	entailment
+bzd	Be' éxn ã ĩàxnã tö ye' wòqbatsö i wa tãîx e' dör shkóqkka ábion ã tã dóqkka ẽ' dör tã káxwö tkòqũk bua'.	E' wa tã wânamã tã bua' ie irir e' dör úxnũk.	neutral
+bzd	Be' éxn ã ĩàxnã tö ye' wòqbatsö i wa tãîx e' dör shkóqkka ábion ã tã dóqkka ẽ' dör tã káxwö tkòqũk bua'.	Ye' tsë'nã shkirîrî ábion ã ẽ' óqkwa tã i tkòqũk bua' mĩk se' démĩ e' tã.	entailment
+bzd	Be' éxn ã ĩàxnã tö ye' wòqbatsö i wa tãîx e' dör shkóqkka ábion ã tã dóqkka ẽ' dör tã káxwö tkòqũk bua'.	Yéq kèq ye' ùxrpa.	contradiction
+bzd	Si' tkámĩ e' wa, tã ye' wã jurados bak tèröl i wóqkir ie. Yö i bikeits tö ie'pa éxn ã ĩàxnã tö wake' irir wéqpa dabòp kĩ bóql yóqrule tã, icho ie ujtè ikũãki wa, kèq se' wòqie.	Ye' ẽ' kĩtë'ka erë jurados wake' wakpa dòqka dör se' dabòp kĩ bóql.	entailment
+bzd	Si' tkámĩ e' wa, tã ye' wã jurados bak tèröl i wóqkir ie. Yö i bikeits tö ie'pa éxn ã ĩàxnã tö wake' irir wéqpa dabòp kĩ bóql yóqrule tã, icho ie ujtè ikũãki wa, kèq se' wòqie.	Jurados wake' wakpa dör se' dòqka 13 éjkë.	contradiction
+bzd	Si' tkámĩ e' wa, tã ye' wã jurados bak tèröl i wóqkir ie. Yö i bikeits tö ie'pa éxn ã ĩàxnã tö wake' irir wéqpa dabòp kĩ bóql yóqrule tã, icho ie ujtè ikũãki wa, kèq se' wòqie.	I yóqrmĩ jurados ie séxjka bíl se' kiànã éjkë.	neutral
+bzd	CEO séxjka instituciones financieros se' wéx wòqbatse i wa, e' wa tã ie' kĩ ikiànã ẽ' tsóxãt i wéxbalök tö ì wamblërke instituciones financieras tã.	Ie' kèq tkînẽ ì kĩ yéqs cooperativas de ahorro ẽnã crédito kĩ.	contradiction
+bzd	CEO séxjka instituciones financieros se' wéx wòqbatse i wa, e' wa tã ie' kĩ ikiànã ẽ' tsóxãt i wéxbalök tö ì wamblërke instituciones financieras tã.	Ie' kĩ cooperativas de créditos e' ujté kiànã.	entailment
+bzd	CEO séxjka instituciones financieros se' wéx wòqbatse i wa, e' wa tã ie' kĩ ikiànã ẽ' tsóxãt i wéxbalök tö ì wamblërke instituciones financieras tã.	Ie' kíxka i ujté kiànã tsîxnẽt tö wèxs cooperativa de crédito e' ẽ' alòqke ĩnúxköl wa.	neutral
+bzd	Ye' éxn ã ĩàxnã tö sulìtãnẽ tso' wòqtkërke ẽnã i beitsök, tö pë' wã tãîx wòqtke tso' tã aû kèq ẽ' tsèqũk ichóqk tã se' wã i ujchẽn tö i dòqtsãrâ bua'.	Aû kèq ye' wã se' sùxnẽ ĩã wéx éxtköwã i wòqtkërke e' chóqk.	contradiction
+bzd	Ye' éxn ã ĩàxnã tö sulìtãnẽ tso' wòqtkërke ẽnã i beitsök, tö pë' wã tãîx wòqtke tso' tã aû kèq ẽ' tsèqũk ichóqk tã se' wã i ujchẽn tö i dòqtsãrâ bua'.	I yèqnã, se' ujtòqmĩ bêqrbër èq i' wã wòqtke tso' e' chóqk.	neutral
+bzd	Ye' éxn ã ĩàxnã tö sulìtãnẽ tso' wòqtkërke ẽnã i beitsök, tö pë' wã tãîx wòqtke tso' tã aû kèq ẽ' tsèqũk ichóqk tã se' wã i ujchẽn tö i dòqtsãrâ bua'.	Pë' wéqsawa kèq éxtkòqwa tã yéqs tã irir se' wòqtkërke ẽnã ì kiànã se' kĩ ése e' chóqk.	entailment
+bzd	Brian Plano, Texas ã, ìs be' shkèxnã îxñẽ?	Ìs be' shkèxnã María?	contradiction
+bzd	Brian Plano, Texas ã, ìs be' shkèxnã îxñẽ?	Ìs be' dìwö mĩn'?	entailment
+bzd	Brian Plano, Texas ã, ìs be' shkèxnã îxñẽ?	Plano, Texas, e' dör káx kèq klör êskapë.	neutral
+bzd	E' kũẽkĩ tã, mmm..., bua, aû kèq i wã dâtsẽ kibí ie bua' ie e' dör àxnãbitu.	Se' àxnãbitũ e' èq bitùxmĩ se' wã ie' ã.	entailment
+bzd	E' kũẽkĩ tã, mmm..., bua, aû kèq i wã dâtsẽ kibí ie bua' ie e' dör àxnãbitu.	Irir bêqr e' èq tã aû kèq irir se' wòqtkepa.	contradiction
+bzd	E' kũẽkĩ tã, mmm..., bua, aû kèq i wã dâtsẽ kibí ie bua' ie e' dör àxnãbitu.	Se' wéx alê wòqbatsö ĩẽ' òqkebitũ tsakèke irir e' wa.	neutral
+bzd	Tóq, e' yawè yö e' wòqshàx ë îxñẽ, ye' wã ĩ mìxnẽ ét Darkman, i súxrule be' wã be' kèq wã i súxrule, yö i bikeitse tö îxñẽ nãñéxwe yö i sãwèxrâ.	Ye' wã Darkman súxruletke dòqka 4 éjkë ulát.	contradiction
+bzd	Tóq, e' yawè yö e' wòqshàx ë îxñẽ, ye' wã ĩ mìxnẽ ét Darkman, i súxrule be' wã be' kèq wã i súxrule, yö i bikeitse tö îxñẽ nãñéxwe yö i sãwèxrâ.	I' ichóqk káxm yö aû Darkman e' súx, e' kũẽkĩ îxñẽ nãñéxwe ye' mĩke i sãúxk.	entailment
+bzd	Tóq, e' yawè yö e' wòqshàx ë îxñẽ, ye' wã ĩ mìxnẽ ét Darkman, i súxrule be' wã be' kèq wã i súxrule, yö i bikeitse tö îxñẽ nãñéxwe yö i sãwèxrâ.	Yö i tsë' tö Darkman bakdë película bua'.	neutral
