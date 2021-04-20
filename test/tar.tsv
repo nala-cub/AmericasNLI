@@ -1,3 +1,4 @@
+language	premise	hypothesis	label
 tar	Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.	Tási ne uchecho yua ra’ícha échi rejói.	contradiction
 tar	Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.	We ne yoa iníli, analí ariká ne yua ku ra’íchaki.	entailment
 tar	Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.	A ta wilibé ra’íchaki.	neutral

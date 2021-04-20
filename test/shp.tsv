@@ -1,3 +1,4 @@
+language	premise	hypothesis	label
 shp	Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.	Eara jabe yoyo iribiama iki.	contradiction
 shp	Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.	Kikini sinatara ea ike jakopira ea jabe yoyo iki peoko ribake.	entailment
 shp	Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.	Kikin jaonira noa yoyo ike.	neutral

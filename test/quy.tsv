@@ -1,3 +1,4 @@
+language	premise	hypothesis	label
 quy	Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.	Manam paywanqa kaqllamantaqa rimarqanichu.	contradiction
 quy	Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.	Paqway piñasqam karqani chayraykum kaqllamanta paywan rimarqani.	entailment
 quy	Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.	Allintam rimarurqaniku.	neutral

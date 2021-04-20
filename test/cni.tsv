@@ -1,3 +1,4 @@
+language	premise	hypothesis	label
 cni	Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.	Tee noñatajeriji.	contradiction
 cni	Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.	Ikisanaka iroosati noñaatanatantajari.	entailment
 cni	Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.	Nokenketsajeitake.	neutral

@@ -1,3 +1,4 @@
+language	premise	hypothesis	label
 aym	Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.	Janiw mayamp jupampix parlxapxti.	contradiction
 aym	Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.	Wali phiñasitaskayätwa, ukhamipan mayamp jupamp aruskipañ qallanta.	entailment
 aym	Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.	Wali kusa aruskipäwipuninaw jupampixa.	neutral
